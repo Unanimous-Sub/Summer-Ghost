@@ -18,9 +18,9 @@ Video File: E:/Summer.Ghost.2021.1080p.BluRay.Hybrid.Remux.FLAC5.1.H.264-Vanilla
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 461
-Active Line: 464
-Video Position: 43946
+Scroll Position: 418
+Active Line: 421
+Video Position: 38793
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -29,529 +29,534 @@ Style: UNNM_Overlap_1080p,rainei Gandhi Sans,80,&H00FFFFFF,&H000000FF,&H00743E15
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 100,0:00:34.77,0:00:36.10,UNNM_Main_1080p,Aoi,0,0,0,,{Đã lâu rồi nhỉ. - It's been a while, hasn't it?}Cũng lâu rồi...
-Dialogue: 100,0:00:37.06,0:00:38.69,UNNM_Main_1080p,Aoi,0,0,0,,{Hẹn gặp kiểu ba người như thế này ấy. - Since we've all been together.}cả ba mới hẹn gặp như vầy ha.
-Dialogue: 100,0:00:38.98,0:00:40.10,UNNM_Main_1080p,Tomoya,0,0,0,,{Cũng phải. - It really has.}Ừm.
-Dialogue: 100,0:00:41.02,0:00:42.06,UNNM_Main_1080p,Tomoya,0,0,0,,{Xin lỗi vì tôi đến muộn. - Sorry we couldn't do this sooner.}Xin lỗi vì tới giờ mới hẹn gặp được.
-Dialogue: 100,0:00:42.31,0:00:43.48,UNNM_Main_1080p,Ryou,0,0,0,,{Đừng để ý làm gì. - Don't worry about it.}Có gì đâu mà xin lỗi.
-Dialogue: 100,0:00:44.19,0:00:45.86,UNNM_Main_1080p,Ryou,0,0,0,,{Được gặp hai người thôi tôi cũng thấy vui rồi. - I'm just glad we can see each other at all.}Được gặp là đã vui lắm rồi.
-Dialogue: 100,0:00:49.36,0:00:52.37,UNNM_Main_1080p,Tomoya,0,0,0,,{Mùa hè, lại đến rồi nhỉ. - So, summer's come again, huh?}Lại tới mùa hè rồi ha?
-Dialogue: 100,0:00:56.91,0:00:58.71,UNNM_Main_1080p,Ryou,0,0,0,,{Đã một năm trôi qua rồi hả. - A year's come and gone, huh?}Vậy là qua một năm rồi à.
-Dialogue: 100,0:01:01.59,0:01:02.71,UNNM_Main_1080p,Tomoya,0,0,0,,Chị Ayane.{Ayane.}
-Dialogue: 100,0:01:20.10,0:01:21.19,UNNM_Main_1080p,Tomoya,0,0,0,,Bạn là Aoi phải không?{Are you Aoi?}
-Dialogue: 100,0:01:21.19,0:01:23.23,UNNM_Main_1080p,Aoi,0,0,0,,{Vâng. - Ah, yeah.}A, ừm.
-Dialogue: 100,0:01:23.23,0:01:26.40,UNNM_Main_1080p,Tomoya,0,0,0,,{Lần đầu gặp mặt, tôi là Sugisaki Tomoya. - Cool. I'm Sugisaki Tomoya.}Chào bạn nha. Mình là Sugisaki Tomoya.
-Dialogue: 100,0:01:26.86,0:01:27.73,UNNM_Main_1080p,Tomoya,0,0,0,,{Hân hạnh được làm quen. - Nice to meet you.}Hân hạnh làm quen.
-Dialogue: 100,0:01:28.53,0:01:29.65,UNNM_Main_1080p,Ryou,0,0,0,,Rốp rẻng vậy.{You guys are eager.}
-Dialogue: 100,0:01:31.07,0:01:32.45,UNNM_Main_1080p,Ryou,0,0,0,,{Vẫn còn 5 phút nữa đó. - Even I've got five minutes.}5 phút nữa mới tới giờ mà.
-Dialogue: 100,0:01:33.95,0:01:34.99,UNNM_Main_1080p,Ryou,0,0,0,,Tui là Ryou.{I'm Ryou.}
-Dialogue: 100,0:01:35.45,0:01:36.41,UNNM_Main_1080p,Ryou,0,0,0,,Hân hạnh được làm quen.{Nice to meet you two.}
-Dialogue: 100,0:01:36.41,0:01:37.54,UNNM_Main_1080p,Aoi,0,0,0,,{Rất hân hạnh. - You, too.}Ừm, chào bạn nha.
-Dialogue: 100,0:01:37.54,0:01:39.91,UNNM_Main_1080p,Tomoya,0,0,0,,Coi bộ đông đủ rồi.{Okay. Looks like we're all here.}
-Dialogue: 100,0:01:41.62,0:01:43.13,UNNM_Main_1080p,Tomoya,0,0,0,,{Vậy thì, bắt đầu thôi nào. - Shall we get started?}Bắt tay vào việc thôi.
-Dialogue: 100,0:01:47.17,0:01:48.30,UNNM_Main_1080p,Tomoya,0,0,0,,Đầu tiên bàn bạc cái đã.{First, let's lay everything out.}
-Dialogue: 100,0:01:48.67,0:01:52.51,UNNM_Main_1080p,Tomoya,0,0,0,,{Lý do chúng ta tập trung ở đây là để đi tìm hồn ma. - We all came here today to find a ghost.}Bữa nay ba đứa tới đây là để tìm một hồn ma.
-Dialogue: 100,0:01:52.76,0:01:54.09,UNNM_Main_1080p,Tomoya,0,0,0,,{Tên thường gọi là "Summer Ghost". - The Summer Ghost, to be exact.}Phải gọi là Bóng Ma Mùa Hạ mới đúng.
-Dialogue: 100,0:01:54.55,0:01:55.72,UNNM_Main_1080p,Tomoya,0,0,0,,Từ khoảng mấy năm trước,{For the past couple years,}
-Dialogue: 100,0:01:56.35,0:01:58.10,UNNM_Main_1080p,Tomoya,0,0,0,,{chỉ đúng chỗ này vào mùa hè\Nmới có người chứng kiến. - it's been spotted around here every summer.}người ta hay thấy nó loanh quanh khu này.
-Dialogue: 100,0:01:58.60,0:02:00.68,UNNM_Main_1080p,Ryou,0,0,0,,{Có lời đồn nếu đốt pháo hoa thì nó sẽ ra đó. - I hear you've gotta have fireworks.}Nghe đồn đốt pháo hoa là nó chui ra á.
-Dialogue: 100,0:02:01.10,0:02:01.98,UNNM_Main_1080p,Aoi,0,0,0,,Pháo hoa?{Fireworks?}
-Dialogue: 100,0:02:01.98,0:02:04.56,UNNM_Main_1080p,Ryou,0,0,0,,{[/q2]Ừ, những người mà thấy tất cả đều đốt cả. - Yeah. Apparently everyone \Nwho's seen it was playing with 'em.}Ừ. Hình như người nào thấy đều có đốt hết.
-Dialogue: 100,0:02:06.27,0:02:07.90,UNNM_Main_1080p,Tomoya,0,0,0,,Ngoại hình là một cô gái trên dưới 20 tuổi.{It's supposedly a woman \Nin her early twenties.}
-Dialogue: 100,0:02:09.15,0:02:11.70,UNNM_Main_1080p,Tomoya,0,0,0,,Tóc dài, mặc quần áo đen.{She's got long hair and black clothes.}
-Dialogue: 100,0:02:12.61,0:02:15.53,UNNM_Main_1080p,Tomoya,0,0,0,,{\q2}Nếu mà cần minh hoạ thì chắc sẽ giống vầy.{If I had to draw her, \Nshe'd probably look something like this.}
-Dialogue: 100,0:02:15.91,0:02:16.95,UNNM_Main_1080p,Aoi,0,0,0,,{Giỏi vậy. - You're so good.}Vẽ đẹp vậy.
-Dialogue: 100,0:02:18.49,0:02:20.12,UNNM_Main_1080p,Ryou,0,0,0,,Người đẹp như thế này á hả?{A pretty lady like her, huh?}
-Dialogue: 100,0:02:21.96,0:02:23.67,UNNM_Main_1080p,Tomoya,0,0,0,,{Nếu theo lời đồn thì hồn ma này, - If the rumors are true, then this ghost}Nếu người ta đồn đúng, thì đây là hồn ma
-Dialogue: 100,0:02:25.54,0:02:27.42,UNNM_Main_1080p,Tomoya,0,0,0,,{là hồn ma của người đã tự sát. - is the ghost of someone \Nwho committed suicide.}của người đã tự vẫn.
-Dialogue: 100,0:02:32.38,0:02:33.18,UNNM_Main_1080p,Tomoya,0,0,0,,Sao vậy?{What's wrong?}
-Dialogue: 100,0:02:33.18,0:02:34.80,UNNM_Main_1080p,Aoi,0,0,0,,H-Hổng có gì.{O-Oh, it's nothing.}
-Dialogue: 100,0:02:35.43,0:02:39.26,UNNM_Main_1080p,Aoi,0,0,0,,{[/q2]bình tĩnh lại rồi thì tôi thấy hơi sợ ma một chút. - Just, now that it's had time to sink in, \NI've realized I'm kinda scared of ghosts.}Chẳng qua là giờ suy nghĩ thấu đáo rồi\Nmới nhớ ra mình hơi sợ ma.
-Dialogue: 100,0:02:39.26,0:02:41.06,UNNM_Main_1080p,Ryou,0,0,0,,{Mãi đến giờ á? - This late in the game?Giờ mới nhớ hả? - OG}Đi tới đây rồi mới nhớ hả?
-Dialogue: 100,0:02:42.14,0:02:43.89,UNNM_Main_1080p,Ryou,0,0,0,,{Mà, quay đầu về cũng được. - I mean, whatever, you don't have to come.}Thôi, sợ thì cứ về đi.
-Dialogue: 100,0:02:43.89,0:02:44.52,UNNM_Main_1080p,Ryou,0,0,0,,Thằng này vẫn đi.{I know I'm going.}
-Dialogue: 100,0:02:44.52,0:02:48.27,UNNM_Main_1080p,Aoi,0,0,0,,{Xin lỗi xin lỗi, tôi cũng sẽ đi mà. - Sorry! I'm just being silly! I'm coming, too!}Xin lỗi mà! Coi như chưa nói gì đi! \NĐể mình đi chung nữa!
-Dialogue: 100,0:02:48.27,0:02:50.82,UNNM_Main_1080p,Aoi,0,0,0,,{Nói là sợ nhưng cũng chỉ có tẹo thôi mà. - Sure, I'm scared, but it's just a little bit.}Có sợ thiệt, nhưng mà sợ chút xíu à.
-Dialogue: 100,0:02:50.82,0:02:55.45,UNNM_Main_1080p,Aoi,0,0,0,,{[/q2]Vậy thì xem nào, tại sao Tomoya\Nlại muốn đi gặp hồn ma hả? - Oh, actually, why do you want \Nto see this ghost, Tomoya?}Mà cho hỏi cái nha, sao Tomoya \Nlại muốn gặp hồn ma này dạ?
-Dialogue: 100,0:02:55.45,0:02:58.24,UNNM_Main_1080p,Aoi,0,0,0,,{\q2[/q2]Người đã gửi thư cho chúng tôi\Nlà Tomoya phải không? - I mean, you were the one \Nwho reached out to us about this.}Tại bạn là người liên lạc với tụi mình mà phải hông nè?
-Dialogue: 100,0:02:59.99,0:03:00.70,UNNM_Main_1080p,Tomoya,0,0,0,,{Bí mật. - Who knows?}Không nói đâu.
-Dialogue: 100,0:03:00.95,0:03:03.29,UNNM_Main_1080p,Aoi,0,0,0,,{Ủa, tại sao? - Come on! What's that about?}Ủa? Kỳ cục vậy!
-Dialogue: 100,0:03:03.79,0:03:04.46,UNNM_Main_1080p,Ryou,0,0,0,,Lạnh lùng ghê.{Ouch, dude.}
-Dialogue: 100,0:03:09.29,0:03:10.75,UNNM_Main_1080p,Teacher,0,0,0,,Sugisaki.{Sugisaki.}
-Dialogue: 100,0:03:11.63,0:03:15.26,UNNM_Main_1080p,Teacher,0,0,0,,A, A, A, A, A...
-Dialogue: 100,0:03:16.05,0:03:17.68,UNNM_Main_1080p,Teacher,0,0,0,,Không có gì để chê.{Looking good.}
-Dialogue: 100,0:03:17.68,0:03:20.22,UNNM_Main_1080p,Teacher,0,0,0,,{Em vẫn như mọi khi nhỉ. - You never fail to impress me.}Vẫn giỏi như mọi ngày.
-Dialogue: 100,0:03:20.22,0:03:22.51,UNNM_Main_1080p,Teacher,0,0,0,,{Thấy cũng muốn mấy đứa khác học hỏi theo lắm. - I wish the other students \Nwould learn from you.}Phải chi mấy đứa khác\Nlấy em làm gương thì thầy mừng quá.
-Dialogue: 100,0:03:22.94,0:03:24.22,UNNM_Main_1080p,Tomoya,0,0,0,,{Cảm ơn thầy rất nhiều. - Thank you.}Cảm ơn thầy đã khen.
-Dialogue: 100,0:03:25.64,0:03:26.98,UNNM_Main_1080p,Teacher,0,0,0,,Sugisaki.{Sugisaki.}
-Dialogue: 100,0:03:26.98,0:03:27.75,UNNM_Main_1080p,Tomoya,0,0,0,,{Vâng. - Yes, sir?}Dạ?
-Dialogue: 100,0:03:30.65,0:03:31.69,UNNM_Main_1080p,Teacher,0,0,0,,{Thầy kỳ vọng vào em. - You're gonna go far.}Tương lai xán lạn đó.
-Dialogue: 100,0:03:54.97,0:03:55.42,UNNM_Main_1080p,Ryou,0,0,0,,Tomoya.{Tomoya.}
-Dialogue: 100,0:03:57.93,0:03:59.51,UNNM_Main_1080p,Ryou,0,0,0,,{Có chuyện gì sao mà khuôn mặt như vậy. - What are you spacing out for?}Bị gì mà đứng đực ra vậy?
-Dialogue: 100,0:04:00.68,0:04:01.51,UNNM_Main_1080p,Ryou,0,0,0,,{Đến rồi đó. - We're here.}Tới rồi.
-Dialogue: 100,0:04:13.90,0:04:14.99,UNNM_Main_1080p,Aoi,0,0,0,,{Rộng ghê. - Look at all this space!}Rộng quá trời quá đất!
-Dialogue: 100,0:04:14.99,0:04:17.07,UNNM_Main_1080p,Tomoya,0,0,0,,Ngày xưa đây là sân bay đấy.{This used to be an airport.}
-Dialogue: 100,0:04:17.07,0:04:19.07,UNNM_Main_1080p,Tomoya,0,0,0,,Hình như làm ăn không thuận lợi nên mới đóng cửa.{I heard it closed down \Nbecause it wasn't profitable.}
-Dialogue: 100,0:04:19.07,0:04:21.74,UNNM_Main_1080p,Ryou,0,0,0,,{Này. Mau làm nhanh đê. - Guys! Let's get started already.}Hai người kia! Khẩn trương lên.
-Dialogue: 100,0:04:28.21,0:04:31.34,UNNM_Main_1080p,Aoi,0,0,0,,{Thực sự là có không nhỉ, Summer Ghost ấy. - You think this Summer Ghost really exists?}Rồi hổng biết Bóng Ma Mùa Hạ có thiệt hông.
-Dialogue: 100,0:04:32.09,0:04:33.30,UNNM_Main_1080p,Tomoya,0,0,0,,{Tôi cũng không biết. - Who knows?}Bó tay.
-Dialogue: 100,0:04:33.30,0:04:36.30,UNNM_Main_1080p,Tomoya,0,0,0,,{\q2}Nhưng mà người ta nói pháo hoa \Ncó thể trấn an linh hồn người chết á.{They do say that fireworks are meant \Nto calm the souls of the dead.}
-Dialogue: 100,0:04:38.88,0:04:40.68,UNNM_Main_1080p,Ryou,0,0,0,,Họ mà cảm nhận được thì tốt quá.{I hope they see them, then.}
-Dialogue: 100,0:04:48.77,0:04:50.10,UNNM_Main_1080p,Ryou,0,0,0,,{Không đến rồi. - Looks like it's a no-show.}Công cốc rồi.
-Dialogue: 100,0:04:50.65,0:04:52.61,UNNM_Main_1080p,Aoi,0,0,0,,{Chúng ta cũng đốt khá nhiều rồi mà. - And we burned through so many, too.}Ừm, đốt quá trời mà hông thấy gì.
-Dialogue: 100,0:04:52.94,0:04:54.90,UNNM_Main_1080p,Ryou,0,0,0,,{Vậy thì, đây là que cuối rồi. - Okay. Last one.}Thôi đốt cho hết. Que cuối rồi.
-Dialogue: 100,0:04:54.90,0:04:55.78,UNNM_Main_1080p,Ryou,0,0,0,,Aoi.{Could you, Aoi?}
-Dialogue: 100,0:05:04.66,0:05:08.91,UNNM_Main_1080p,Ryou,0,0,0,,{[/q2]Tomoya. Tôi, thực ra tin có hồn ma đó. - You know, Tomoya, I actually \Nbelieved we'd get to see it.}Thực lòng mà nói, tôi tin là có ma đó, Tomoya.
-Dialogue: 100,0:05:10.08,0:05:11.50,UNNM_Main_1080p,Ryou,0,0,0,,{Thật đáng tiếc vì không có. - I'm kinda sad it didn't show up.Cơ mà hơi buồn vì vẫn chưa thấy. - OG}Nay chưa thấy nên cũng hơi buồn.
-Dialogue: 100,0:05:12.08,0:05:14.67,UNNM_Main_1080p,Ryou,0,0,0,,{Nhưng, dạo gần đây là vui nhất đó. - Still, though, I haven't \Nhad this much fun in a while.}Có điều dạo gần đây tôi vui lắm luôn.
-Dialogue: 100,0:05:15.67,0:05:17.01,UNNM_Main_1080p,Ryou,0,0,0,,{Thật mừng vì đã gặp được hai người. - I'm glad I got to meet you guys.}Có duyên gặp được hai người, mừng lắm.
-Dialogue: 100,0:05:17.97,0:05:18.80,UNNM_Main_1080p,Ryou,0,0,0,,{Cảm ơn nhé. - Seriously, thank you.}Cảm ơn nha.
-Dialogue: 100,0:05:29.48,0:05:31.02,UNNM_Main_1080p,Ryou,0,0,0,,Nóng!{Damn, that's hot!}
-Dialogue: 100,0:05:31.02,0:05:32.15,UNNM_Main_1080p,Aoi,0,0,0,,{Cái gì vậy? - What was that?}Bị cái gì dạ?
-Dialogue: 100,0:05:32.15,0:05:33.44,UNNM_Main_1080p,Aoi,0,0,0,,{Nghĩa là sao? - Why's it going crazy?Hổng hiểu sao tự dưng nó cháy hỗn luôn. - OG}Tự dưng nó phực lên một cái.
-Dialogue: 100,0:05:34.69,0:05:35.52,UNNM_Main_1080p,Tomoya,0,0,0,,{Đến rồi. - She's real.}Xuất hiện rồi.
-Dialogue: 100,0:05:44.49,0:05:46.08,UNNM_Main_1080p,Tomoya,0,0,0,,Chị là Bóng Ma Mùa Hạ phải không?{Are you the Summer Ghost?}
-Dialogue: 100,0:05:47.20,0:05:48.08,UNNM_Main_1080p,Ayane,0,0,0,,{Phải đó. - Indeed.}Phải.
-Dialogue: 100,0:05:49.37,0:05:50.79,UNNM_Main_1080p,Ayane,0,0,0,,{Rốt cuộc là có chuyện gì? - To what do I owe the pleasure?Mấy người kiếm tôi có việc gì? - OG}Mấy người kiếm tôi có việc gì?
-Dialogue: 100,0:05:51.79,0:05:53.21,UNNM_Main_1080p,Ayane,0,0,0,,{Loại người như tôi, - What could you possibly want}Muốn gì mà
-Dialogue: 100,0:05:54.17,0:05:55.84,UNNM_Main_1080p,Ayane,0,0,0,,{một người đã chết, - from someone who's already dead?}lại kiếm một người đã chết?
-Dialogue: 100,0:06:22.95,0:06:24.07,UNNM_Main_1080p,A,0,0,0,,{\an8}Trúng phóc!{Direct hit!}
-Dialogue: 100,0:06:22.95,0:06:24.87,UNNM_Overlap_1080p,B,0,0,0,,{\an8}Thằng này căn chuẩn phết chứ chả đùa.{Your timing's on point, dude.}
-Dialogue: 100,0:06:24.07,0:06:24.87,UNNM_Main_1080p,C,0,0,0,,{\an8}Ghê!{Nice one.}
-Dialogue: 100,0:06:32.12,0:06:33.87,UNNM_Main_1080p,A,0,0,0,,Làm cái đéo gì vậy con nhỏ này?!{The hell are you doing?!}
-Dialogue: 100,0:06:33.87,0:06:34.96,UNNM_Main_1080p,A,0,0,0,,{Đừng có mà giỡn! - Don't be stupid!}Đéo vui đâu!
-Dialogue: 100,0:06:34.96,0:06:36.42,UNNM_Main_1080p,A,0,0,0,,Bớt cựa quậy rồi đi xuống giùm!{Quit struggling and get down here!}
-Dialogue: 100,0:06:34.96,0:06:36.42,UNNM_Overlap_1080p,Aoi,0,0,0,,Thả tui ra!{Let go of me!}
-Dialogue: 100,0:06:36.92,0:06:40.26,UNNM_Main_1080p,D,0,0,0,,{\q2}Lâu ngày mới thấy đến trường mà lại đâu vào đó hả?{She finally decides to come to school, \Nand we're back to this already?}
-Dialogue: 100,0:06:40.26,0:06:44.05,UNNM_Main_1080p,E,0,0,0,check,Cái kiểu suy nghĩ như vậy, \Nchắc là con bé nó có vấn đề rồi.{If you ask me, the problem's with her.}
-Dialogue: 100,0:06:51.22,0:06:55.19,UNNM_Main_1080p,Aoi,0,0,0,,{Hồn ma cũng có tầng cấp không ạ? - Do ghosts gang up on each other, too?}Hồn ma có lập bè lập phái\Nđể bắt nạt người khác hông chị?
-Dialogue: 100,0:06:56.27,0:06:57.90,UNNM_Main_1080p,Ayane,0,0,0,,{Nào, ai biết được. - Hmm, I'm not sure.}Chịu. Đoán xem.
-Dialogue: 100,0:06:58.40,0:07:00.40,UNNM_Main_1080p,Ayane,0,0,0,,{Cơ bản thì chỉ có mình tôi thôi. - We might be all on our own, actually.}Có khi là thân ai nấy sống thôi.
-Dialogue: 100,0:07:02.65,0:07:04.28,UNNM_Main_1080p,Aoi,0,0,0,,{Thật mừng quá. - Good.}Vậy thì hay quá.
-Dialogue: 100,0:07:04.28,0:07:05.99,UNNM_Main_1080p,Aoi,0,0,0,,{Vậy bên kia thoải mái hơn. - I prefer it that way.}Em thích như vậy hơn nhiều.
-Dialogue: 100,0:07:05.99,0:07:09.62,UNNM_Main_1080p,Ayane,0,0,0,,{Mà, có người thì chắc gì đã tốt. - I get it. Being around people isn't all smiles.}Ừm. Đâu phải cứ ở cạnh người khác\N là toàn niềm vui đâu.
-Dialogue: 100,0:07:11.83,0:07:12.62,UNNM_Main_1080p,Ryou,0,0,0,,Sao vậy?{What's wrong?}
-Dialogue: 100,0:07:13.08,0:07:16.46,UNNM_Main_1080p,Tomoya,0,0,0,,Không có gì. Tại để ý thấy pháo hoa cứ cháy suốt.{Nothing. Just noticed \Nthat the sparkler's still going.}
-Dialogue: 100,0:07:16.46,0:07:19.17,UNNM_Main_1080p,Ryou,0,0,0,,{Thấy khó chịu thật. - You're right. Kinda creepy.}Ừa. Ghê ghê kiểu gì á.
-Dialogue: 100,0:07:20.75,0:07:24.55,UNNM_Main_1080p,Ayane,0,0,0,,{Này, em cô đơn ở trong lớp à? - Tell me. Are you an outcast at school?}Em gái bị cô lập trong lớp hả?
-Dialogue: 100,0:07:24.55,0:07:26.51,UNNM_Main_1080p,Ayane,0,0,0,,{Vì thế nên muốn chết đi phải không? - Is that why you want to die?}Nên mới muốn chết chứ gì?
-Dialogue: 100,0:07:27.72,0:07:30.56,UNNM_Main_1080p,Ayane,0,0,0,,{Tôi không phải ai cũng thấy đâu. - Thing is, not everyone can see me.}Nói cho mà biết, không phải ai cũng thấy tôi đâu.
-Dialogue: 100,0:07:30.56,0:07:32.43,UNNM_Main_1080p,Ayane,0,0,0,,{Tôi chỉ thấy được những người - I'm visible only to thoseNgười nào thấy được chị - OG}Người nào mà thấy được tôi
-Dialogue: 100,0:07:32.43,0:07:34.98,UNNM_Main_1080p,Ayane,0,0,0,,{đang sắp sửa chạm vào cái chết mà thôi. - who are within arm's reach of death.}thì sắp gần đất xa trời rồi.
-Dialogue: 100,0:07:36.56,0:07:39.64,UNNM_Main_1080p,Aoi,0,0,0,,Vậy Tomoya với Ryou cũng...{So Tomoya and Ryou also...}
-Dialogue: 100,0:07:43.36,0:07:45.07,UNNM_Main_1080p,Ayane,0,0,0,,Hai người kia thì sao?{What about you two?}
-Dialogue: 100,0:07:45.57,0:07:46.61,UNNM_Main_1080p,Ayane,0,0,0,,Hỏi gì không?{Any questions?}
-Dialogue: 100,0:07:47.86,0:07:49.20,UNNM_Main_1080p,Tomoya,0,0,0,,À thì, chị Bóng Ma Mùa Hạ...{So Summer Ghost, you're—}
-Dialogue: 100,0:07:49.20,0:07:50.45,UNNM_Main_1080p,Ayane,0,0,0,,Satou Ayane.{Satou Ayane.}
-Dialogue: 100,0:07:53.12,0:07:54.71,UNNM_Main_1080p,Ayane,0,0,0,,Tên của tôi đó.{I have a name.}
-Dialogue: 100,0:07:55.83,0:07:58.13,UNNM_Main_1080p,Tomoya,0,0,0,,Chị Ayane là hồn ma phải không?{So Ayane, you're a ghost, right?}
-Dialogue: 100,0:07:58.13,0:07:59.96,UNNM_Main_1080p,Tomoya,0,0,0,,{Chết đi mọi người đều vậy sao? - Does everyone become one after they die?}Ai chết cũng thành ma à?
-Dialogue: 100,0:08:00.34,0:08:01.42,UNNM_Main_1080p,Ayane,0,0,0,,Chịu.{Dunno.}
-Dialogue: 100,0:08:02.13,0:08:03.71,UNNM_Main_1080p,Ayane,0,0,0,,{Câu muốn hỏi gì? - What do you want to know?}Muốn biết gì mà hỏi câu đó?
-Dialogue: 100,0:08:04.01,0:08:07.34,UNNM_Main_1080p,Tomoya,0,0,0,,{Tôi muốn biết ma nhìn thấy thế giới với đôi mắt nào. - How do ghosts perceive this world?}Em muốn biết ma nhìn thấy thế giới này ra sao.
-Dialogue: 100,0:08:07.84,0:08:09.05,UNNM_Main_1080p,Tomoya,0,0,0,,{Tôi muốn biết. - I'm curious.}Mong chị trả lời.
-Dialogue: 100,0:08:11.05,0:08:12.18,UNNM_Main_1080p,Ayane,0,0,0,,{Đó là điều không thể. - I wish I could tell you.}Khó cho tôi rồi.
-Dialogue: 100,0:08:13.22,0:08:15.23,UNNM_Main_1080p,Ayane,0,0,0,,{Vì không phải cứ giải thích là hiểu được đâu. - It's not something so easily explained.}Vì không phải nói là hiểu được liền.
-Dialogue: 100,0:08:16.48,0:08:19.27,UNNM_Main_1080p,Ayane,0,0,0,,{[/q2]Việc của ma thì chỉ có ma mới hiểu. - Some things you can only understand \Nafter you become a ghost.Muốn hiểu chuyện của ma thì chỉ có nước làm ma. - OG}Chỉ có làm ma thì mới hiểu chuyện của ma.
-Dialogue: 100,0:08:20.19,0:08:21.86,UNNM_Main_1080p,Ayane,0,0,0,,{Tôi sắp phải đi rồi. - It's about time I get going.}Sắp sửa tới giờ đi rồi.
-Dialogue: 100,0:08:22.44,0:08:23.94,UNNM_Main_1080p,Ayane,0,0,0,,{Được nói chuyện với mấy người tôi vui lắm. - It's been fun talking with you.}Nói chuyện với mấy người vui lắm.
-Dialogue: 100,0:08:25.03,0:08:25.78,UNNM_Main_1080p,Ayane,0,0,0,,{Thôi nhé. - See you.}Chào nha.
-Dialogue: 100,0:08:27.20,0:08:28.49,UNNM_Main_1080p,Ayane,0,0,0,,Trăm ngàn oán hận.{Boo.}
-Dialogue: 100,0:08:31.07,0:08:33.12,UNNM_Main_1080p,Aoi,0,0,0,,T-Trăm ngàn oán hận{B-Boo.}
-Dialogue: 100,0:08:35.08,0:08:38.29,UNNM_Main_1080p,Ryou,0,0,0,,Không ngờ là ma có thiệt đó.{So ghosts really do exist, huh?}
-Dialogue: 100,0:08:43.71,0:08:44.67,UNNM_Main_1080p,Doctor,0,0,0,,Xong rồi.{That'll be all for today.}
-Dialogue: 100,0:08:45.26,0:08:47.26,UNNM_Main_1080p,Doctor,0,0,0,,Có gì không ổn thì phải liên lạc ngay.{If something happens, \Ncontact me immediately.}
-Dialogue: 100,0:08:47.59,0:08:48.80,UNNM_Main_1080p,Ryou,0,0,0,,Em hiểu rồi.{I will.}
-Dialogue: 100,0:08:49.26,0:08:50.76,UNNM_Main_1080p,Doctor,0,0,0,,Phụ huynh em đâu?{Your parents not here today?}
-Dialogue: 100,0:08:50.76,0:08:52.43,UNNM_Main_1080p,Ryou,0,0,0,,{Họ ở nhà. - I had them stay at home.}Em dặn họ ở nhà rồi.
-Dialogue: 100,0:08:52.80,0:08:54.97,UNNM_Main_1080p,Ryou,0,0,0,,{Để họ khóc ở bệnh viện thì phiền lắm. - No sense bringing them here just to cry.}Cho họ đi theo rồi khóc lóc ở bệnh viện \Nthì không hay cho lắm.
-Dialogue: 100,0:09:01.73,0:09:03.23,UNNM_Main_1080p,Ryou,0,0,0,,{Có cố gắng đấy. - You're working hard, huh?}Chăm dữ bây?
-Dialogue: 100,0:09:03.94,0:09:05.07,UNNM_Main_1080p,Kouhai,0,0,0,,Ủa anh?!{Kobayashi!}
-Dialogue: 100,0:09:05.07,0:09:06.11,UNNM_Main_1080p,Ryou,0,0,0,,Lâu rồi không gặp.{Been a while.}
-Dialogue: 100,0:09:08.70,0:09:11.53,UNNM_Main_1080p,Kouhai,0,0,0,,{Tiền bối, sao anh lại bỏ bóng vậy ạ? - Hey, why did you quit playing?}Cho em hỏi, sao anh nghỉ chơi bóng rổ vậy?
-Dialogue: 100,0:09:12.99,0:09:13.95,UNNM_Main_1080p,Ryou,0,0,0,,Thích bỏ thôi.{Kinda felt like it.}
-Dialogue: 100,0:09:14.20,0:09:15.99,UNNM_Main_1080p,Kouhai,0,0,0,,Thích bỏ á...{You... felt like it?}
-Dialogue: 100,0:09:17.04,0:09:19.16,UNNM_Main_1080p,Ryou,0,0,0,,Anh mày sắp chết rồi.{I'm gonna die soon.}
-Dialogue: 100,0:09:19.16,0:09:19.62,UNNM_Main_1080p,Kouhai,0,0,0,,{Hể? - What?}Hả?
-Dialogue: 100,0:09:21.67,0:09:23.38,UNNM_Main_1080p,Ryou,0,0,0,,{Chỉ còn được 9 tháng nữa. - They're saying I've got nine months left.}Chỉ sống được thêm 9 tháng thôi.
-Dialogue: 100,0:09:23.96,0:09:25.80,UNNM_Main_1080p,Ryou,0,0,0,,{Không nhìn được hoa anh đào năm sau nữa rồi. - I'll never see the cherry blossoms again.}Khỏi ngắm hoa anh đào năm sau luôn.
-Dialogue: 100,0:09:30.01,0:09:31.26,UNNM_Main_1080p,Ryou,0,0,0,,{Đùa thôi. - Just kidding.}Giỡn tí.
-Dialogue: 100,0:09:32.34,0:09:33.35,UNNM_Main_1080p,Ryou,0,0,0,,{Nghĩ thật à? - What, you bought it?}Mày tưởng thiệt à?
-Dialogue: 100,0:09:36.77,0:09:39.35,UNNM_Main_1080p,Kouhai,0,0,0,,{Trời, dừng lại đi. - Oh, come on. Don't scare me like that.}Cái anh này. Đừng có nói chuyện không hên chứ.
-Dialogue: 100,0:09:39.35,0:09:41.06,UNNM_Main_1080p,Kouhai,0,0,0,,Làm người ta tin sái cổ.{You almost had me worried there.}
-Dialogue: 100,0:10:00.66,0:10:01.25,UNNM_Main_1080p,Tomoya's Mom,0,0,0,,Tomoya.{Tomoya.}
-Dialogue: 100,0:10:02.00,0:10:03.08,UNNM_Main_1080p,Tomoya's Mom,0,0,0,,{Đến đây một chút đi. - I need to talk to you.}Ra đây nói chuyện xíu.
-Dialogue: 100,0:10:04.71,0:10:05.71,UNNM_Main_1080p,Tomoya's Mom,0,0,0,,Tomoya,{Tomoya,}
-Dialogue: 100,0:10:05.71,0:10:07.38,UNNM_Main_1080p,Tomoya's Mom,0,0,0,,{con nghe thấy phải không? - I know you can hear me.}con nghe mẹ kêu đúng không?
-Dialogue: 100,0:10:07.38,0:10:08.21,UNNM_Main_1080p,Tomoya,0,0,0,,{Vâng. - Coming.}Dạ.
-Dialogue: 100,0:10:09.80,0:10:13.22,UNNM_Main_1080p,Tomoya's Mom,0,0,0,check,{[/q2]Nhìn kết quả từ kỳ thi thử\Ncủa học kỳ một của con đi. - These are your acceptance odds based on \Nyour first trimester mock exams.}Mẹ mới coi qua điểm thi thử kỳ một của con.
-Dialogue: 100,0:10:13.22,0:10:15.14,UNNM_Main_1080p,Tomoya's Mom,0,0,0,check,Điểm toán thì suýt sao.{Your math scores are passable, if barely.}
-Dialogue: 100,0:10:15.60,0:10:17.76,UNNM_Main_1080p,Tomoya's Mom,0,0,0,check,{\q2}Vấn đề là bài thi viết trong văn hiện đại.{Your contemporary literature \Nones need work, though.}
-Dialogue: 100,0:10:18.27,0:10:20.06,UNNM_Main_1080p,Tomoya's Mom,0,0,0,check,{Không phải viết ra suy nghĩ của bản thân. - You can't just write your own thoughts.}Không phải cứ nghĩ sao viết vậy.
-Dialogue: 100,0:10:20.06,0:10:21.73,UNNM_Main_1080p,Tomoya's Mom,0,0,0,check,{Mà viết ra câu trả lời phù hợp với bài thi. - You have to follow the rubric.}Phải trả lời đúng cấu trúc mới có điểm.
-Dialogue: 100,0:10:22.60,0:10:24.40,UNNM_Main_1080p,Tomoya's Mom,0,0,0,,{Thực ra là con hiểu mà. - I know you understand that.}Con biết thừa mà đúng không?
-Dialogue: 100,0:10:25.02,0:10:26.90,UNNM_Main_1080p,Tomoya's Mom,0,0,0,,{Sao chỉ có phần này là không làm được hả? - Why is it just this one thing?}Có vậy mà cũng không làm được là sao?
-Dialogue: 100,0:10:36.55,0:10:38.79,UNNM_Main_1080p,Aoi,0,0,0,,Chủ nhật mà cũng đi luyện thi à?{Huh, you go to cram school even on Sundays?}
-Dialogue: 100,0:10:39.08,0:10:41.25,UNNM_Main_1080p,Tomoya,0,0,0,,{Ừ, vì tôi là thí sinh thi tuyển mà. - Yeah, since I finish high school this year.}Ừ, tại năm nay mình thi tốt nghiệp mà.
-Dialogue: 100,0:10:41.96,0:10:44.54,UNNM_Main_1080p,Aoi,0,0,0,,{Hể, tôi là năm sau cơ. - Huh? I've still got a year to go after this.}Ủa? Mình năm sau mới thi lận.
-Dialogue: 100,0:10:44.54,0:10:45.67,UNNM_Main_1080p,Aoi,0,0,0,,{Tomoya là tiền bối à. - You're older than me, Tomoya?}Vậy Tomoya lớn tuổi hơn hả?
-Dialogue: 100,0:10:45.67,0:10:48.46,UNNM_Main_1080p,Ryou,0,0,0,,Ủa? Aoi mới lớp 11 à?{Really? You're only a junior, then?}
-Dialogue: 100,0:10:48.46,0:10:50.66,UNNM_Main_1080p,Aoi,0,0,0,,{Cả Ryou... nữa à? - What, you're older, too?}Ryou cũng hơn tuổi mình luôn?
-Dialogue: 100,0:10:51.72,0:10:53.43,UNNM_Main_1080p,Ryou,0,0,0,,{Coi cùng tuổi được rồi. - Yeah, but it doesn't matter. We're friends.}Thoải mái đi. Tuổi tác quan trọng gì.
-Dialogue: 100,0:11:16.49,0:11:17.53,UNNM_Main_1080p,Aoi/Ryou,0,0,0,,{\pos(306,1020)}A lô.{Hello?}
-Dialogue: 100,0:11:16.49,0:11:17.53,UNNM_Main_1080p,Aoi/Ryou,0,0,0,,{\pos(1614,1020)}A lô.{Hello?}
-Dialogue: 100,0:11:17.53,0:11:19.66,UNNM_Main_1080p,Tomoya,0,0,0,,Sao vậy, Aoi?{What's wrong, Aoi?}
-Dialogue: 100,0:11:19.66,0:11:20.79,UNNM_Main_1080p,Tomoya,0,0,0,,Có chuyện gì hả?{Did something happen?}
-Dialogue: 100,0:11:20.79,0:11:23.87,UNNM_Main_1080p,Aoi,0,0,0,,Cũng hông có gì.{No. Not really.}
-Dialogue: 100,0:11:23.87,0:11:25.37,UNNM_Main_1080p,Aoi,0,0,0,,Chuyện là...{It's just...}
-Dialogue: 100,0:11:25.37,0:11:27.92,UNNM_Main_1080p,Aoi,0,0,0,,{đến bây giờ tôi vẫn chưa tin nổi. - I still can't believe what we saw.}Tới giờ em cũng hông tin nổi cái mà tụi mình thấy.
-Dialogue: 100,0:11:27.92,0:11:31.05,UNNM_Main_1080p,Ryou,0,0,0,,Thôi, đừng suy nghĩ nhiều quá làm gì.{Don't let it get to you.}
-Dialogue: 100,0:11:31.59,0:11:33.55,UNNM_Main_1080p,Ryou,0,0,0,,{Đứa nào mà không sợ mới lạ. - It'd be weird if you weren't spooked.}Đứa nào không sợ mới lạ đó.
-Dialogue: 100,0:11:36.09,0:11:36.93,UNNM_Main_1080p,Ryou,0,0,0,,Tomoya?{Tomoya?}
-Dialogue: 100,0:11:37.47,0:11:38.55,UNNM_Main_1080p,Tomoya,0,0,0,,Xin lỗi.{I'm sorry.}
-Dialogue: 100,0:11:38.55,0:11:40.60,UNNM_Main_1080p,Tomoya,0,0,0,,Sắp tới nhà rồi nên cúp máy đây.{I'm almost home, so I'm gonna hang up.}
-Dialogue: 100,0:11:40.60,0:11:42.39,UNNM_Main_1080p,Tomoya,0,0,0,,Chỉ vậy thôi.{Glad it wasn't anything serious.}
-Dialogue: 100,0:11:42.39,0:11:43.35,UNNM_Main_1080p,Tomoya,0,0,0,,Bai.{See ya.}
-Dialogue: 100,0:11:49.44,0:11:51.61,UNNM_Main_1080p,Ayane,0,0,0,,Chào. Lại gặp nhau rồi.{Heya. Fancy seeing you again.}
-Dialogue: 100,0:11:52.65,0:11:56.20,UNNM_Main_1080p,Ayane,0,0,0,check,{[/q2]Vẻ mặt đó, lần trước thôi chưa đủ sao. - Something tells me you \Nweren't satisfied by our last meeting.}Nhìn bản mặt đó tức là lần gặp trước\N chưa đủ làm cậu vừa bụng đúng không?
-Dialogue: 100,0:11:56.70,0:11:57.95,UNNM_Main_1080p,Tomoya,0,0,0,check,{Một chút thôi. - Not entirely.}Cũng không hẳn.
-Dialogue: 100,0:12:00.33,0:12:01.58,UNNM_Main_1080p,Ayane,0,0,0,check,{Tham lam vậy. - You just want it all, don't you?}
-Dialogue: 100,0:12:04.83,0:12:07.79,UNNM_Main_1080p,Ayane,0,0,0,,{Này, tại sao Tomoya lại sống? - I'm curious. Why are you alive?}Cho hỏi cái. Sao cậu lại sống vậy?
-Dialogue: 100,0:12:09.00,0:12:11.50,UNNM_Main_1080p,Tomoya,0,0,0,,{Chị thấy em đang sống sao? - Do I look alive to you?Trong mắt chị thì em đang sống hả? - OG}Nhìn em giống đang sống lắm hả?
-Dialogue: 100,0:12:11.75,0:12:12.75,UNNM_Main_1080p,Ayane,0,0,0,,{Ở một mức nào đó. - I'd say so.}Ừm, ít nhiều là có.
-Dialogue: 100,0:12:14.17,0:12:17.55,UNNM_Main_1080p,Tomoya,0,0,0,,Em thì không thấy mình đang sống chút nào.{I don't really feel alive, to be honest.}
-Dialogue: 100,0:12:18.51,0:12:23.06,UNNM_Main_1080p,Tomoya,0,0,0,,{Bản thân có đang sống hay không\Nnhiều lúc cũng chả biết nữa. - I sometimes wonder \Nwhether I'm not already dead.}Nhiều khi cũng tự hỏi là mình đang sống hay chết rồi.
-Dialogue: 100,0:12:24.43,0:12:26.85,UNNM_Main_1080p,Ayane,0,0,0,,{Trái tim của Tomoya đang chết. - It's because you're dead inside.}Tại con tim cậu đã chết rồi đó.
-Dialogue: 100,0:12:27.35,0:12:28.19,UNNM_Main_1080p,Ayane,0,0,0,,{Hại sức khỏe đó. - That's not good for you.}Không tốt lành gì đâu.
-Dialogue: 100,0:12:28.65,0:12:30.31,UNNM_Main_1080p,Tomoya,0,0,0,,{Em không muốn bị một con ma nói như vậy. - Don't wanna hear that from a ghost.}Em không muốn nghe ma nói câu đó tí nào.
-Dialogue: 100,0:12:30.86,0:12:33.11,UNNM_Main_1080p,Ayane,0,0,0,,Vậy rốt cuộc thì cậu muốn sao?{So, what are you going to do about it?}
-Dialogue: 100,0:12:35.74,0:12:36.90,UNNM_Main_1080p,Tomoya,0,0,0,,Em không biết.{I don't know.}
-Dialogue: 100,0:12:38.36,0:12:40.16,UNNM_Main_1080p,Tomoya,0,0,0,,{Vậy nên em muốn biết. - That's what I was hoping to find out.}Nên em mới muốn tìm hiểu.
-Dialogue: 100,0:12:41.24,0:12:46.54,UNNM_Main_1080p,Tomoya,0,0,0,,{\q2}Thành ma rồi thì những phiền muộn\Nvà đau khổ có mất đi không.{Would all my worries, all my suffering, \Nsimply disappear if I became a ghost?}
-Dialogue: 100,0:12:47.21,0:12:51.63,UNNM_Main_1080p,Tomoya,0,0,0,,{\q2}Nếu biết được thì một cái gì đó sẽ thay đổi cũng nên.{I kind of figured something \Nmight change if I learned that.}
-Dialogue: 100,0:12:53.38,0:12:54.42,UNNM_Main_1080p,Ayane,0,0,0,,Hiểu rồi.{I see.}
-Dialogue: 100,0:12:56.26,0:12:57.67,UNNM_Main_1080p,Ayane,0,0,0,,{Muốn thử không? - There's only one way to find out.}Vậy muốn thử cho biết không?
-Dialogue: 100,0:13:01.30,0:13:03.76,UNNM_Main_1080p,Ayane,0,0,0,,Đổi gió chút đi.{Let's get you out of your shell.{WE'RE KEEPING THIS LINE YOU'RE NOT CONVINCING ME OTHERWISENN: Fiiiiiiiiiiiiiiine. You don't have to fight me too hard to keep groaners.}
-Dialogue: 100,0:13:04.10,0:13:05.68,UNNM_Main_1080p,Ayane,0,0,0,,{Bay cùng tôi nào. - Don't you want to fly?}Bay thử xem sao hen?
-Dialogue: 100,0:13:17.07,0:13:17.99,UNNM_Main_1080p,Ayane,0,0,0,,Đi thôi!{Let's go!}
-Dialogue: 100,0:13:18.90,0:13:21.78,UNNM_Main_1080p,Ayane,0,0,0,,Sẵn sàng chưa? Nhớ nắm cho chặt không là rơi đó!{You ready? Make sure to hold on tight!}
-Dialogue: 100,0:13:34.21,0:13:35.38,UNNM_Main_1080p,Ayane,0,0,0,,Thế nào?{How is it?}
-Dialogue: 100,0:13:35.38,0:13:38.80,UNNM_Main_1080p,Ayane,0,0,0,,Cơ thể ngồi dưới mặt đất, \Nnhưng hồn bay lượn trời cao!{Your body's on the ground. \NBut your soul's flying!}
-Dialogue: 100,0:13:38.80,0:13:40.18,UNNM_Main_1080p,Ayane,0,0,0,,{Cậu đã tự do rồi đó. - You've been freed!}Giờ cậu tự do rồi đó!
-Dialogue: 100,0:13:43.51,0:13:44.97,UNNM_Main_1080p,Tomoya,0,0,0,,{Tuyệt thật. - Awesome.}Đã ghê.
-Dialogue: 100,0:13:47.56,0:13:48.98,UNNM_Main_1080p,Tomoya,0,0,0,,K-Khoan!{W-Wait!}
-Dialogue: 100,0:14:12.12,0:14:13.50,UNNM_Main_1080p,Tomoya,0,0,0,,{\i1}Chui xuống lòng đất rồi.{I'm inside the ground?}
-Dialogue: 100,0:14:15.42,0:14:16.84,UNNM_Main_1080p,Ayane,0,0,0,,{Thứ lỗi thứ lỗi. - Sorry. I couldn't resist.}Xin lỗi nha.
-Dialogue: 100,0:14:16.84,0:14:20.05,UNNM_Main_1080p,Ayane,0,0,0,,{Tôi muốn thấy Tomoya hú hồn một chút. - I wanted to see how you'd react.}Tại tôi muốn thấy cậu hú hồn một phen á mà.
-Dialogue: 100,0:14:20.38,0:14:22.09,UNNM_Main_1080p,Tomoya,0,0,0,,{Chị... có bị ngốc không? - Th-That's just mean.}C-Chị có bị hâm không?
-Dialogue: 100,0:14:22.34,0:14:23.84,UNNM_Main_1080p,Ayane,0,0,0,,{Xin lỗi mà. - I said I'm sorry.}Xin lỗi rồi mà.
-Dialogue: 100,0:14:24.34,0:14:27.47,UNNM_Main_1080p,Ayane,0,0,0,,{Tôi sẽ dạy cậu cách bay nên hãy tha lỗi đi. - I'll teach you how to fly. \NWill that make up for it?}Để tôi dạy cậu cách bay. Coi như hoà nha?
-Dialogue: 100,0:14:29.64,0:14:30.81,UNNM_Main_1080p,Ayane,0,0,0,,{Ở nơi sâu thẳm... - Look deep inside you.}Nhìn vào con tim mình.
-Dialogue: 100,0:14:31.43,0:14:34.48,UNNM_Main_1080p,Ayane,0,0,0,,{hãy ước trong đáy lòng. - Find the deepest wish in your heart.}Đâu là mơ ước sâu thẳm nhất của cậu?
-Dialogue: 100,0:14:35.90,0:14:38.23,UNNM_Main_1080p,Ayane,0,0,0,,{Linh hồn sẽ hướng đến nơi cậu muốn. - Your soul moves where you wish to be.}Để cho linh hồn mình đi theo mơ ước đó.
-Dialogue: 100,0:14:39.07,0:14:41.36,UNNM_Main_1080p,Ayane,0,0,0,,Suy nghĩ đi.{Think about it.}
-Dialogue: 100,0:14:42.28,0:14:44.11,UNNM_Main_1080p,Ayane,0,0,0,,Cậu muốn đi đâu?{Where do you want to go?}
-Dialogue: 100,0:14:54.29,0:14:56.21,UNNM_Main_1080p,Ayane,0,0,0,,Cậu thích tranh phải không?{You like paintings, don't you?}
-Dialogue: 100,0:14:56.21,0:14:59.88,UNNM_Main_1080p,Tomoya,0,0,0,,{Vâng, nhưng em đã bỏ rồi. - I do. I quit making them myself, though.}Dạ đúng. Nhưng mà dừng vẽ rồi.
-Dialogue: 100,0:14:59.88,0:15:02.13,UNNM_Main_1080p,Tomoya,0,0,0,,{Vì có điều quan trọng hơn phải làm. - There's more important things in life, after all.}Vì đời còn nhiều cái quan trọng hơn mà.
-Dialogue: 100,0:15:02.97,0:15:04.76,UNNM_Main_1080p,Ayane,0,0,0,,Hèn gì mà cậu rụt rè quá.{So that's why you seem so dissociated.}
-Dialogue: 100,0:15:05.55,0:15:06.97,UNNM_Main_1080p,Ayane,0,0,0,,{Phí quá. - It's such a waste.}Phí quá à.
-Dialogue: 100,0:15:06.97,0:15:08.81,UNNM_Main_1080p,Ayane,0,0,0,,Mất công đặt chỗ cho rồi.{You're just throwing away this opportunity.}
-Dialogue: 100,0:15:09.22,0:15:11.35,UNNM_Main_1080p,Ayane,0,0,0,,{Bây giờ Tomoya là hồn ma... - You're a ghost right now.}Cậu giờ đang là hồn ma
-Dialogue: 100,0:15:11.35,0:15:12.81,UNNM_Main_1080p,Ayane,0,0,0,,{nên sẽ không có ai giận đâu. - No one can get mad at you, you know.}nên yên tâm đi, không ai bực cậu đâu.
-Dialogue: 100,0:15:40.30,0:15:42.80,UNNM_Main_1080p,Ayane,0,0,0,,{Đẹp thật đấy, ánh sáng của đường phố. - Beautiful, huh? All the city lights.}Ánh đèn của đường phố dòm đẹp ghê hen?
-Dialogue: 100,0:15:43.55,0:15:44.63,UNNM_Main_1080p,Tomoya,0,0,0,,{Đúng vậy. - You're right.}Ừm.
-Dialogue: 100,0:15:46.38,0:15:49.60,UNNM_Main_1080p,Tomoya,0,0,0,,{Mà, thực ra thì sẽ sáng hơn đó. - Though it could be brighter, I guess.}Lẽ ra nó còn sáng hơn cơ.
-Dialogue: 100,0:15:49.60,0:15:51.31,UNNM_Main_1080p,Tomoya,0,0,0,,{Vì đèn lúc nào cũng nhấp nháy mà. - Since all the lights aren't on at once.}Tại nó nhấp nháy chứ đâu có sáng cùng lúc.
-Dialogue: 100,0:15:51.31,0:15:54.56,UNNM_Main_1080p,Ayane,0,0,0,,{[/q2]Này, nói vậy thì gái không theo đâu. - Come on, you're not going to \Nwin over any girls like that.}Cái cậu này, cứ vậy thì gái không theo đâu.
-Dialogue: 100,0:15:54.56,0:15:56.14,UNNM_Main_1080p,Ayane,0,0,0,,{Cứ ngoan ngoãn mà biết ơn đi. - Just say thank you like a normal person.}Nói câu cảm ơn đâu có chết ai.
-Dialogue: 100,0:15:56.64,0:15:57.85,UNNM_Main_1080p,Tomoya,0,0,0,,{Em xin lỗi. - My bad.}Lỗi em.
-Dialogue: 100,0:16:00.32,0:16:03.07,UNNM_Main_1080p,Tomoya,0,0,0,,Cho em hỏi cái này được không?{Hey, may I ask you something?}
-Dialogue: 100,0:16:03.53,0:16:04.15,UNNM_Main_1080p,Ayane,0,0,0,,Cứ tự nhiên.{Go ahead.}
-Dialogue: 100,0:16:05.41,0:16:08.62,UNNM_Main_1080p,Tomoya,0,0,0,,Tại sao chị Ayane lại tự sát vậy?{Why did you commit suicide?}
-Dialogue: 100,0:16:11.03,0:16:12.24,UNNM_Main_1080p,Ayane,0,0,0,,Tomoya.{Tomoya.}
-Dialogue: 100,0:16:14.20,0:16:15.83,UNNM_Main_1080p,Ayane,0,0,0,,{Cậu đang hiểu lầm đấy. - You've got it wrong.}Cậu hiểu sai rồi.
-Dialogue: 100,0:16:16.71,0:16:18.08,UNNM_Main_1080p,Ayane,0,0,0,,Tôi không có tự sát.{I didn't commit suicide.}
-Dialogue: 100,0:16:19.88,0:16:20.92,UNNM_Main_1080p,Ayane,0,0,0,,Muốn biết không?{Are you curious?}
-Dialogue: 100,0:16:22.50,0:16:24.05,UNNM_Main_1080p,Ayane,0,0,0,,{Vậy tôi sẽ nói cho cậu. - I'll tell you my story, then.}Vậy để tôi kể cho nghe.
-Dialogue: 100,0:16:25.38,0:16:26.34,UNNM_Main_1080p,Ayane,0,0,0,,{Tôi ấy... - The truth is...}Chuyện là...
-Dialogue: 100,0:16:28.22,0:16:29.39,UNNM_Main_1080p,Ayane,0,0,0,,{bị sát hại. - I was killed.}Tôi bị sát hại.
-Dialogue: 100,0:16:32.93,0:16:34.02,UNNM_Main_1080p,Tomoya,0,0,0,,{Nơi này là... - Where are we?}Đâu đây?
-Dialogue: 100,0:16:34.02,0:16:35.27,UNNM_Main_1080p,Ayane,0,0,0,,Nhà tôi.{This is my house.}
-Dialogue: 100,0:16:35.64,0:16:38.10,UNNM_Main_1080p,Ayane,0,0,0,,Giờ chỉ còn mẹ sống đơn thân thôi.{My mom lives here on her own now.}
-Dialogue: 100,0:16:42.27,0:16:45.65,UNNM_Main_1080p,Ayane,0,0,0,,{3 năm trước, tôi đã cãi nhau với mẹ. - Three years ago, we got into a nasty fight.}Ba năm trước, tôi cự cãi với mẹ mình.
-Dialogue: 100,0:16:46.44,0:16:50.16,UNNM_Main_1080p,Ayane,0,0,0,,{\q2}Nguyên nhân chỉ là mấy thứ tào lao không đáng để tâm.{Over something so incredibly stupid, too.}
-Dialogue: 100,0:16:50.57,0:16:54.24,UNNM_Main_1080p,Ayane,0,0,0,,{Giữa cơn bão tôi đã lao ra khỏi nhà. - I dashed out of the house \Ninto a horrible typhoon.}Sau đó tôi lao ra khỏi nhà giữa trời giông bão.
-Dialogue: 100,0:16:56.45,0:16:58.50,UNNM_Main_1080p,Ayane,0,0,0,,{Và thế là khi đi qua đường, - And while I was crossing the street,}Rồi khi đang băng qua đường,
-Dialogue: 100,0:16:58.50,0:17:01.58,UNNM_Main_1080p,Ayane,0,0,0,,{tôi đã bị một xe ô tô vượt đèn đỏ đâm phải. - I was hit by a car that ignored a red light.}tôi bị một chiếc xe hơi vượt đèn đỏ đụng trúng.
-Dialogue: 100,0:17:02.38,0:17:04.00,UNNM_Main_1080p,Ayane,0,0,0,,{Một câu chuyện vớ vẩn. - It's such a stupid way to die.}Chết kiểu xàm xí gì đâu.
-Dialogue: 100,0:17:06.01,0:17:08.84,UNNM_Main_1080p,Ayane,0,0,0,,{Mà, tôi vẫn còn đang sống. - Except, well, that didn't actually kill me.}Mà thiệt ra lúc đó tôi vẫn còn sống.
-Dialogue: 100,0:17:08.84,0:17:10.76,UNNM_Main_1080p,Ayane,0,0,0,,Chỉ xỉu thôi.{I was simply unconscious at that point.}
-Dialogue: 100,0:17:11.64,0:17:14.97,UNNM_Main_1080p,Ayane,0,0,0,,{Sau đấy khi mở mắt,\Nthì tôi đã ở trong một nơi chật hẹp. - But when I woke up, \NI was trapped someplace tiny.}Nhưng khi mở mắt ra thì thấy mình\Nbị nhốt ở một nơi chật hẹp.
-Dialogue: 100,0:17:15.72,0:17:17.85,UNNM_Main_1080p,Ayane,0,0,0,,{Có lẽ đó là trong một cái vali. - Probably in a suitcase.}Khả năng là bị nhét vô vali.
-Dialogue: 100,0:17:17.85,0:17:18.94,UNNM_Main_1080p,Tomoya,0,0,0,,{Tại sao? - But why?}Để làm gì?
-Dialogue: 100,0:17:18.94,0:17:20.90,UNNM_Main_1080p,Ayane,0,0,0,,Để làm cho vụ tai nạn chưa hề xảy ra chứ sao.{To cover up all traces of the accident.}
-Dialogue: 100,0:17:21.98,0:17:24.27,UNNM_Main_1080p,Ayane,0,0,0,,Tên tài xế đã chôn tôi ở đâu đó.{The driver of that car buried me somewhere.}
-Dialogue: 100,0:17:25.19,0:17:29.03,UNNM_Main_1080p,Ayane,0,0,0,,{\q2}Tôi không thở được, và thứ duy nhất tôi nghe \Nlà tiếng tàu vọng đằng xa.{I couldn't breathe, and the only thing \NI could hear was a distant train.}
-Dialogue: 100,0:17:30.53,0:17:33.62,UNNM_Main_1080p,Ayane,0,0,0,,{Đó là ký ức cuối cùng của tôi. - That's my last memory among the living.}Đó là những ký ức cuối trước khi tôi lìa đời.
-Dialogue: 100,0:17:36.04,0:17:38.41,UNNM_Main_1080p,Ayane,0,0,0,,{Mẹ đến bây giờ vẫn còn đang đợi tôi. - My mom is still waiting for me to come back.}Mẹ tôi đến giờ vẫn trông ngóng ngày tôi trở về.
-Dialogue: 100,0:17:39.12,0:17:40.75,UNNM_Main_1080p,Tomoya,0,0,0,,{Chị bị chôn ở đâu vậy ạ? - Where were you buried?}Chị bị chôn ở đâu vậy chị?
-Dialogue: 100,0:17:41.00,0:17:43.25,UNNM_Main_1080p,Ayane,0,0,0,,{[/q2]Tôi đã định tìm nhưng bỏ cuộc rồi. - I've tried to find that out, \Nbut I've long since given up.}Tôi có thử tìm nhưng mà từ bỏ rồi.
-Dialogue: 100,0:17:43.71,0:17:45.75,UNNM_Main_1080p,Ayane,0,0,0,,{Bây giờ có làm thì cũng không thay đổi được điều gì. - It's not like it'd change anything at this point.}Giờ mà tìm ra được thì cũng đâu thay đổi được gì.
-Dialogue: 100,0:17:48.46,0:17:51.76,UNNM_Main_1080p,Ayane,0,0,0,,{Tôi vẫn còn rất nhiều điều muốn làm. - Gosh, there were so many \Nthings I still wanted to do.}Buồn gì đâu á, \Ncòn nhiều cái muốn làm mà không được.
-Dialogue: 100,0:17:52.26,0:17:54.22,UNNM_Main_1080p,Ayane,0,0,0,,{Du lịch hay là yêu đương. - Travel, fall in love...}Du lịch nè, có bồ nè...
-Dialogue: 100,0:17:54.72,0:17:57.27,UNNM_Main_1080p,Ayane,0,0,0,,{Tôi rất ghen tị với người có tương lai xán lạn\Nnhư Tomoya. - I'm jealous of the bright future ahead of you.}Nhìn mấy người có tương lai xán lạn phía trước\N giống cậu làm tôi ganh tị ghê.
-Dialogue: 100,0:17:58.73,0:18:00.98,UNNM_Main_1080p,Tomoya,0,0,0,,{Du lịch thì làm được mà. - But you can travel, no?}Nhưng chị du lịch chỗ nào cũng được mà?
-Dialogue: 100,0:18:00.98,0:18:02.56,UNNM_Main_1080p,Tomoya,0,0,0,,{Chả mất phí di chuyển. - It wouldn't even cost you anything.}Còn chả tốn đồng bạc nào.
-Dialogue: 100,0:18:02.56,0:18:03.52,UNNM_Main_1080p,Ayane,0,0,0,,{Ơ kìa, - Careful.}Cái cậu này.
-Dialogue: 100,0:18:03.86,0:18:05.90,UNNM_Main_1080p,Ayane,0,0,0,,{không tinh tế gì cả. - That was really tactless of you.}Không có tí tinh tế nào hết.
-Dialogue: 100,0:18:05.90,0:18:07.61,UNNM_Main_1080p,Ayane,0,0,0,,Trừ hai mươi điểm.{Minus twenty points.}
-Dialogue: 100,0:18:09.40,0:18:13.11,UNNM_Main_1080p,Tomoya,0,0,0,,{Em thì, lại ghen tị với Ayane hơn. - Personally, I think you have it better.}Em thì ganh tị với chị hơn.
-Dialogue: 100,0:18:15.41,0:18:16.24,UNNM_Main_1080p,Ayane,0,0,0,,Tomoya.{Tomoya.}
-Dialogue: 100,0:18:16.66,0:18:17.79,UNNM_Main_1080p,Tomoya,0,0,0,,{Vâng. - Yeah?}Sao chị?
-Dialogue: 100,0:18:18.75,0:18:21.50,UNNM_Main_1080p,Ayane,0,0,0,,{Tôi, muốn đi tìm cơ thể. - I want to find my body.}Tôi muốn tìm cơ thể của mình.
-Dialogue: 100,0:18:23.08,0:18:25.38,UNNM_Main_1080p,Ayane,0,0,0,,{Tôi nghĩ nếu có Tomoya thì sẽ làm được. - It might just be possible if you help me.}Có cậu phụ thì chắc sẽ được thôi.
-Dialogue: 100,0:18:25.92,0:18:30.88,UNNM_Main_1080p,Ayane,0,0,0,,{\q2}Lý do mà tôi từ bỏ việc đi tìm là vì\Ndù có thấy thì cũng không sờ vào được.{I only gave up on it because I wouldn't \Nbe able to do anything even if I did.}
-Dialogue: 100,0:18:37.97,0:18:39.17,UNNM_Main_1080p,Ayane,0,0,0,,Xin lỗi nha.{Ah, I'm sorry.}
-Dialogue: 100,0:18:39.17,0:18:40.98,UNNM_Main_1080p,Ayane,0,0,0,,{Định đổi gió cho Tomoya một chút mà. - The whole point of this was to cheer you up.}Tính giúp cậu đổi gió \Nvậy mà lại bắt cậu nghe chuyện buồn.
-Dialogue: 100,0:18:41.73,0:18:43.19,UNNM_Main_1080p,Ayane,0,0,0,,{Chuyện vừa này quên đi nhé. - Pretend I didn't say anything.}Coi như nãy giờ tôi chưa nói gì đi.
-Dialogue: 100,0:18:44.94,0:18:46.19,UNNM_Main_1080p,Ayane,0,0,0,,Trăm ngàn oán hận.{Boo.}
-Dialogue: 100,0:19:30.19,0:19:32.03,UNNM_Main_1080p,Tomoya's Mom,0,0,0,,{Con không đến lò luyện thi sao? - Shouldn't you be in cram school?}Con nói mình đi tới lớp mà?
-Dialogue: 100,0:19:34.11,0:19:35.11,UNNM_Main_1080p,Tomoya's Mom,0,0,0,,Lên xe đi.{Get in.}
-Dialogue: 100,0:19:36.95,0:19:38.45,UNNM_Main_1080p,Tomoya's Mom,0,0,0,,{Đã là học kỳ hai rồi đó. - It's already the second trimester.}Học kỳ hai rồi đó có biết chưa?
-Dialogue: 100,0:19:39.16,0:19:41.16,UNNM_Main_1080p,Tomoya's Mom,0,0,0,,{Dạo gần đây con lại đi đâu à. - You've been wandering off, haven't you?}Hổm rài con đi lông bông đúng không?
-Dialogue: 100,0:19:41.87,0:19:43.33,UNNM_Main_1080p,Tomoya's Mom,0,0,0,,{Mẹ biết đó. - You can't lie to me.}Mẹ biết thừa.
-Dialogue: 100,0:19:43.33,0:19:46.29,UNNM_Main_1080p,Tomoya,0,0,0,,Con đang tìm bạn.{I'm looking for a friend.}
-Dialogue: 100,0:19:46.71,0:19:47.88,UNNM_Main_1080p,Tomoya's Mom,0,0,0,,{Gì vậy? - Excuse me?}Mới nói gì?
-Dialogue: 100,0:19:47.88,0:19:49.71,UNNM_Main_1080p,Tomoya's Mom,0,0,0,,{Việc đó quan trọng hơn tương lai của con sao? - Is that more important than your future?}Rồi bạn con quan trọng hơn tương lai con à?
-Dialogue: 100,0:19:50.75,0:19:53.76,UNNM_Main_1080p,Tomoya's Mom,0,0,0,,{\q2}Từ tuần sau mẹ sẽ đến lò để kiểm tra.{I'll be coming to your cram school \Nto make sure you're there next week.}
-Dialogue: 100,0:19:53.76,0:19:55.34,UNNM_Main_1080p,Tomoya's Mom,0,0,0,,Nhìn rõ vào hiện thực đi.{High time you faced reality.}
-Dialogue: 100,0:19:56.43,0:19:57.47,UNNM_Main_1080p,Tomoya's Mom,0,0,0,,T-Tomoya?{T-Tomoya!}
-Dialogue: 100,0:19:57.89,0:19:58.76,UNNM_Main_1080p,Tomoya's Mom,0,0,0,,{Con đang đi đâu vậy? - Where are you going?}Đi đâu đó?
-Dialogue: 100,0:20:09.90,0:20:13.19,UNNM_Main_1080p,Tomoya,0,0,0,,{Hôm nay chúng ta cũng không tìm được nhỉ. - We couldn't find it today either.}Nay cũng không tìm được luôn.
-Dialogue: 100,0:20:14.69,0:20:15.53,UNNM_Main_1080p,Tomoya,0,0,0,,Xin lỗi chị.{I'm sorry.}
-Dialogue: 100,0:20:16.36,0:20:17.41,UNNM_Main_1080p,Ayane,0,0,0,,{Tại sao? - Why?}Xin lỗi vụ gì?
-Dialogue: 100,0:20:17.41,0:20:18.66,UNNM_Main_1080p,Ayane,0,0,0,,{Đừng xin lỗi mà. - There's no need for that.}Đâu cần phải làm vậy.
-Dialogue: 100,0:20:19.24,0:20:21.20,UNNM_Main_1080p,Ayane,0,0,0,,{Đây cũng như cuộc hẹn hò mà thôi. - Consider this more of a date.}Coi như hai đứa hẹn hò thôi.
-Dialogue: 100,0:20:23.25,0:20:25.91,UNNM_Main_1080p,Tomoya,0,0,0,,{Em, năm nay sẽ thi đại học. - I have entrance exams this year.}Năm nay em sẽ thi tốt nghiệp.
-Dialogue: 100,0:20:27.50,0:20:32.13,UNNM_Main_1080p,Tomoya,0,0,0,,{\q2}Vô đại học rồi thì có khi \Nem không về thường xuyên được.{Once I start college, I don't know \Nhow much I'll be able to come here.}
-Dialogue: 100,0:20:33.67,0:20:34.63,UNNM_Main_1080p,Ayane,0,0,0,,{Thế à. - I see.}Hiểu rồi.
-Dialogue: 100,0:20:36.09,0:20:38.34,UNNM_Main_1080p,Ayane,0,0,0,,{Vậy, cuộc "Tìm kiếm tôi" đến đây là kết thúc. - Then let's end our \Nsoul-searching journey here.}Vậy thôi, cuộc tìm-kiếm-chính-tôi đến đây là kết thúc.
-Dialogue: 100,0:20:38.34,0:20:38.72,UNNM_Main_1080p,Tomoya,0,0,0,,{What?}Hả?
-Dialogue: 100,0:20:40.34,0:20:42.26,UNNM_Main_1080p,Ayane,0,0,0,,{Hè cũng đã hết. - Summer is about to end.}Hè cũng sắp hết rồi.
-Dialogue: 100,0:20:42.26,0:20:43.85,UNNM_Main_1080p,Ayane,0,0,0,,{Thời điểm chấm dứt hoàn hảo. - It's a good stopping point.}Dừng ở đây là quá đẹp luôn.
-Dialogue: 100,0:20:43.85,0:20:45.73,UNNM_Main_1080p,Tomoya,0,0,0,,{Nhưng, có phải là em muốn bỏ cuộc đâu. - But we don't need to give up comple—}Đâu cần phải bỏ buổi tìm—
-Dialogue: 100,0:20:45.73,0:20:47.10,UNNM_Main_1080p,Ayane,0,0,0,,{Thế này là được rồi. - It's fine.}Nhiêu đây đủ rồi.
-Dialogue: 100,0:20:47.64,0:20:49.98,UNNM_Main_1080p,Ayane,0,0,0,,{Nếu cứ tiếp tục thì có lỗi với Tomoya lắm. - I don't want to distract you.}Nếu tiếp tục thì có lỗi với cậu lắm.
-Dialogue: 100,0:20:49.98,0:20:53.65,UNNM_Main_1080p,Ayane,0,0,0,,{Đừng có dùng thời gian quý giá của cậu\Ncho một người như tôi. - You have more important things to focus on than me.}Dùng thời gian quý báu vào chuyện quan trọng hơn đi.\N Không cần câu nệ gì người đã chết như tôi.
-Dialogue: 100,0:20:53.65,0:20:54.32,UNNM_Main_1080p,Tomoya,0,0,0,,Nhưng mà...{But...}
-Dialogue: 100,0:20:54.32,0:20:55.99,UNNM_Main_1080p,Ayane,0,0,0,,Trừ hai trăm triệu điểm.{Minus two million points.}
-Dialogue: 100,0:20:56.90,0:20:59.28,UNNM_Main_1080p,Ayane,0,0,0,,Con trai mà lỳ lợm thì gái không thích đâu.{Being stubborn isn't \Ngoing to win over any girls.}
-Dialogue: 100,0:21:00.11,0:21:02.24,UNNM_Main_1080p,Ayane,0,0,0,,{Tôi đã nói là được rồi. - I said it's fine.}Tôi nói đủ là đủ.
-Dialogue: 100,0:21:02.70,0:21:06.83,UNNM_Main_1080p,Tomoya,0,0,0,,{\q2[/q2]Thế có nghĩa là Ayane\Nsẽ không còn tồn tại được lâu à? - Does that mean you won't \Nbe around for much longer?}Tức là em sẽ không được thấy chị thường xuyên nữa à?
-Dialogue: 100,0:21:07.54,0:21:08.50,UNNM_Main_1080p,Ayane,0,0,0,,Có khi vậy.{Possibly.}
-Dialogue: 100,0:21:10.17,0:21:11.29,UNNM_Main_1080p,Tomoya,0,0,0,,Em hiểu rồi.{Okay, then.}
-Dialogue: 100,0:21:12.17,0:21:13.59,UNNM_Main_1080p,Tomoya,0,0,0,,{Gặp lại chị vào lúc chiều tối ngày mai. - I'll see you tomorrow evening.}Hẹn gặp chị vào chiều mai.
-Dialogue: 100,0:21:15.13,0:21:16.38,UNNM_Main_1080p,Tomoya,0,0,0,,{Chị hãy đợi em. - Wait for me, please.}Xin hãy đợi em.
-Dialogue: 100,0:21:19.01,0:21:20.13,UNNM_Main_1080p,Tomoya,0,0,0,,{Giờ chúng ta có thể gặp không? - Can we meet up?}Giờ gặp được không?
-Dialogue: 100,0:21:22.14,0:21:23.47,UNNM_Main_1080p,Tomoya,0,0,0,,Mình có chuyện cần bàn.{I wanna talk about something.}
-Dialogue: 100,0:21:24.68,0:21:26.39,UNNM_Main_1080p,Tomoya,0,0,0,,Mình muốn đi tìm cơ thể của Ayane.{I want to find Ayane's body.}
-Dialogue: 100,0:21:27.06,0:21:28.73,UNNM_Main_1080p,Tomoya,0,0,0,,{Và tôi muốn hai người giúp. - Will you help me?}Hai người giúp mình được không?
-Dialogue: 100,0:21:30.06,0:21:31.77,UNNM_Main_1080p,Ryou,0,0,0,,{Quả nhiên là chuyện đó à. - I knew it'd be something like that.}Biết ngay là nói về con ma đó mà.
-Dialogue: 100,0:21:32.73,0:21:35.36,UNNM_Main_1080p,Ryou,0,0,0,,{Ông, dạo này hay gặp người ấy nhỉ. - You've been seeing her a lot lately, huh?}Ông dạo này hay gặp bả đúng không?
-Dialogue: 100,0:21:35.36,0:21:37.09,UNNM_Main_1080p,Aoi,0,0,0,,{Vậy sao? - What? Really?}Hả? Có luôn?
-Dialogue: 100,0:21:37.53,0:21:39.11,UNNM_Main_1080p,Ryou,0,0,0,,{Thích rồi à? - You in love or something?}Yêu rồi hay gì?
-Dialogue: 100,0:21:39.82,0:21:40.53,UNNM_Main_1080p,Tomoya,0,0,0,,Không phải.{No, that's not it.}
-Dialogue: 100,0:21:41.82,0:21:43.03,UNNM_Main_1080p,Ryou,0,0,0,,{Mà thế nào cũng được. - Well, whatever.}Sao cũng được.
-Dialogue: 100,0:21:43.62,0:21:44.87,UNNM_Main_1080p,Ryou,0,0,0,,{Vì tôi sẽ không giúp. - I'm not helping, either way.}Tại vì tui không giúp đâu.
-Dialogue: 100,0:21:46.08,0:21:48.54,UNNM_Main_1080p,Ryou,0,0,0,,{[/q2]Tôi không muốn giúp cho người tự sát. - Can't bring myself to help \Nsomeone who killed herself.}Không có chuyện tui giúp \Nmột người tự kết liễu đời mình làm gì.
-Dialogue: 100,0:21:48.54,0:21:49.62,UNNM_Main_1080p,Tomoya,0,0,0,,{Không phải. - That's not what happened.}Lầm rồi.
-Dialogue: 100,0:21:49.62,0:21:51.36,UNNM_Main_1080p,Tomoya,0,0,0,,{Ayane đã bị tai nạn. - She died by no fault of her own.}Không phải chỉ tự vẫn đâu.
-Dialogue: 100,0:21:52.58,0:21:54.09,UNNM_Main_1080p,Tomoya,0,0,0,,{Là một việc quan trọng. - This is really important.}Chuyện này quan trọng lắm.
-Dialogue: 100,0:21:54.67,0:21:56.34,UNNM_Main_1080p,Tomoya,0,0,0,,Nếu mà không làm{If I don't see this through,}
-Dialogue: 100,0:21:57.00,0:21:59.13,UNNM_Main_1080p,Tomoya,0,0,0,,{thì tôi nghĩ cả đời này sẽ ngồi hối hận. - I think I'll regret it for the rest of my life.}thì chắc là mình sẽ sống cả đời ân hận mất.
-Dialogue: 100,0:21:59.63,0:22:00.72,UNNM_Main_1080p,Ryou,0,0,0,,{Vậy à. - That a fact?}Vậy à?
-Dialogue: 100,0:22:01.80,0:22:03.22,UNNM_Main_1080p,Ryou,0,0,0,,{Mong là mọi chuyện sẽ suôn sẻ. - Well, good luck.}Thôi, chúc may mắn.
-Dialogue: 100,0:22:03.76,0:22:04.22,UNNM_Main_1080p,Tomoya,0,0,0,,Ryou—{Ryou—}
-Dialogue: 100,0:22:04.22,0:22:05.26,UNNM_Main_1080p,Ryou,0,0,0,,Đừng.{Don't.}
-Dialogue: 100,0:22:05.26,0:22:05.51,UNNM_Main_1080p,Tomoya,0,0,0,,Đợi đã—{Wait—}
-Dialogue: 100,0:22:05.51,0:22:06.76,UNNM_Main_1080p,Ryou,0,0,0,,{Đã bảo là dừng lại rồi mà. - Seriously, don't}Đã nói là đừng!
-Dialogue: 100,0:22:08.64,0:22:09.98,UNNM_Main_1080p,Ryou,0,0,0,,Tui không muốn nghe...{Just drop it.}
-Dialogue: 100,0:22:10.48,0:22:11.56,UNNM_Main_1080p,Ryou,0,0,0,,những chuyện như vậy{I don't wanna hear it.}.
-Dialogue: 100,0:22:12.81,0:22:15.90,UNNM_Main_1080p,Ryou,0,0,0,,{Mấy người thì tốt rồi, có tương lai. - Must be nice having a future.}Mấy người thì sướng quá rồi. \NCòn có tương lai phía trước.
-Dialogue: 100,0:22:17.36,0:22:18.94,UNNM_Main_1080p,Ryou,0,0,0,,{Tôi thì không còn nữa. - I don't have that luxury.}{Chứ tui thì không còn rồi. - OG}Chứ tui bít cửa rồi.
-Dialogue: 100,0:22:19.49,0:22:20.82,UNNM_Main_1080p,Tomoya,0,0,0,,{Thế có nghĩa là... - What does that...}Ý bạn là...
-Dialogue: 100,0:22:21.45,0:22:22.57,UNNM_Main_1080p,Aoi,0,0,0,,Ryou ơi!{Ryou!}
-Dialogue: 100,0:22:34.08,0:22:36.50,UNNM_Main_1080p,Ayane,0,0,0,,Có chuyện gì sao, Tomoya?{Did something happen, Tomoya?}
-Dialogue: 100,0:22:36.50,0:22:38.67,UNNM_Main_1080p,Tomoya,0,0,0,,{Không, không có gì. - Nah. Nothing happened.}Đâu có. Vẫn bình thường.
-Dialogue: 100,0:22:39.63,0:22:40.42,UNNM_Main_1080p,Tomoya,0,0,0,,{Cùng tìm nào. - Let's start looking.}Tìm thôi.
-Dialogue: 100,0:22:41.22,0:22:42.38,UNNM_Main_1080p,Tomoya,0,0,0,,{Trong ngày hôm nay sẽ tìm được. - We'll find your body today.}Nội trong hôm nay sẽ tìm được.
-Dialogue: 100,0:22:46.85,0:22:47.81,UNNM_Main_1080p,Aoi,0,0,0,,Chờ mình với!{Wait!}
-Dialogue: 100,0:22:48.85,0:22:49.56,UNNM_Main_1080p,Aoi,0,0,0,,Ryou!{Ryou!}
-Dialogue: 100,0:23:02.53,0:23:03.07,UNNM_Main_1080p,Aoi,0,0,0,,Ryou!{Ryou!}
-Dialogue: 100,0:23:03.07,0:23:04.07,UNNM_Main_1080p,Ryou,0,0,0,,{Đừng có đến đây. - Go away!}Đừng có lại gần!
-Dialogue: 100,0:23:06.37,0:23:07.45,UNNM_Main_1080p,Ryou,0,0,0,,Để tui yên.{Just leave me alone.}
-Dialogue: 100,0:23:11.50,0:23:12.66,UNNM_Main_1080p,Tomoya,0,0,0,,Mẹ nó!{Damn!}
-Dialogue: 100,0:23:14.67,0:23:18.38,UNNM_Main_1080p,Ayane,0,0,0,,{\q2}Biết ngay là cậu không đi xa được khỏi cơ thể mà. {It doesn't help that you can't \Ngo too far from your body.}
-Dialogue: 100,0:23:18.38,0:23:20.88,UNNM_Main_1080p,Tomoya,0,0,0,,{Nhưng em nhất định sẽ tìm ra. - Still, I won't stop until we find yours.}Kệ, nhất định em phải tìm cho ra.
-Dialogue: 100,0:23:22.92,0:23:23.97,UNNM_Main_1080p,Ayane,0,0,0,,Tomoya.{Tomoya.}
-Dialogue: 100,0:23:27.60,0:23:28.80,UNNM_Main_1080p,Ryou,0,0,0,,{Để cho tôi được yên đi. - Please, leave me alone.}Để tui ở một mình đi.
-Dialogue: 100,0:23:31.14,0:23:32.22,UNNM_Main_1080p,Ryou,0,0,0,,{Mặc dù đã rõ. - I knew it all along.}Tui biết thừa.
-Dialogue: 100,0:23:33.64,0:23:35.65,UNNM_Main_1080p,Ryou,0,0,0,,{Chỉ làm khổ bản thân thêm thôi. - Meeting up with you guys was a mistake.}Quen nhau chỉ thêm đau.
-Dialogue: 100,0:23:37.77,0:23:40.98,UNNM_Main_1080p,Ryou,0,0,0,,{[/q2]Nếu đã chết thì một mình tôi đủ rồi, - I would've suffered so much less \Nif I'd just let myself die alone.}Nếu sắp chết thì thôi thà chết một mình cho rồi.
-Dialogue: 100,0:23:42.49,0:23:44.32,UNNM_Main_1080p,Ryou,0,0,0,,{tại sao lại gặp các người chứ. - Why did I do this to myself?}Vậy mà tui vẫn đâm đầu \Ngặp mấy người làm gì không biết?
-Dialogue: 100,0:23:46.16,0:23:47.45,UNNM_Main_1080p,Ryou,0,0,0,,{Tại sao chỉ có tôi... - Why me?}Tại sao chứ?
-Dialogue: 100,0:23:49.12,0:23:50.41,UNNM_Main_1080p,Ryou,0,0,0,,{là mọi chuyện xấu đi chứ. - Why is the world so unfair?}Sao chỉ có tui là cuộc đời bi đát vậy?
-Dialogue: 100,0:23:51.83,0:23:52.79,UNNM_Main_1080p,Aoi,0,0,0,,Ryou.{Ryou.}
-Dialogue: 100,0:23:53.87,0:23:58.17,UNNM_Main_1080p,Aoi,0,0,0,,{[/q2]Tôi không có quyền để nói gì nhưng,\Ntôi muốn ông nghe. - I won't try to pretend I understand, \Nbut at least hear me out.}Mình không có tư cách gì để dạy đời bạn,\N nhưng mong bạn nghe chuyện của mình.
-Dialogue: 100,0:23:59.38,0:24:02.46,UNNM_Main_1080p,Aoi,0,0,0,,{Tôi nhé, bị bắt nạt ở trường. - I get bullied pretty hard at school.}Chuyện là mình bị bắt nạt ở trường.
-Dialogue: 100,0:24:03.42,0:24:05.17,UNNM_Main_1080p,Aoi,0,0,0,,{Lúc nào cũng đau khổ. - It's put me in some dark places.}Lúc nào cũng thấy âm u.
-Dialogue: 100,0:24:06.18,0:24:11.68,UNNM_Main_1080p,Aoi,0,0,0,,{[/q2]Ý nghĩa sống hay gì đó,\Nthực sự chả hiểu gì luôn. - I'd begun to lose hope that \NI'd ever understand why I'm even alive.}Dần dà mình bắt đầu mất phương hướng, \Nđến độ còn không biết sống tiếp để làm gì.
-Dialogue: 100,0:24:12.93,0:24:18.60,UNNM_Main_1080p,Aoi,0,0,0,,{[/q2]Vì muốn một câu trả lời mới,\Nnên đã tìm đến hồn ma. - To me, searching for a ghost \Nwas a search for new answers.}Nên là mình mới tìm đến hồn ma,\N mong muốn nhận được câu trả lời mới.
-Dialogue: 100,0:24:19.56,0:24:22.57,UNNM_Main_1080p,Aoi,0,0,0,,{[/q2]Có thể khác hoàn toàn với Ryou. - You might be struggling with \Nsomething completely different,}Có thể bạn phải trải qua những khổ sở khác với mình,
-Dialogue: 100,0:24:22.90,0:24:26.15,UNNM_Main_1080p,Aoi,0,0,0,,{Nhưng, nhất định Tomoya\Ncũng có điều phiền muộn. - but I'm sure Tomoya's fighting \Na battle of his own, too.}nhưng mình chắc là Tomoya cũng vậy thôi. \NCũng phải đối mặt với khổ sở riêng.
-Dialogue: 100,0:24:27.53,0:24:31.37,UNNM_Main_1080p,Aoi,0,0,0,,{[/q2]Cuộc gặp mặt của chúng ta\Nnhất định là có ý nghĩa nào đó. - There has to be some meaning \Nin the three of us getting together.}Ba đứa gặp gỡ được nhau \Nchắc hẳn phải có ý nghĩa nào đó.
-Dialogue: 100,0:24:35.00,0:24:36.12,UNNM_Main_1080p,Tomoya,0,0,0,,Chết rồi!{No way!}
-Dialogue: 100,0:24:38.75,0:24:40.21,UNNM_Main_1080p,Tomoya,0,0,0,,Chị Ayane.{Ayane.}
-Dialogue: 100,0:24:40.21,0:24:41.46,UNNM_Main_1080p,Tomoya,0,0,0,,Chị Ayane!{Ayane!}
-Dialogue: 100,0:24:41.92,0:24:43.30,UNNM_Main_1080p,Tomoya,0,0,0,,{Chị có nghe thấy em không? - Can you hear me?}Nghe thấy em không?
-Dialogue: 100,0:24:47.68,0:24:50.30,UNNM_Main_1080p,Ryou,0,0,0,,{[/q2]Tomoya mà chuẩn bị hời hợt như vậy sao? - I wouldn't expect you of all people \Nto come so poorly prepared.}Tưởng ai chứ Tomoya mà chuẩn bị hời hợt vậy à?
-Dialogue: 100,0:24:52.35,0:24:54.68,UNNM_Main_1080p,Ryou,0,0,0,,{Thực sự có đang tìm kiếm không đấy. - Are you even trying, dude?}Có đang tìm đàng hoàng không đó cha?
-Dialogue: 100,0:24:59.60,0:25:00.52,UNNM_Main_1080p,Tomoya,0,0,0,,Xin lỗi.{I'm sorry.}
-Dialogue: 100,0:25:01.31,0:25:06.90,UNNM_Main_1080p,Tomoya,0,0,0,,{[/q2] chỉ nghĩ cho bản thân,\Ntôi chẳng nghĩ gì cho chuyện của Ryou cả. - I was so focused on myself, \NI didn't consider your situation at all.}Vì chỉ mải mê lo chuyện bản thân \Nmà không thèm để tâm tới chuyện của bạn.
-Dialogue: 100,0:25:07.53,0:25:10.11,UNNM_Main_1080p,Ryou,0,0,0,,{Tôi, rất ghét những loại người như ông. - I hate people like you.}Nói thiệt, tui ghét những người giống ông lắm.
-Dialogue: 100,0:25:11.32,0:25:13.45,UNNM_Main_1080p,Ryou,0,0,0,,Cứ ra vẻ cái gì cũng biết.{You think you've got it all figured out,}
-Dialogue: 100,0:25:13.70,0:25:16.37,UNNM_Main_1080p,Ryou,0,0,0,,{Đã thế còn làm vẻ mặt\Nnhư mình đáng thương nhất vậy. - and yet you look more pitiful than anyone.}Xong cứ làm cái mặt như kiểu \Nkhông ai đáng thương bằng mình.
-Dialogue: 100,0:25:18.62,0:25:20.12,UNNM_Main_1080p,Ryou,0,0,0,,{Nhưng tôi sẽ giúp. - But I guess I can help you.}Nhưng thôi, để tui giúp.
-Dialogue: 100,0:25:21.04,0:25:22.46,UNNM_Main_1080p,Ryou,0,0,0,,{Hãy cảm ơn Aoi ấy. - You better thank Aoi for this.}Có cảm ơn thì cảm ơn Aoi kìa.
-Dialogue: 100,0:25:24.38,0:25:25.21,UNNM_Main_1080p,Tomoya,0,0,0,,Ryou.{Ryou.}
-Dialogue: 100,0:25:27.42,0:25:28.55,UNNM_Main_1080p,Ryou,0,0,0,,{Nhanh tiến hành đi. - Let's get this over with.}Vào việc thôi.
-Dialogue: 100,0:25:32.47,0:25:33.64,UNNM_Main_1080p,Tomoya,0,0,0,,Cảm ơn hai người.{Thank you.}
-Dialogue: 100,0:25:58.95,0:26:01.08,UNNM_Main_1080p,Ayane,0,0,0,,{Liệu sẽ tìm được cơ thể không nhỉ? - You think we'll find it?}Không biết sẽ tìm được không ha?
-Dialogue: 100,0:26:01.42,0:26:04.21,UNNM_Main_1080p,Tomoya,0,0,0,,{Sẽ tìm được chứ, với bốn người chúng ta. - Of course. There's four of us now.}Được chứ. Bốn người lận mà.
-Dialogue: 100,0:26:06.25,0:26:09.13,UNNM_Main_1080p,Ayane,0,0,0,,{Tôi không nghĩ là các cậu\Nlại tìm giúp tôi như thế này. - I didn't think you'd go this far for me.}Tôi đâu dám nghĩ là mọi người \Nsẽ làm đến mức này vì tôi.
-Dialogue: 100,0:26:09.84,0:26:11.77,UNNM_Main_1080p,Ayane,0,0,0,,{Tôi rất biết ơn ba người. - I'm grateful towards all of you.}Biết ơn cả ba lắm luôn.
-Dialogue: 100,0:26:12.59,0:26:14.55,UNNM_Main_1080p,Ayane,0,0,0,,{Quả nhiên bạn bè là thứ chúng ta luôn nên giữ ở gần. - Nothing beats having friends, huh?}Công nhận không gì tuyệt bằng bạn bè ha?
-Dialogue: 100,0:26:15.72,0:26:16.68,UNNM_Main_1080p,Ayane,0,0,0,,{Phải quý trọng họ đó. - Make sure to cherish them.}Nhớ quý trọng người ta đó.
-Dialogue: 100,0:26:19.60,0:26:21.02,UNNM_Main_1080p,Aoi,0,0,0,,Tomoya!{Tomoya!}
-Dialogue: 100,0:26:21.35,0:26:22.73,UNNM_Main_1080p,Tomoya,0,0,0,,Aoi? Sao vậy?{Aoi? What's wrong?}
-Dialogue: 100,0:26:22.73,0:26:23.70,UNNM_Main_1080p,Aoi,0,0,0,,Đến đây nhanh!{Come quickly!}
-Dialogue: 100,0:26:24.15,0:26:27.15,UNNM_Main_1080p,Aoi,0,0,0,,{Có khi chúng tôi đã tìm thấy vali. - I think I might've found the suitcase.}Hình như mình tìm thấy cái vali rồi.
-Dialogue: 100,0:26:32.03,0:26:33.74,UNNM_Main_1080p,Aoi,0,0,0,,{Ayane, cái đó. - Look there, Ayane.}Nhìn kìa chị Ayane.
-Dialogue: 100,0:26:34.20,0:26:35.83,UNNM_Main_1080p,Ayane,0,0,0,,{Ừ, tôi sẽ lên nhìn. - Thanks. I'll go check it out.}Ừm, để tôi đi kiểm tra.
-Dialogue: 100,0:26:38.54,0:26:40.33,UNNM_Main_1080p,Aoi,0,0,0,,{Ayane sẽ ra sao nhỉ? - I wonder what's gonna happen to her.}Không biết chỉ sẽ ra ha?
-Dialogue: 100,0:26:41.21,0:26:44.92,UNNM_Main_1080p,Aoi,0,0,0,,Có khi nào khi tìm thấy cơ thể\N là biến mất luôn hông?{Will she disappear once she finds her body?}
-Dialogue: 100,0:26:46.13,0:26:47.92,UNNM_Main_1080p,Aoi,0,0,0,,{Cảm giác cứ buồn buồn kiểu gì á. - That's a little sad.}Nghe sao mà thấy buồn buồn kiểu gì á.
-Dialogue: 100,0:26:51.26,0:26:53.43,UNNM_Main_1080p,Ayane,0,0,0,,{Chính là nó. Tôi có ở trong đây. - You were right. I'm in there.}Đúng nó rồi. Có tôi ở trong này.
-Dialogue: 100,0:26:53.68,0:26:55.76,UNNM_Main_1080p,Ryou,0,0,0,,{Thật à? Nhanh chóng quay lại mau. - Great! Let's get back.}Ngon! Khẩn trương quay về xác thôi.
-Dialogue: 100,0:26:55.76,0:26:56.14,UNNM_Main_1080p,Aoi,0,0,0,,{Yeah.}Ừm.
-Dialogue: 100,0:26:57.97,0:26:58.81,UNNM_Main_1080p,Ayane,0,0,0,,Mừng quá.{I'm so happy.}
-Dialogue: 100,0:26:59.93,0:27:02.49,UNNM_Main_1080p,Ayane,0,0,0,,{Giờ thì mẹ có thể thoải mái được rồi. - Hopefully my mom can rest easy now.}Giờ thì mẹ tôi có thể yên lòng rồi.
-Dialogue: 100,0:27:03.19,0:27:05.98,UNNM_Main_1080p,Tomoya,0,0,0,,{Quả nhiên là, Ayane sẽ biến mất sao? - So you are gonna disappear.}Vậy là chị sẽ biến mất thật à?
-Dialogue: 100,0:27:06.69,0:27:07.90,UNNM_Main_1080p,Ayane,0,0,0,,Có khi vậy.{I'd expect so.}
-Dialogue: 100,0:27:08.65,0:27:10.65,UNNM_Main_1080p,Ayane,0,0,0,,Nhưng tôi vui lắm.{But I had a lot of fun.}
-Dialogue: 100,0:27:10.65,0:27:12.82,UNNM_Main_1080p,Ayane,0,0,0,,Đến tận phút cuối đời \Nvẫn có được kỷ niệm đẹp thế này.{I made the most of my remaining time here.}
-Dialogue: 100,0:27:17.03,0:27:17.78,UNNM_Main_1080p,Ayane,0,0,0,,Tomoya.{Tomoya.}
-Dialogue: 100,0:27:19.24,0:27:20.46,UNNM_Main_1080p,Ayane,0,0,0,,Cố gắng lên.{Hang in there.}
-Dialogue: 100,0:27:24.00,0:27:27.38,UNNM_Main_1080p,Ayane,0,0,0,,Cậu liệu mà sống cho hết mình đó.{You have to keep on living.}
-Dialogue: 100,0:27:29.38,0:27:31.38,UNNM_Main_1080p,Ryou,0,0,0,,Ồ. Tỉnh rồi.{Look. He's finally awake.}
-Dialogue: 100,0:27:31.63,0:27:33.30,UNNM_Main_1080p,Ryou,0,0,0,,Sao cứ ngẩn người ra thế?{What are you spacing out for?}
-Dialogue: 100,0:27:33.30,0:27:33.92,UNNM_Main_1080p,Ryou,0,0,0,,Đi thôi!{Let's go!}
-Dialogue: 100,0:27:33.92,0:27:35.26,UNNM_Main_1080p,Tomoya,0,0,0,,{Ờ, ừ. - Sure.}Ừm.
-Dialogue: 100,0:27:35.55,0:27:37.05,UNNM_Main_1080p,Ayane,0,0,0,,Tôi lo lắm đó.{I'm a little worried.}
-Dialogue: 100,0:27:37.05,0:27:39.47,UNNM_Main_1080p,Ayane,0,0,0,,{Làm hồn ma cũng chẳng có gì vui lắm đâu. - You had so much fun while you were a ghost.}Thấy cậu trong lúc làm ma vui quá trời
-Dialogue: 100,0:27:40.26,0:27:46.02,UNNM_Main_1080p,Ayane,0,0,0,,{[/q2]Đừng có nghĩ là chết đi chút thôi\Ncũng không tệ lắm đâu nhá. - I hope you haven't started thinking \Ndeath might not be so bad.}nên tôi cứ sợ là cậu bắt đầu nghĩ\N chết đi cũng không tệ lắm.
-Dialogue: 100,0:27:47.77,0:27:48.98,UNNM_Main_1080p,Ayane,0,0,0,,{Thiệt tình mà. - My, oh my.}Khổ với cậu thiệt.
-Dialogue: 100,0:27:52.48,0:27:55.10,UNNM_Main_1080p,Ayane,0,0,0,,{Xin lỗi nhé vì cái tính ích kỷ này. - I'm sorry for dragging you into this.}Xin lỗi vì đã lôi cậu vào chuyện này.
-Dialogue: 100,0:27:59.28,0:27:59.70,UNNM_Main_1080p,Tomoya,0,0,0,,Ryou!{Ryou!}
-Dialogue: 100,0:27:59.70,0:28:01.29,UNNM_Main_1080p,Ryou,0,0,0,,{Kệ tôi, cứ đi trước đi. - I'm fine. Go on without me.}Cứ đi đi. Không cần lo.
-Dialogue: 100,0:28:02.12,0:28:03.87,UNNM_Main_1080p,Ryou,0,0,0,,Đừng để chị Ayane chờ lâu quá.{Don't make Ayane wait.}
-Dialogue: 100,0:28:11.50,0:28:12.50,UNNM_Main_1080p,Tomoya,0,0,0,,{Là nơi này. - It's gotta be here.}Chắc là ở đây nè.
-Dialogue: 100,0:28:12.50,0:28:13.34,UNNM_Main_1080p,Aoi,0,0,0,,{Yeah.}Ừm.
-Dialogue: 100,0:28:13.80,0:28:15.01,UNNM_Main_1080p,Aoi,0,0,0,,{Nhưng mà cái này. - But how do we get over?}Nhưng leo qua kiểu gì đây?
-Dialogue: 100,0:28:15.84,0:28:19.72,UNNM_Main_1080p,Ayane,0,0,0,,{[/q2]Tomoya đã lo lắng như vậy,\Ntôi thì lại tự ý dẫn cậu đi lung tung. - You're going through your own thing, \Nand I selfishly dragged you into mine.}Bản thân cậu đang loay hoay khổ sở thì chớ,\Nvậy mà tôi cứ tự ý kéo cậu vào chuyện của mình.
-Dialogue: 100,0:28:21.18,0:28:21.89,UNNM_Main_1080p,Ayane,0,0,0,,{Kết cục, - And after all that,}Để rồi đến cuối,
-Dialogue: 100,0:28:23.10,0:28:25.18,UNNM_Main_1080p,Ayane,0,0,0,,{tôi lại để cậu lại đi mất. - I'm going to move on without you.}tôi vẫn phải bỏ cậu ở lại.
-Dialogue: 100,0:28:26.60,0:28:28.27,UNNM_Main_1080p,Ayane,0,0,0,,{Đừng có mà buồn ấy nhá. - Don't miss me, please.}Đừng có buồn nha.
-Dialogue: 100,0:28:28.27,0:28:29.15,UNNM_Main_1080p,Tomoya,0,0,0,,Em...{I...}
-Dialogue: 100,0:28:30.31,0:28:31.94,UNNM_Main_1080p,Tomoya,0,0,0,,muốn tìm thấy chị Ayane.{I want to find you, Ayane.}
-Dialogue: 100,0:28:32.57,0:28:33.73,UNNM_Main_1080p,Tomoya,0,0,0,,{Bây giờ thì chỉ thế thôi. - That's all that matters right now.}Giờ em chỉ quan tâm nhiêu đó thôi.
-Dialogue: 100,0:28:37.40,0:28:38.28,UNNM_Main_1080p,Ayane,0,0,0,,Hiểu rồi.{Okay.}
-Dialogue: 100,0:28:41.53,0:28:43.62,UNNM_Main_1080p,Ayane,0,0,0,check,{Chắc chắn là cậu cũng đã hiểu rõ rồi nhỉ. - I'm sure that'll give you your answer.}Tôi tin chắc là cậu sẽ hiểu thôi.
-Dialogue: 100,0:28:44.45,0:28:48.83,UNNM_Main_1080p,Ayane,0,0,0,,{\q2}Thời khắc sinh mạng cậu chấm dứt nằm ở tương lai. \NTrong khi đối với tôi thì nó nằm trong quá khứ.{For you, death is in the future; \Nfor me, it's in the past.}
-Dialogue: 100,0:28:49.92,0:28:52.00,UNNM_Main_1080p,Ayane,0,0,0,chcek,Nó ngăn cách giữa chúng ta.{It's wedged right between us.}
-Dialogue: 100,0:29:01.43,0:29:02.26,UNNM_Main_1080p,Tomoya,0,0,0,,Aoi?{Aoi?}
-Dialogue: 100,0:29:02.26,0:29:05.27,UNNM_Main_1080p,Aoi,0,0,0,,{Còn lại thì nhờ vào cậu đó, Tomoya. - You take it from here, Tomoya!}Phần còn lại cậu phải tự thân rồi, Tomoya!
-Dialogue: 100,0:29:30.33,0:29:30.75,UNNM_Main_1080p,Ayane,0,0,0,,Đi thôi.{Let's go.}
-Dialogue: 100,0:29:31.96,0:29:34.38,UNNM_Main_1080p,Aoi,0,0,0,,Sao vậy, Tomoya?{What's wrong, Tomoya?}
-Dialogue: 100,0:29:34.75,0:29:35.71,UNNM_Main_1080p,Aoi,0,0,0,,Tomoya!{Tomoya!}
-Dialogue: 100,0:29:40.68,0:29:43.64,UNNM_Main_1080p,Ayane,0,0,0,,Vì cậu đã ở trong trạng thái linh hồn\N suốt một thời gian dài,{You spent a lot of time \Ndetached from your body.}
-Dialogue: 100,0:29:44.14,0:29:45.76,UNNM_Main_1080p,Ayane,0,0,0,,nên mới tới đây.{That's why you're here right now.}
-Dialogue: 100,0:29:47.89,0:29:49.06,UNNM_Main_1080p,Ayane,0,0,0,,Chỗ này là cõi chết.{This place is death.}
-Dialogue: 100,0:29:49.94,0:29:51.06,UNNM_Main_1080p,Ayane,0,0,0,,Không có gì hết.{There's nothing here.}
-Dialogue: 100,0:29:51.60,0:29:54.23,UNNM_Main_1080p,Ayane,0,0,0,,Nhưng đây là nơi hội tụ mọi phần trong con người cậu.{But it's also where all of your self is.}
-Dialogue: 100,0:29:57.74,0:29:59.89,UNNM_Main_1080p,Ayane,0,0,0,,{Nếu mà đốt thứ này thì tất cả đều kết thúc. - Once you burn this, it's all over.}Đốt cái này, và mọi thứ chấm dứt.
-Dialogue: 100,0:30:00.45,0:30:02.78,UNNM_Main_1080p,Ayane,0,0,0,,{Và rồi có thể chào tạm biệt thực tại. - You'll part with the real world.}Cậu sẽ tách rời với thực tại.
-Dialogue: 100,0:30:09.08,0:30:11.67,UNNM_Main_1080p,Ayane,0,0,0,,{Quả nhiên là không tốt nhỉ. - Yeah. I guess we shouldn't do this.}Nói gì thì nói, đúng là không nên nhỉ.
-Dialogue: 100,0:30:13.17,0:30:15.00,UNNM_Main_1080p,Ayane,0,0,0,,{Tại sao khuôn mặt cậu lại như vậy? - Why do you look so sad?}{Sao lại làm vẻ mặt đó? - OG}Sao nhìn cậu ủ rũ quá vậy?
-Dialogue: 100,0:30:17.34,0:30:20.34,UNNM_Main_1080p,Ayane,0,0,0,,{Thực ra là cậu muốn thế nào? - What do you truly want?}Thực sự thì cậu muốn điều gì?
-Dialogue: 100,0:30:33.81,0:30:35.15,UNNM_Main_1080p,Ryou,0,0,0,,Tomoya!{Tomoya!}
-Dialogue: 100,0:30:36.32,0:30:38.32,UNNM_Main_1080p,Ryou,0,0,0,,Làm gì vậy cha! Tỉnh giùm tui!{The hell are you doing?! Wake up!}
-Dialogue: 100,0:30:38.32,0:30:38.98,UNNM_Main_1080p,Aoi,0,0,0,,Ryou?{Ryou?}
-Dialogue: 100,0:30:38.98,0:30:41.03,UNNM_Main_1080p,Ryou,0,0,0,,{Là chuyện do ông quyết cơ mà. - You wanted to do this more than anyone.}Chính ông nằng nặc đòi làm cho được mà.
-Dialogue: 100,0:30:41.03,0:30:43.28,UNNM_Main_1080p,Ryou,0,0,0,,Cố làm cho xong chuyện đi!{So see it through the end!}
-Dialogue: 100,0:30:43.28,0:30:45.70,UNNM_Main_1080p,Ryou,0,0,0,,{Đừng có bỏ cuộc ở nơi này. - Why would you give up now?}Tới đây rồi mà còn bỏ cuộc
-Dialogue: 100,0:30:46.53,0:30:48.49,UNNM_Main_1080p,Ryou,0,0,0,,{Tôi không tha cho đâu. - Like hell I'm gonna let you!}thì coi chừng tui!
-Dialogue: 100,0:30:49.45,0:30:52.62,UNNM_Main_1080p,Tomoya,0,0,0,,Không được. Em phải quay về.{No. I have to go back.}
-Dialogue: 100,0:30:52.62,0:30:53.67,UNNM_Main_1080p,Ayane,0,0,0,,Tại sao?{Why?}
-Dialogue: 100,0:30:57.75,0:30:59.38,UNNM_Main_1080p,Ayane,0,0,0,,{Có ý nghĩa gì chứ. - What's the point?}Về đó để được gì?
-Dialogue: 100,0:31:00.05,0:31:03.80,UNNM_Main_1080p,Ayane,0,0,0,,{[/q2]Sao cứ phải bám lấy\Ncái thế giới khắc nghiệt đến như vậy? - Why would you cling onto a world \Nthat only makes you suffer?}Sao cứ phải bấu víu cái thế giới\N mà hở mở mắt ra là thấy bứt rứt trong người?
-Dialogue: 100,0:31:08.68,0:31:09.31,UNNM_Main_1080p,Ayane,0,0,0,,Tại sao chứ?!{Why?!}
-Dialogue: 100,0:31:15.15,0:31:18.77,UNNM_Main_1080p,Tomoya,0,0,0,,{Đúng là toàn những điều mà em chán ghét. - You're right. My life's nothing but a chore.}Chị nói đúng. Đời em chỉ toàn chuyện đáng ghét.
-Dialogue: 100,0:31:20.03,0:31:21.44,UNNM_Main_1080p,Tomoya,0,0,0,,{Nhưng vẫn chưa kết thúc. - But it's not over yet!}Nhưng nó vẫn chưa kết thúc!
-Dialogue: 100,0:31:22.57,0:31:25.28,UNNM_Main_1080p,Tomoya,0,0,0,,{Với Ryou và Aoi. - Just like Ryou and Aoi,}Những con người giống như Ryou với Aoi,
-Dialogue: 100,0:31:25.78,0:31:29.95,UNNM_Main_1080p,Tomoya,0,0,0,,{[/q2]Chỉ cần ngẩng mặt lên một chút\Nlà có thể có những cuộc gặp gỡ mới lạ. - I learned that if you just look up, \Nthere's always someone waiting to pick you up.}em học được rằng chỉ cần ngẩng mặt lên\N là sẽ gặp được những con người mới lạ.
-Dialogue: 100,0:31:31.20,0:31:33.33,UNNM_Main_1080p,Tomoya,0,0,0,,Mi không phải chị Ayane.{You're not Ayane.}
-Dialogue: 100,0:31:33.33,0:31:35.29,UNNM_Main_1080p,Tomoya,0,0,0,,{[/q2]Chính là tôi đang đi tìm lý do để chết. - You're the part of me that's \Nlooking for a reason to die!}Mà là một phần trong tôi,\Nphần kiếm tìm lý do để chết!
-Dialogue: 100,0:31:36.21,0:31:40.42,UNNM_Main_1080p,Tomoya,0,0,0,,Tôi phải trở về thực tại và đi tìm chị Ayane.{I need to get back to \Nthe real world and find Ayane.}
-Dialogue: 100,0:31:41.09,0:31:42.80,UNNM_Main_1080p,Tomoya,0,0,0,,{Với tôi thì sẽ là một ngày nào đó, - My time's going to come one day.}Sự thật rằng một mai tôi phải lìa đời.
-Dialogue: 100,0:31:43.67,0:31:46.01,UNNM_Main_1080p,Tomoya,0,0,0,,{Với Ayane thì đã qua rồi. - Ayane's time has already passed.}Sự thật rằng quãng đời của chị Ayane đã chấm dứt.
-Dialogue: 100,0:31:46.72,0:31:47.68,UNNM_Main_1080p,Tomoya,0,0,0,,Tôi...{I've...}
-Dialogue: 100,0:31:48.30,0:31:50.60,UNNM_Main_1080p,Tomoya,0,0,0,,Tôi phải học cách chấp nhận\N những điều đó trước mới được!{I've gotta come to terms with those things first!}
-Dialogue: 100,0:32:13.45,0:32:13.95,UNNM_Main_1080p,Aoi,0,0,0,,Tomoya!{Tomoya!}
-Dialogue: 100,0:32:13.95,0:32:14.37,UNNM_Main_1080p,Ryou,0,0,0,,Tomoya!{Tomoya!}
-Dialogue: 100,0:32:45.74,0:32:46.78,UNNM_Main_1080p,Tomoya,0,0,0,,Tốt quá rồi.{I'm so glad.}
-Dialogue: 100,0:33:00.00,0:33:02.88,UNNM_Main_1080p,Ayane,0,0,0,,Cảm ơn cậu vì đã tìm thấy tôi.{Thank you for finding me.}
-Dialogue: 100,0:33:19.39,0:33:20.60,UNNM_Main_1080p,Tomoya's Mom,0,0,0,,Tới liền.{Coming.}
-Dialogue: 100,0:33:33.58,0:33:34.49,UNNM_Main_1080p,Tomoya's Mom,0,0,0,,Ayane?{Ayane?}
-Dialogue: 100,0:34:17.66,0:34:20.50,UNNM_Main_1080p,Tomoya,0,0,0,,{So, summer's come again, huh?}Lại tới mùa hè rồi ha?
-Dialogue: 100,0:34:24.63,0:34:27.42,UNNM_Main_1080p,Ryou,0,0,0,,{Này, sau đấy hai người thế nào? - How have you guys been doing?}Sao rồi? Từ đó tới nay vẫn ổn chứ?
-Dialogue: 100,0:34:28.05,0:34:29.46,UNNM_Main_1080p,Ryou,0,0,0,,{Có đang sống khỏe mạnh không đấy? - Things looking up at all?}Có đang sống khoẻ sống vui không đó?
-Dialogue: 100,0:34:32.13,0:34:32.93,UNNM_Main_1080p,Tomoya,0,0,0,,Có.{Yeah.}
-Dialogue: 100,0:34:34.93,0:34:36.05,UNNM_Main_1080p,Tomoya,0,0,0,,Không nhiều thì ít.{Bằng một cách nào đó. - Somewhat.}
-Dialogue: 100,0:34:40.68,0:34:44.56,UNNM_Main_1080p,Tomoya,0,0,0,,{\q2}Sống cho bản thân tưởng dễ\N nhưng hoá ra hơi bị khó nhằn.{Living for yourself isn't the walk \Nin the park I thought it would be.}
-Dialogue: 100,0:34:45.44,0:34:46.19,UNNM_Main_1080p,Aoi,0,0,0,,{Tôi nữa. - Same here.}Mình cũng vậy nè.
-Dialogue: 100,0:34:48.94,0:34:51.53,UNNM_Main_1080p,Aoi,0,0,0,,{Vẫn còn tệ ơi là tệ. - Of course my life isn't suddenly all roses, but...}Vẫn còn tệ ơi là tệ, nhưng mà...
-Dialogue: 100,0:34:56.83,0:35:00.70,UNNM_Main_1080p,Aoi,0,0,0,,{Đừng... có lúc nào cũng đối xử với tôi như trẻ con nữa. - H-How long are you gonna \Nbehave like children?!M-Mấy người tính cư xử như trẻ con tới chừng nào nữa?! - OG}B-Bớt bớt mấy trò trẻ con lại đi!
-Dialogue: 100,0:35:00.70,0:35:02.83,UNNM_Main_1080p,Aoi,0,0,0,,{Nhưng dần dần cũng thay đổi đi từng chút. - But I feel like I'm taking small steps, at least.}Ít ra mình cũng thay đổi mỗi ngày một tí rồi.
-Dialogue: 100,0:35:05.33,0:35:10.21,UNNM_Main_1080p,Tomoya,0,0,0,,{Có lẽ nào cứ làm như ta được bảo sẽ dễ dàng hơn. - Maybe it'd be easier \Nif I just did what I was told.}Biết đâu được bảo gì làm đó \Nthì cuộc đời sẽ an nhàn hơn.
-Dialogue: 100,0:35:11.34,0:35:12.84,UNNM_Main_1080p,Tomoya,0,0,0,,{Đôi khi tôi cũng suy nghĩ. - I do doubt myself sometimes.}Lâu lâu cũng hoài nghi lắm.
-Dialogue: 100,0:35:14.55,0:35:15.43,UNNM_Main_1080p,Tomoya,0,0,0,,Nhưng mà kệ đi.{But it's fine.}
-Dialogue: 100,0:35:16.55,0:35:20.60,UNNM_Main_1080p,Tomoya,0,0,0,,{Dù có chuyện gì. - All things eventually come to an end.}Cái gì rồi cũng có ngày đi đến hồi kết.
-Dialogue: 100,0:35:20.89,0:35:23.10,UNNM_Main_1080p,Tomoya,0,0,0,,{Đằng nào cũng sẽ kết thúc,\Nthì không có gì phải sợ nữa. - Whenever I think that, all my fear disappears.}Mỗi lần nhớ tới chuyện đó thì lòng lại không còn sợ gì.
-Dialogue: 100,0:35:25.35,0:35:28.86,UNNM_Main_1080p,Tomoya,0,0,0,,{Tôi sẽ lựa chọn bản thân mình để tiến bước. - I'll be the one to make \Nthe decisions for myself.}Chính mình sẽ tự chọn con đường để bước đi.
-Dialogue: 100,0:35:34.36,0:35:35.45,UNNM_Main_1080p,Ryou,0,0,0,,{Tốt quá. - Good for you.}Vậy thì mừng.
-Dialogue: 100,0:35:41.58,0:35:42.87,UNNM_Main_1080p,Ryou,0,0,0,,{Sắp hết giờ rồi. - We're running out of time.}Coi bộ sắp hết giờ rồi.
-Dialogue: 100,0:35:43.83,0:35:45.67,UNNM_Main_1080p,Ryou,0,0,0,,{Thật mừng vì được nói chuyện với hai người. - I'm glad I got to talk to you guys.}Được trò chuyện với hai người, tui vui lắm.
-Dialogue: 100,0:35:46.42,0:35:48.38,UNNM_Main_1080p,Ryou,0,0,0,,{Vì lúc cuối không có cơ hội. - Since I didn't get to say goodbye.}Vì lúc ra đi đâu có nói được lời từ biệt.
-Dialogue: 100,0:35:52.76,0:35:54.63,UNNM_Main_1080p,Ryou,0,0,0,,Tại sao mình lại được sinh ra?{Why was I even born?}
-Dialogue: 100,0:35:55.38,0:35:57.34,UNNM_Main_1080p,Ryou,0,0,0,,{Tôi đã suy nghĩ về chuyện đó suốt. - That's the only thought \Nthat crossed my mind.}Đầu tui lúc nào cũng nghĩ về chuyện đó.
-Dialogue: 100,0:35:59.10,0:36:05.02,UNNM_Main_1080p,Ryou,0,0,0,,{[/q2]Nhưng, tôi tin là mình sẽ khỏi,\Nvà đã sống được đến mùa xuân. - But I got to see the next spring \Nbecause I believed I could be cured.}Nhưng tui sống được đến xuân năm sau \Ncũng vì tin rằng mình sẽ sớm khỏi.
-Dialogue: 100,0:36:06.90,0:36:10.69,UNNM_Main_1080p,Ryou,0,0,0,,{\q2}Đừng có khóc cho cái thằng \Nđã ngỏm từ nửa năm trước chứ.{Stop crying over someone \Nwho's been dead for months.}
-Dialogue: 100,0:36:11.73,0:36:14.99,UNNM_Main_1080p,Ryou,0,0,0,,{Nếu là hai người thì việc gì cũng sẽ qua thôi. - I'm sure things will work out for both of you.}Nếu là hai người thì gặp chuyện gì \Ncũng sẽ đâu vào đó thôi.
-Dialogue: 100,0:36:15.78,0:36:19.12,UNNM_Main_1080p,Ryou,0,0,0,,{Không có bảo đảm, nhưng để tôi bảo kê cho. - I don't have any proof of that, \Nbut I guarantee you they will.}Không có gì làm minh chứng,\N nhưng tui nói có là có.
-Dialogue: 100,0:36:20.28,0:36:21.04,UNNM_Main_1080p,Ryou,0,0,0,,Tomoya.{Tomoya.}
-Dialogue: 100,0:36:22.29,0:36:23.12,UNNM_Main_1080p,Ryou,0,0,0,,Aoi.{Aoi.}
-Dialogue: 100,0:36:24.91,0:36:26.21,UNNM_Main_1080p,Ryou,0,0,0,,{Cố gắng mà sống cho tốt nhá. - Live your best lives.}Ráng sống cho viên mãn đó.
-Dialogue: 100,0:36:49.02,0:36:50.12,UNNM_Main_1080p,Aoi,0,0,0,,Về thôi.{Let's head back.}
-Dialogue: 100,0:36:53.36,0:36:54.18,UNNM_Main_1080p,Tomoya,0,0,0,,Ừm.{Sure.}
+Comment: 0,0:00:00.00,0:00:00.02,UNNM_Main_1080p,chapter,0,0,0,,{Chapter 1}
+Comment: 0,0:00:19.00,0:00:19.04,UNNM_Main_1080p,chapter,0,0,0,,{Chapter 2}
+Comment: 0,0:08:40.50,0:08:40.54,UNNM_Main_1080p,chapter,0,0,0,,{Chapter 3}
+Comment: 0,0:20:07.60,0:20:07.64,UNNM_Main_1080p,chapter,0,0,0,,{Chapter 4}
+Comment: 0,0:33:12.97,0:33:13.01,UNNM_Main_1080p,chapter,0,0,0,,{Chapter 5}
+Dialogue: 0,0:00:34.77,0:00:36.10,UNNM_Main_1080p,Aoi,0,0,0,,{Đã lâu rồi nhỉ. - It's been a while, hasn't it?}Cũng lâu rồi...
+Dialogue: 0,0:00:37.06,0:00:38.69,UNNM_Main_1080p,Aoi,0,0,0,,{Hẹn gặp kiểu ba người như thế này ấy. - Since we've all been together.}cả ba mới hẹn gặp như vầy ha.
+Dialogue: 0,0:00:38.98,0:00:40.10,UNNM_Main_1080p,Tomoya,0,0,0,,{Cũng phải. - It really has.}Ừm.
+Dialogue: 0,0:00:41.02,0:00:42.06,UNNM_Main_1080p,Tomoya,0,0,0,,{Xin lỗi vì tôi đến muộn. - Sorry we couldn't do this sooner.}{Xin lỗi vì tới giờ mới hẹn gặp được. - OG}Xin lỗi vì không gặp sớm hơn được.
+Dialogue: 0,0:00:42.31,0:00:43.48,UNNM_Main_1080p,Ryou,0,0,0,,{Đừng để ý làm gì. - Don't worry about it.}Có gì đâu.
+Dialogue: 0,0:00:44.19,0:00:45.86,UNNM_Main_1080p,Ryou,0,0,0,,{Được gặp hai người thôi tôi cũng thấy vui rồi. - I'm just glad we can see each other at all.}Được gặp là đã vui lắm rồi.
+Dialogue: 0,0:00:49.36,0:00:52.37,UNNM_Main_1080p,Tomoya,0,0,0,,{Mùa hè, lại đến rồi nhỉ. - So, summer's come again, huh?}Lại tới mùa hè rồi ha?
+Dialogue: 0,0:00:56.91,0:00:58.71,UNNM_Main_1080p,Ryou,0,0,0,,{Đã một năm trôi qua rồi hả. - A year's come and gone, huh?}Vậy là qua một năm rồi à.
+Dialogue: 0,0:01:01.59,0:01:02.71,UNNM_Main_1080p,Tomoya,0,0,0,,Chị Ayane.{Ayane.}
+Dialogue: 0,0:01:20.10,0:01:21.19,UNNM_Main_1080p,Tomoya,0,0,0,,Bạn là Aoi phải không?{Are you Aoi?}
+Dialogue: 0,0:01:21.19,0:01:23.23,UNNM_Main_1080p,Aoi,0,0,0,,{Vâng. - Ah, yeah.}A, ừm.
+Dialogue: 0,0:01:23.23,0:01:26.40,UNNM_Main_1080p,Tomoya,0,0,0,,{Lần đầu gặp mặt, tôi là Sugisaki Tomoya. - Cool. I'm Sugisaki Tomoya.}Chào bạn nha. Mình là Sugisaki Tomoya.
+Dialogue: 0,0:01:26.86,0:01:27.73,UNNM_Main_1080p,Tomoya,0,0,0,,{Hân hạnh được làm quen. - Nice to meet you.}Hân hạnh làm quen.
+Dialogue: 0,0:01:28.53,0:01:29.65,UNNM_Main_1080p,Ryou,0,0,0,,Rốp rẻng vậy.{You guys are eager.}
+Dialogue: 0,0:01:31.07,0:01:32.45,UNNM_Main_1080p,Ryou,0,0,0,,{Vẫn còn 5 phút nữa đó. - Even I've got five minutes.}Năm phút nữa mới tới giờ mà.
+Dialogue: 0,0:01:33.95,0:01:34.99,UNNM_Main_1080p,Ryou,0,0,0,,Tui là Ryou.{I'm Ryou.}
+Dialogue: 0,0:01:35.45,0:01:36.41,UNNM_Main_1080p,Ryou,0,0,0,,Hân hạnh được làm quen.{Nice to meet you two.}
+Dialogue: 0,0:01:36.41,0:01:37.54,UNNM_Main_1080p,Aoi,0,0,0,,{Rất hân hạnh. - You, too.}Ừm, chào bạn nha.
+Dialogue: 0,0:01:37.54,0:01:39.91,UNNM_Main_1080p,Tomoya,0,0,0,,Coi bộ đông đủ rồi.{Okay. Looks like we're all here.}
+Dialogue: 0,0:01:41.62,0:01:43.13,UNNM_Main_1080p,Tomoya,0,0,0,,{Vậy thì, bắt đầu thôi nào. - Shall we get started?}Bắt tay vào việc thôi.
+Dialogue: 0,0:01:47.17,0:01:48.30,UNNM_Main_1080p,Tomoya,0,0,0,,Đầu tiên bàn bạc cái đã.{First, let's lay everything out.}
+Dialogue: 0,0:01:48.67,0:01:52.51,UNNM_Main_1080p,Tomoya,0,0,0,,{Lý do chúng ta tập trung ở đây là để đi tìm hồn ma. - We all came here today to find a ghost.}Bữa nay ba đứa tới đây là để tìm một hồn ma.
+Dialogue: 0,0:01:52.76,0:01:54.09,UNNM_Main_1080p,Tomoya,0,0,0,,{Tên thường gọi là "Summer Ghost". - The Summer Ghost, to be exact.}Phải gọi là Bóng Ma Mùa Hạ mới đúng.
+Dialogue: 0,0:01:54.55,0:01:55.72,UNNM_Main_1080p,Tomoya,0,0,0,,Từ khoảng mấy năm trước,{For the past couple years,}
+Dialogue: 0,0:01:56.35,0:01:58.10,UNNM_Main_1080p,Tomoya,0,0,0,,{chỉ đúng chỗ này vào mùa hè\Nmới có người chứng kiến. - it's been spotted around here every summer.}người ta hay thấy nó loanh quanh khu này.
+Dialogue: 0,0:01:58.60,0:02:00.68,UNNM_Main_1080p,Ryou,0,0,0,,{Có lời đồn nếu đốt pháo hoa thì nó sẽ ra đó. - I hear you've gotta have fireworks.}Nghe đồn đốt pháo hoa là nó chui ra á.
+Dialogue: 0,0:02:01.10,0:02:01.98,UNNM_Main_1080p,Aoi,0,0,0,,Pháo hoa?{Fireworks?}
+Dialogue: 0,0:02:01.98,0:02:04.56,UNNM_Main_1080p,Ryou,0,0,0,,{[/q2]Ừ, những người mà thấy tất cả đều đốt cả. - Yeah. Apparently everyone \Nwho's seen it was playing with 'em.}Ừ. Hình như người nào thấy đều có đốt hết.
+Dialogue: 0,0:02:06.27,0:02:07.90,UNNM_Main_1080p,Tomoya,0,0,0,,Ngoại hình là một cô gái trên dưới 20 tuổi.{It's supposedly a woman \Nin her early twenties.}
+Dialogue: 0,0:02:09.15,0:02:11.70,UNNM_Main_1080p,Tomoya,0,0,0,,Tóc dài, mặc quần áo đen.{She's got long hair and black clothes.}
+Dialogue: 0,0:02:12.61,0:02:15.53,UNNM_Main_1080p,Tomoya,0,0,0,,{\q2}Nếu mà cần minh hoạ thì chắc sẽ giống vầy.{If I had to draw her, \Nshe'd probably look something like this.}
+Dialogue: 0,0:02:15.91,0:02:16.95,UNNM_Main_1080p,Aoi,0,0,0,,{Giỏi vậy. - You're so good.}Vẽ đẹp vậy.
+Dialogue: 0,0:02:18.49,0:02:20.12,UNNM_Main_1080p,Ryou,0,0,0,,Người đẹp như thế này á hả?{A pretty lady like her, huh?}
+Dialogue: 0,0:02:21.96,0:02:23.67,UNNM_Main_1080p,Tomoya,0,0,0,,{Nếu theo lời đồn thì hồn ma này, - If the rumors are true, then this ghost}Nếu người ta đồn đúng, thì đây là hồn ma
+Dialogue: 0,0:02:25.54,0:02:27.42,UNNM_Main_1080p,Tomoya,0,0,0,,{là hồn ma của người đã tự sát. - is the ghost of someone \Nwho committed suicide.}của người đã tự vẫn.
+Dialogue: 0,0:02:32.38,0:02:33.18,UNNM_Main_1080p,Tomoya,0,0,0,,Sao vậy?{What's wrong?}
+Dialogue: 0,0:02:33.18,0:02:34.80,UNNM_Main_1080p,Aoi,0,0,0,,H-Hổng có gì.{O-Oh, it's nothing.}
+Dialogue: 0,0:02:35.43,0:02:39.26,UNNM_Main_1080p,Aoi,0,0,0,,{[/q2]bình tĩnh lại rồi thì tôi thấy hơi sợ ma một chút. - Just, now that it's had time to sink in, \NI've realized I'm kinda scared of ghosts.}Chẳng qua là giờ suy nghĩ thấu đáo rồi\Nmới nhớ ra mình hơi sợ ma.
+Dialogue: 0,0:02:39.26,0:02:41.06,UNNM_Main_1080p,Ryou,0,0,0,,{Mãi đến giờ á? - This late in the game?Giờ mới nhớ hả? - OG}Đi tới đây rồi mới nhớ hả?
+Dialogue: 0,0:02:42.14,0:02:43.89,UNNM_Main_1080p,Ryou,0,0,0,,{Mà, quay đầu về cũng được. - I mean, whatever, you don't have to come.}Thôi, sợ thì cứ về đi.
+Dialogue: 0,0:02:43.89,0:02:44.52,UNNM_Main_1080p,Ryou,0,0,0,,Thằng này vẫn đi.{I know I'm going.}
+Dialogue: 0,0:02:44.52,0:02:48.27,UNNM_Main_1080p,Aoi,0,0,0,,{Xin lỗi xin lỗi, tôi cũng sẽ đi mà. - Sorry! I'm just being silly! I'm coming, too!}Xin lỗi mà! Coi như chưa nói gì đi! \NĐể mình đi chung nữa!
+Dialogue: 0,0:02:48.27,0:02:50.82,UNNM_Main_1080p,Aoi,0,0,0,,{Nói là sợ nhưng cũng chỉ có tẹo thôi mà. - Sure, I'm scared, but it's just a little bit.}Có sợ thiệt, nhưng mà sợ chút xíu à.
+Dialogue: 0,0:02:50.82,0:02:55.45,UNNM_Main_1080p,Aoi,0,0,0,,{[/q2]Vậy thì xem nào, tại sao Tomoya\Nlại muốn đi gặp hồn ma hả? - Oh, actually, why do you want \Nto see this ghost, Tomoya?}Mà cho hỏi cái nha, sao Tomoya \Nlại muốn gặp hồn ma này dạ?
+Dialogue: 0,0:02:55.45,0:02:58.24,UNNM_Main_1080p,Aoi,0,0,0,,{\q2[/q2]Người đã gửi thư cho chúng tôi\Nlà Tomoya phải không? - I mean, you were the one \Nwho reached out to us about this.}Tại bạn là người liên lạc với tụi mình mà phải hông nè?
+Dialogue: 0,0:02:59.99,0:03:00.70,UNNM_Main_1080p,Tomoya,0,0,0,,{Bí mật. - Who knows?}Không nói đâu.
+Dialogue: 0,0:03:00.95,0:03:03.29,UNNM_Main_1080p,Aoi,0,0,0,,{Ủa, tại sao? - Come on! What's that about?}Ủa? Kỳ cục vậy!
+Dialogue: 0,0:03:03.79,0:03:04.46,UNNM_Main_1080p,Ryou,0,0,0,,Lạnh lùng ghê.{Ouch, dude.}
+Dialogue: 0,0:03:09.29,0:03:10.75,UNNM_Main_1080p,Teacher,0,0,0,,Sugisaki.{Sugisaki.}
+Dialogue: 0,0:03:11.63,0:03:15.26,UNNM_Main_1080p,Teacher,0,0,0,,A, A, A, A, A...
+Dialogue: 0,0:03:16.05,0:03:17.68,UNNM_Main_1080p,Teacher,0,0,0,,Không có gì để chê.{Looking good.}
+Dialogue: 0,0:03:17.68,0:03:20.22,UNNM_Main_1080p,Teacher,0,0,0,,{Em vẫn như mọi khi nhỉ. - You never fail to impress me.}Vẫn giỏi như mọi ngày.
+Dialogue: 0,0:03:20.22,0:03:22.51,UNNM_Main_1080p,Teacher,0,0,0,,{Thấy cũng muốn mấy đứa khác học hỏi theo lắm. - I wish the other students \Nwould learn from you.}Phải chi mấy đứa khác\Nlấy em làm gương thì thầy mừng quá.
+Dialogue: 0,0:03:22.94,0:03:24.22,UNNM_Main_1080p,Tomoya,0,0,0,,{Cảm ơn thầy rất nhiều. - Thank you.}Cảm ơn thầy đã khen.
+Dialogue: 0,0:03:25.64,0:03:26.98,UNNM_Main_1080p,Teacher,0,0,0,,Sugisaki.{Sugisaki.}
+Dialogue: 0,0:03:26.98,0:03:27.75,UNNM_Main_1080p,Tomoya,0,0,0,,{Vâng. - Yes, sir?}Dạ?
+Dialogue: 0,0:03:30.65,0:03:31.69,UNNM_Main_1080p,Teacher,0,0,0,,{Thầy kỳ vọng vào em. - You're gonna go far.}Tương lai xán lạn đó.
+Dialogue: 0,0:03:54.97,0:03:55.42,UNNM_Main_1080p,Ryou,0,0,0,,Tomoya.{Tomoya.}
+Dialogue: 0,0:03:57.93,0:03:59.51,UNNM_Main_1080p,Ryou,0,0,0,,{Có chuyện gì sao mà khuôn mặt như vậy. - What are you spacing out for?}Bị gì mà đứng đực ra vậy?
+Dialogue: 0,0:04:00.68,0:04:01.51,UNNM_Main_1080p,Ryou,0,0,0,,{Đến rồi đó. - We're here.}Tới rồi.
+Dialogue: 0,0:04:13.90,0:04:14.99,UNNM_Main_1080p,Aoi,0,0,0,,{Rộng ghê. - Look at all this space!}Rộng quá trời quá đất!
+Dialogue: 0,0:04:14.99,0:04:17.07,UNNM_Main_1080p,Tomoya,0,0,0,,Ngày xưa đây là sân bay đấy.{This used to be an airport.}
+Dialogue: 0,0:04:17.07,0:04:19.07,UNNM_Main_1080p,Tomoya,0,0,0,,Hình như làm ăn không thuận lợi nên mới đóng cửa.{I heard it closed down \Nbecause it wasn't profitable.}
+Dialogue: 0,0:04:19.07,0:04:21.74,UNNM_Main_1080p,Ryou,0,0,0,,{Này. Mau làm nhanh đê. - Guys! Let's get started already.}Hai người kia! Khẩn trương lên.
+Dialogue: 0,0:04:28.21,0:04:31.34,UNNM_Main_1080p,Aoi,0,0,0,,{Thực sự là có không nhỉ, Summer Ghost ấy. - You think this Summer Ghost really exists?}Rồi hổng biết Bóng Ma Mùa Hạ có thiệt hông.
+Dialogue: 0,0:04:32.09,0:04:33.30,UNNM_Main_1080p,Tomoya,0,0,0,,{Tôi cũng không biết. - Who knows?}Bó tay.
+Dialogue: 0,0:04:33.30,0:04:36.30,UNNM_Main_1080p,Tomoya,0,0,0,,{\q2}Nhưng mà người ta nói pháo hoa \Ncó thể trấn an linh hồn người chết á.{They do say that fireworks are meant \Nto calm the souls of the dead.}
+Dialogue: 0,0:04:38.88,0:04:40.68,UNNM_Main_1080p,Ryou,0,0,0,,Họ mà cảm nhận được thì tốt quá.{I hope they see them, then.}
+Dialogue: 0,0:04:48.77,0:04:50.10,UNNM_Main_1080p,Ryou,0,0,0,,{Không đến rồi. - Looks like it's a no-show.}Công cốc rồi.
+Dialogue: 0,0:04:50.65,0:04:52.61,UNNM_Main_1080p,Aoi,0,0,0,,{Chúng ta cũng đốt khá nhiều rồi mà. - And we burned through so many, too.}Ừm, đốt quá trời mà hông thấy gì.
+Dialogue: 0,0:04:52.94,0:04:54.90,UNNM_Main_1080p,Ryou,0,0,0,,{Vậy thì, đây là que cuối rồi. - Okay. Last one.}Thôi đốt cho hết. Que cuối rồi.
+Dialogue: 0,0:04:54.90,0:04:55.78,UNNM_Main_1080p,Ryou,0,0,0,,Aoi.{Could you, Aoi?}
+Dialogue: 0,0:05:04.66,0:05:08.91,UNNM_Main_1080p,Ryou,0,0,0,,{[/q2]Tomoya. Tôi, thực ra tin có hồn ma đó. - You know, Tomoya, I actually \Nbelieved we'd get to see it.}Thực lòng mà nói, tôi tin là có ma đó, Tomoya.
+Dialogue: 0,0:05:10.08,0:05:11.50,UNNM_Main_1080p,Ryou,0,0,0,,{Thật đáng tiếc vì không có. - I'm kinda sad it didn't show up.Cơ mà hơi buồn vì vẫn chưa thấy. - OG}Nay chưa thấy nên cũng hơi buồn.
+Dialogue: 0,0:05:12.08,0:05:14.67,UNNM_Main_1080p,Ryou,0,0,0,,{Nhưng, dạo gần đây là vui nhất đó. - Still, though, I haven't \Nhad this much fun in a while.}Có điều dạo gần đây tôi vui lắm luôn.
+Dialogue: 0,0:05:15.67,0:05:17.01,UNNM_Main_1080p,Ryou,0,0,0,,{Thật mừng vì đã gặp được hai người. - I'm glad I got to meet you guys.}Có duyên gặp được hai người, mừng lắm.
+Dialogue: 0,0:05:17.97,0:05:18.80,UNNM_Main_1080p,Ryou,0,0,0,,{Cảm ơn nhé. - Seriously, thank you.}Cảm ơn nha.
+Dialogue: 0,0:05:29.48,0:05:31.02,UNNM_Main_1080p,Ryou,0,0,0,,Nóng!{Damn, that's hot!}
+Dialogue: 0,0:05:31.02,0:05:32.15,UNNM_Main_1080p,Aoi,0,0,0,,{Cái gì vậy? - What was that?}Bị cái gì dạ?
+Dialogue: 0,0:05:32.15,0:05:33.44,UNNM_Main_1080p,Aoi,0,0,0,,{Nghĩa là sao? - Why's it going crazy?Hổng hiểu sao tự dưng nó cháy hỗn luôn. - OG}Tự dưng nó phực lên một cái.
+Dialogue: 0,0:05:34.69,0:05:35.52,UNNM_Main_1080p,Tomoya,0,0,0,,{Đến rồi. - She's real.}Xuất hiện rồi.
+Dialogue: 0,0:05:44.49,0:05:46.08,UNNM_Main_1080p,Tomoya,0,0,0,,Chị là Bóng Ma Mùa Hạ phải không?{Are you the Summer Ghost?}
+Dialogue: 0,0:05:47.20,0:05:48.08,UNNM_Main_1080p,Ayane,0,0,0,,{Phải đó. - Indeed.}Phải.
+Dialogue: 0,0:05:49.37,0:05:50.79,UNNM_Main_1080p,Ayane,0,0,0,,{Rốt cuộc là có chuyện gì? - To what do I owe the pleasure?Mấy người kiếm tôi có việc gì? - OG}Mấy người kiếm tôi có việc gì?
+Dialogue: 0,0:05:51.79,0:05:53.21,UNNM_Main_1080p,Ayane,0,0,0,,{Loại người như tôi, - What could you possibly want}Muốn gì mà
+Dialogue: 0,0:05:54.17,0:05:55.84,UNNM_Main_1080p,Ayane,0,0,0,,{một người đã chết, - from someone who's already dead?}lại kiếm một người đã chết?
+Dialogue: 0,0:06:22.95,0:06:24.07,UNNM_Main_1080p,A,0,0,0,,{\an8}Trúng phóc!{Direct hit!}
+Dialogue: 0,0:06:22.95,0:06:24.87,UNNM_Overlap_1080p,B,0,0,0,,{\an8}Thằng này căn chuẩn phết chứ chả đùa.{Your timing's on point, dude.}
+Dialogue: 0,0:06:24.07,0:06:24.87,UNNM_Main_1080p,C,0,0,0,,{\an8}Ghê!{Nice one.}
+Dialogue: 0,0:06:32.12,0:06:33.87,UNNM_Main_1080p,A,0,0,0,,Làm cái đéo gì vậy con nhỏ này?!{The hell are you doing?!}
+Dialogue: 0,0:06:33.87,0:06:34.96,UNNM_Main_1080p,A,0,0,0,,{Đừng có mà giỡn! - Don't be stupid!}Đéo vui đâu!
+Dialogue: 0,0:06:34.96,0:06:36.42,UNNM_Main_1080p,A,0,0,0,,Bớt cựa quậy rồi đi xuống giùm!{Quit struggling and get down here!}
+Dialogue: 0,0:06:34.96,0:06:36.42,UNNM_Overlap_1080p,Aoi,0,0,0,,Thả tui ra!{Let go of me!}
+Dialogue: 0,0:06:36.92,0:06:40.26,UNNM_Main_1080p,D,0,0,0,,{\q2}Lâu ngày mới thấy đến trường mà lại đâu vào đó à?{She finally decides to come to school, \Nand we're back to this already?}
+Dialogue: 0,0:06:40.26,0:06:44.05,UNNM_Main_1080p,E,0,0,0,,{Cái kiểu suy nghĩ như vậy,\Nchắc là con bé nó có vấn đề rồi. - If you ask me, the problem's with her.}Suy nghĩ kiểu đó thì nhỏ có vấn đề mẹ rồi.
+Dialogue: 0,0:06:51.22,0:06:55.19,UNNM_Main_1080p,Aoi,0,0,0,,{Hồn ma cũng có tầng cấp không ạ? - Do ghosts gang up on each other, too?}Hồn ma có lập bè lập phái\Nđể bắt nạt người khác hông chị?
+Dialogue: 0,0:06:56.27,0:06:57.90,UNNM_Main_1080p,Ayane,0,0,0,,{Nào, ai biết được. - Hmm, I'm not sure.}Chịu. Đoán xem.
+Dialogue: 0,0:06:58.40,0:07:00.40,UNNM_Main_1080p,Ayane,0,0,0,,{Cơ bản thì chỉ có mình tôi thôi. - We might be all on our own, actually.}Có khi là thân ai nấy sống thôi.
+Dialogue: 0,0:07:02.65,0:07:04.28,UNNM_Main_1080p,Aoi,0,0,0,,{Thật mừng quá. - Good.}Vậy thì hay quá.
+Dialogue: 0,0:07:04.28,0:07:05.99,UNNM_Main_1080p,Aoi,0,0,0,,{Vậy bên kia thoải mái hơn. - I prefer it that way.}Em thích như vậy hơn nhiều.
+Dialogue: 0,0:07:05.99,0:07:09.62,UNNM_Main_1080p,Ayane,0,0,0,,{Mà, có người thì chắc gì đã tốt. - I get it. Being around people isn't all smiles.}Ừm. Đâu phải cứ ở cạnh người khác\N là toàn niềm vui đâu.
+Dialogue: 0,0:07:11.83,0:07:12.62,UNNM_Main_1080p,Ryou,0,0,0,,Sao vậy?{What's wrong?}
+Dialogue: 0,0:07:13.08,0:07:16.46,UNNM_Main_1080p,Tomoya,0,0,0,,Không có gì. Tại để ý thấy pháo hoa cứ cháy suốt.{Nothing. Just noticed \Nthat the sparkler's still going.}
+Dialogue: 0,0:07:16.46,0:07:19.17,UNNM_Main_1080p,Ryou,0,0,0,,{Thấy khó chịu thật. - You're right. Kinda creepy.}Ừa. Ghê ghê kiểu gì á.
+Dialogue: 0,0:07:20.75,0:07:24.55,UNNM_Main_1080p,Ayane,0,0,0,,{Này, em cô đơn ở trong lớp à? - Tell me. Are you an outcast at school?}Em gái bị cô lập trong lớp hả?
+Dialogue: 0,0:07:24.55,0:07:26.51,UNNM_Main_1080p,Ayane,0,0,0,,{Vì thế nên muốn chết đi phải không? - Is that why you want to die?}Nên mới muốn chết chứ gì?
+Dialogue: 0,0:07:27.72,0:07:30.56,UNNM_Main_1080p,Ayane,0,0,0,,{Tôi không phải ai cũng thấy đâu. - Thing is, not everyone can see me.}Nói cho mà biết, không phải ai cũng thấy tôi đâu.
+Dialogue: 0,0:07:30.56,0:07:32.43,UNNM_Main_1080p,Ayane,0,0,0,,{Tôi chỉ thấy được những người - I'm visible only to thoseNgười nào thấy được chị - OG}Người nào mà thấy được tôi
+Dialogue: 0,0:07:32.43,0:07:34.98,UNNM_Main_1080p,Ayane,0,0,0,,{đang sắp sửa chạm vào cái chết mà thôi. - who are within arm's reach of death.}thì sắp gần đất xa trời rồi.
+Dialogue: 0,0:07:36.56,0:07:39.64,UNNM_Main_1080p,Aoi,0,0,0,,Vậy Tomoya với Ryou cũng...{So Tomoya and Ryou also...}
+Dialogue: 0,0:07:43.36,0:07:45.07,UNNM_Main_1080p,Ayane,0,0,0,,Hai người kia thì sao?{What about you two?}
+Dialogue: 0,0:07:45.57,0:07:46.61,UNNM_Main_1080p,Ayane,0,0,0,,Hỏi gì không?{Any questions?}
+Dialogue: 0,0:07:47.86,0:07:49.20,UNNM_Main_1080p,Tomoya,0,0,0,,À thì, chị Bóng Ma Mùa Hạ...{So Summer Ghost, you're—}
+Dialogue: 0,0:07:49.20,0:07:50.45,UNNM_Main_1080p,Ayane,0,0,0,,Satou Ayane.{Satou Ayane.}
+Dialogue: 0,0:07:53.12,0:07:54.71,UNNM_Main_1080p,Ayane,0,0,0,,Tên của tôi đó.{I have a name.}
+Dialogue: 0,0:07:55.83,0:07:58.13,UNNM_Main_1080p,Tomoya,0,0,0,,Chị Ayane là hồn ma phải không?{So Ayane, you're a ghost, right?}
+Dialogue: 0,0:07:58.13,0:07:59.96,UNNM_Main_1080p,Tomoya,0,0,0,,{Chết đi mọi người đều vậy sao? - Does everyone become one after they die?}Ai chết cũng thành ma à?
+Dialogue: 0,0:08:00.34,0:08:01.42,UNNM_Main_1080p,Ayane,0,0,0,,Chịu.{Dunno.}
+Dialogue: 0,0:08:02.13,0:08:03.71,UNNM_Main_1080p,Ayane,0,0,0,,{Câu muốn hỏi gì? - What do you want to know?}Muốn biết gì mà hỏi câu đó?
+Dialogue: 0,0:08:04.01,0:08:07.34,UNNM_Main_1080p,Tomoya,0,0,0,,{Tôi muốn biết ma nhìn thấy thế giới với đôi mắt nào. - How do ghosts perceive this world?}Em muốn biết ma nhìn thấy thế giới này ra sao.
+Dialogue: 0,0:08:07.84,0:08:09.05,UNNM_Main_1080p,Tomoya,0,0,0,,{Tôi muốn biết. - I'm curious.}Mong chị trả lời.
+Dialogue: 0,0:08:11.05,0:08:12.18,UNNM_Main_1080p,Ayane,0,0,0,,{Đó là điều không thể. - I wish I could tell you.}Khó cho tôi rồi.
+Dialogue: 0,0:08:13.22,0:08:15.23,UNNM_Main_1080p,Ayane,0,0,0,,{Vì không phải cứ giải thích là hiểu được đâu. - It's not something so easily explained.}Vì không phải nói là hiểu được liền.
+Dialogue: 0,0:08:16.48,0:08:19.27,UNNM_Main_1080p,Ayane,0,0,0,,{[/q2]Việc của ma thì chỉ có ma mới hiểu. - Some things you can only understand \Nafter you become a ghost.Muốn hiểu chuyện của ma thì chỉ có nước làm ma. - OG}Chỉ có làm ma thì mới hiểu chuyện của ma.
+Dialogue: 0,0:08:20.19,0:08:21.86,UNNM_Main_1080p,Ayane,0,0,0,,{Tôi sắp phải đi rồi. - It's about time I get going.}Sắp sửa tới giờ đi rồi.
+Dialogue: 0,0:08:22.44,0:08:23.94,UNNM_Main_1080p,Ayane,0,0,0,,{Được nói chuyện với mấy người tôi vui lắm. - It's been fun talking with you.}Nói chuyện với mấy người vui lắm.
+Dialogue: 0,0:08:25.03,0:08:25.78,UNNM_Main_1080p,Ayane,0,0,0,,{Thôi nhé. - See you.}Chào nha.
+Dialogue: 0,0:08:27.20,0:08:28.49,UNNM_Main_1080p,Ayane,0,0,0,,Trăm ngàn oán hận.{Boo.}
+Dialogue: 0,0:08:31.07,0:08:33.12,UNNM_Main_1080p,Aoi,0,0,0,,T-Trăm ngàn oán hận{B-Boo.}
+Dialogue: 0,0:08:35.08,0:08:38.29,UNNM_Main_1080p,Ryou,0,0,0,,Không ngờ là ma có thiệt đó.{So ghosts really do exist, huh?}
+Dialogue: 0,0:08:43.71,0:08:44.67,UNNM_Main_1080p,Doctor,0,0,0,,Xong rồi.{That'll be all for today.}
+Dialogue: 0,0:08:45.26,0:08:47.26,UNNM_Main_1080p,Doctor,0,0,0,,Có gì không ổn thì phải liên lạc ngay.{If something happens, \Ncontact me immediately.}
+Dialogue: 0,0:08:47.59,0:08:48.80,UNNM_Main_1080p,Ryou,0,0,0,,Em hiểu rồi.{I will.}
+Dialogue: 0,0:08:49.26,0:08:50.76,UNNM_Main_1080p,Doctor,0,0,0,,Phụ huynh em đâu?{Your parents not here today?}
+Dialogue: 0,0:08:50.76,0:08:52.43,UNNM_Main_1080p,Ryou,0,0,0,,{Họ ở nhà. - I had them stay at home.}Em dặn họ ở nhà rồi.
+Dialogue: 0,0:08:52.80,0:08:54.97,UNNM_Main_1080p,Ryou,0,0,0,,{Để họ khóc ở bệnh viện thì phiền lắm. - No sense bringing them here just to cry.}Cho họ đi theo rồi khóc lóc ở bệnh viện \Nthì không hay cho lắm.
+Dialogue: 0,0:09:01.73,0:09:03.23,UNNM_Main_1080p,Ryou,0,0,0,,{Có cố gắng đấy. - You're working hard, huh?}Chăm dữ bây?
+Dialogue: 0,0:09:03.94,0:09:05.07,UNNM_Main_1080p,Kouhai,0,0,0,,Ủa anh?!{Kobayashi!}
+Dialogue: 0,0:09:05.07,0:09:06.11,UNNM_Main_1080p,Ryou,0,0,0,,Lâu rồi không gặp.{Been a while.}
+Dialogue: 0,0:09:08.70,0:09:11.53,UNNM_Main_1080p,Kouhai,0,0,0,,{Tiền bối, sao anh lại bỏ bóng vậy ạ? - Hey, why did you quit playing?}Cho em hỏi, sao anh nghỉ chơi bóng rổ vậy?
+Dialogue: 0,0:09:12.99,0:09:13.95,UNNM_Main_1080p,Ryou,0,0,0,,Thích bỏ thôi.{Kinda felt like it.}
+Dialogue: 0,0:09:14.20,0:09:15.99,UNNM_Main_1080p,Kouhai,0,0,0,,Thích bỏ á...{You... felt like it?}
+Dialogue: 0,0:09:17.04,0:09:19.16,UNNM_Main_1080p,Ryou,0,0,0,,Anh mày sắp chết rồi.{I'm gonna die soon.}
+Dialogue: 0,0:09:19.16,0:09:19.62,UNNM_Main_1080p,Kouhai,0,0,0,,{Hể? - What?}Hả?
+Dialogue: 0,0:09:21.67,0:09:23.38,UNNM_Main_1080p,Ryou,0,0,0,,{Chỉ còn được 9 tháng nữa. - They're saying I've got nine months left.}Chỉ sống được thêm chín tháng thôi.
+Dialogue: 0,0:09:23.96,0:09:25.80,UNNM_Main_1080p,Ryou,0,0,0,,{Không nhìn được hoa anh đào năm sau nữa rồi. - I'll never see the cherry blossoms again.}Khỏi ngắm hoa anh đào năm sau luôn.
+Dialogue: 0,0:09:30.01,0:09:31.26,UNNM_Main_1080p,Ryou,0,0,0,,{Đùa thôi. - Just kidding.}Giỡn tí.
+Dialogue: 0,0:09:32.34,0:09:33.35,UNNM_Main_1080p,Ryou,0,0,0,,{Nghĩ thật à? - What, you bought it?}Mày tưởng thiệt à?
+Dialogue: 0,0:09:36.77,0:09:39.35,UNNM_Main_1080p,Kouhai,0,0,0,,{Trời, dừng lại đi. - Oh, come on. Don't scare me like that.}Cái anh này. Đừng có nói chuyện không hên chứ.
+Dialogue: 0,0:09:39.35,0:09:41.06,UNNM_Main_1080p,Kouhai,0,0,0,,Làm người ta tin sái cổ.{You almost had me worried there.}
+Dialogue: 0,0:10:00.66,0:10:01.25,UNNM_Main_1080p,Tomoya's Mom,0,0,0,,Tomoya.{Tomoya.}
+Dialogue: 0,0:10:02.00,0:10:03.08,UNNM_Main_1080p,Tomoya's Mom,0,0,0,,{Đến đây một chút đi. - I need to talk to you.}Ra đây nói chuyện xíu.
+Dialogue: 0,0:10:04.71,0:10:05.71,UNNM_Main_1080p,Tomoya's Mom,0,0,0,,Tomoya,{Tomoya,}
+Dialogue: 0,0:10:05.71,0:10:07.38,UNNM_Main_1080p,Tomoya's Mom,0,0,0,,{con nghe thấy phải không? - I know you can hear me.}con nghe mẹ kêu đúng không?
+Dialogue: 0,0:10:07.38,0:10:08.21,UNNM_Main_1080p,Tomoya,0,0,0,,{Vâng. - Coming.}Dạ.
+Dialogue: 0,0:10:09.80,0:10:13.22,UNNM_Main_1080p,Tomoya's Mom,0,0,0,,{[/q2]Nhìn kết quả từ kỳ thi thử\Ncủa học kỳ một của con đi. - These are your acceptance odds based on \Nyour first trimester mock exams.}Mẹ mới xem qua điểm thi thử kỳ một của con.
+Dialogue: 0,0:10:13.22,0:10:15.14,UNNM_Main_1080p,Tomoya's Mom,0,0,0,,Điểm toán thì suýt sao.{Your math scores are passable, if barely.}
+Dialogue: 0,0:10:15.60,0:10:17.76,UNNM_Main_1080p,Tomoya's Mom,0,0,0,,{[/q2]Vấn đề là bài thi viết trong văn hiện đại. - Your contemporary literature \Nones need work, though.}Có phần tự luận văn hiện đại là cần coi lại.
+Dialogue: 0,0:10:18.27,0:10:20.06,UNNM_Main_1080p,Tomoya's Mom,0,0,0,,{Không phải viết ra suy nghĩ của bản thân. - You can't just write your own thoughts.}Không phải cứ nghĩ sao là viết vậy.
+Dialogue: 0,0:10:20.06,0:10:21.73,UNNM_Main_1080p,Tomoya's Mom,0,0,0,,{Mà viết ra câu trả lời phù hợp với bài thi. - You have to follow the rubric.}Phải viết đúng cấu trúc mới có điểm.
+Dialogue: 0,0:10:22.60,0:10:24.40,UNNM_Main_1080p,Tomoya's Mom,0,0,0,,{Thực ra là con hiểu mà. - I know you understand that.}Con biết thừa mà đúng không?
+Dialogue: 0,0:10:25.02,0:10:26.90,UNNM_Main_1080p,Tomoya's Mom,0,0,0,,{Sao chỉ có phần này là không làm được hả? - Why is it just this one thing?}Có vậy mà cũng không làm được là sao?
+Dialogue: 0,0:10:36.55,0:10:38.79,UNNM_Main_1080p,Aoi,0,0,0,,Chủ nhật mà cũng đi luyện thi à?{Huh, you go to cram school even on Sundays?}
+Dialogue: 0,0:10:39.08,0:10:41.25,UNNM_Main_1080p,Tomoya,0,0,0,,{Ừ, vì tôi là thí sinh thi tuyển mà. - Yeah, since I finish high school this year.}Ừ, tại năm nay mình thi tốt nghiệp mà.
+Dialogue: 0,0:10:41.96,0:10:44.54,UNNM_Main_1080p,Aoi,0,0,0,,{Hể, tôi là năm sau cơ. - Huh? I've still got a year to go after this.}Ủa? Mình năm sau mới thi lận.
+Dialogue: 0,0:10:44.54,0:10:45.67,UNNM_Main_1080p,Aoi,0,0,0,,{Tomoya là tiền bối à. - You're older than me, Tomoya?}Vậy Tomoya lớn tuổi hơn hả?
+Dialogue: 0,0:10:45.67,0:10:48.46,UNNM_Main_1080p,Ryou,0,0,0,,Ủa? Aoi mới lớp 11 à?{Really? You're only a junior, then?}
+Dialogue: 0,0:10:48.46,0:10:50.66,UNNM_Main_1080p,Aoi,0,0,0,,{Cả Ryou... nữa à? - What, you're older, too?}Ryou cũng hơn tuổi mình luôn?
+Dialogue: 0,0:10:51.72,0:10:53.43,UNNM_Main_1080p,Ryou,0,0,0,,{Coi cùng tuổi được rồi. - Yeah, but it doesn't matter. We're friends.}Thoải mái đi. Tuổi tác quan trọng gì.
+Dialogue: 0,0:11:16.49,0:11:17.53,UNNM_Main_1080p,Aoi/Ryou,0,0,0,,{\pos(306,1020)}A lô.{Hello?}
+Dialogue: 0,0:11:16.49,0:11:17.53,UNNM_Main_1080p,Aoi/Ryou,0,0,0,,{\pos(1614,1020)}A lô.{Hello?}
+Dialogue: 0,0:11:17.53,0:11:19.66,UNNM_Main_1080p,Tomoya,0,0,0,,Sao vậy, Aoi?{What's wrong, Aoi?}
+Dialogue: 0,0:11:19.66,0:11:20.79,UNNM_Main_1080p,Tomoya,0,0,0,,Có chuyện gì hả?{Did something happen?}
+Dialogue: 0,0:11:20.79,0:11:23.87,UNNM_Main_1080p,Aoi,0,0,0,,Cũng hông có gì.{No. Not really.}
+Dialogue: 0,0:11:23.87,0:11:25.37,UNNM_Main_1080p,Aoi,0,0,0,,Chuyện là...{It's just...}
+Dialogue: 0,0:11:25.37,0:11:27.92,UNNM_Main_1080p,Aoi,0,0,0,,{đến bây giờ tôi vẫn chưa tin nổi. - I still can't believe what we saw.}Tới giờ em cũng hông tin nổi cái mà tụi mình thấy.
+Dialogue: 0,0:11:27.92,0:11:31.05,UNNM_Main_1080p,Ryou,0,0,0,,Thôi, đừng suy nghĩ nhiều quá làm gì.{Don't let it get to you.}
+Dialogue: 0,0:11:31.59,0:11:33.55,UNNM_Main_1080p,Ryou,0,0,0,,{Đứa nào mà không sợ mới lạ. - It'd be weird if you weren't spooked.}Đứa nào không sợ mới lạ đó.
+Dialogue: 0,0:11:36.09,0:11:36.93,UNNM_Main_1080p,Ryou,0,0,0,,Tomoya?{Tomoya?}
+Dialogue: 0,0:11:37.47,0:11:38.55,UNNM_Main_1080p,Tomoya,0,0,0,,Xin lỗi.{I'm sorry.}
+Dialogue: 0,0:11:38.55,0:11:40.60,UNNM_Main_1080p,Tomoya,0,0,0,,Sắp tới nhà rồi nên cúp máy đây.{I'm almost home, so I'm gonna hang up.}
+Dialogue: 0,0:11:40.60,0:11:42.39,UNNM_Main_1080p,Tomoya,0,0,0,,Chỉ vậy thôi.{Glad it wasn't anything serious.}
+Dialogue: 0,0:11:42.39,0:11:43.35,UNNM_Main_1080p,Tomoya,0,0,0,,Bai.{See ya.}
+Dialogue: 0,0:11:49.44,0:11:51.61,UNNM_Main_1080p,Ayane,0,0,0,,Chào. Lại gặp nhau rồi.{Heya. Fancy seeing you again.}
+Dialogue: 0,0:11:52.65,0:11:56.20,UNNM_Main_1080p,Ayane,0,0,0,,{[/q2]Vẻ mặt đó, lần trước thôi chưa đủ sao. - Something tells me you \Nweren't satisfied by our last meeting.}Nhìn bản mặt đó tức là lần gặp trước\N chưa đủ làm cậu hả dạ đúng không?
+Dialogue: 0,0:11:56.70,0:11:57.95,UNNM_Main_1080p,Tomoya,0,0,0,,{Một chút thôi. - Not entirely.}Cũng không hẳn.
+Dialogue: 0,0:12:00.33,0:12:01.58,UNNM_Main_1080p,Ayane,0,0,0,,{Tham lam vậy. - You just want it all, don't you?}Phải biết hết mới chịu chứ gì?
+Dialogue: 0,0:12:04.83,0:12:07.79,UNNM_Main_1080p,Ayane,0,0,0,,{Này, tại sao Tomoya lại sống? - I'm curious. Why are you alive?}Cho hỏi cái. Sao cậu lại sống vậy?
+Dialogue: 0,0:12:09.00,0:12:11.50,UNNM_Main_1080p,Tomoya,0,0,0,,{Chị thấy em đang sống sao? - Do I look alive to you?Trong mắt chị thì em đang sống hả? - OG}Nhìn em giống đang sống lắm hả?
+Dialogue: 0,0:12:11.75,0:12:12.75,UNNM_Main_1080p,Ayane,0,0,0,,{Ở một mức nào đó. - I'd say so.}Ít nhiều cũng có.
+Dialogue: 0,0:12:14.17,0:12:17.55,UNNM_Main_1080p,Tomoya,0,0,0,,Em thì không thấy mình đang sống chút nào.{I don't really feel alive, to be honest.}
+Dialogue: 0,0:12:18.51,0:12:23.06,UNNM_Main_1080p,Tomoya,0,0,0,,{Bản thân có đang sống hay không\Nnhiều lúc cũng chả biết nữa. - I sometimes wonder \Nwhether I'm not already dead.}Nhiều khi cũng tự hỏi là mình đang sống hay chết rồi.
+Dialogue: 0,0:12:24.43,0:12:26.85,UNNM_Main_1080p,Ayane,0,0,0,,{Trái tim của Tomoya đang chết. - It's because you're dead inside.}Tại con tim cậu đã chết rồi đó.
+Dialogue: 0,0:12:27.35,0:12:28.19,UNNM_Main_1080p,Ayane,0,0,0,,{Hại sức khỏe đó. - That's not good for you.}Không tốt lành gì đâu.
+Dialogue: 0,0:12:28.65,0:12:30.31,UNNM_Main_1080p,Tomoya,0,0,0,,{Em không muốn bị một con ma nói như vậy. - Don't wanna hear that from a ghost.}Em không muốn nghe ma nói câu đó tí nào.
+Dialogue: 0,0:12:30.86,0:12:33.11,UNNM_Main_1080p,Ayane,0,0,0,,Vậy rốt cuộc cậu muốn sao?{So, what are you going to do about it?}
+Dialogue: 0,0:12:35.74,0:12:36.90,UNNM_Main_1080p,Tomoya,0,0,0,,Em không biết.{I don't know.}
+Dialogue: 0,0:12:38.36,0:12:40.16,UNNM_Main_1080p,Tomoya,0,0,0,,{Vậy nên em muốn biết. - That's what I was hoping to find out.}Nên em mới muốn tìm hiểu.
+Dialogue: 0,0:12:41.24,0:12:46.54,UNNM_Main_1080p,Tomoya,0,0,0,,{\q2}Thành ma rồi thì những phiền muộn\Nvà đau khổ có mất đi không.{Would all my worries, all my suffering, \Nsimply disappear if I became a ghost?}
+Dialogue: 0,0:12:47.21,0:12:51.63,UNNM_Main_1080p,Tomoya,0,0,0,,{\q2}Nếu biết được thì cái gì đó sẽ thay đổi cũng nên.{I kind of figured something \Nmight change if I learned that.}
+Dialogue: 0,0:12:53.38,0:12:54.42,UNNM_Main_1080p,Ayane,0,0,0,,Hiểu rồi.{I see.}
+Dialogue: 0,0:12:56.26,0:12:57.67,UNNM_Main_1080p,Ayane,0,0,0,,{Muốn thử không? - There's only one way to find out.}Vậy muốn thử cho biết không?
+Dialogue: 0,0:13:01.30,0:13:03.76,UNNM_Main_1080p,Ayane,0,0,0,,Đổi gió chút đi.{Let's get you out of your shell.{WE'RE KEEPING THIS LINE YOU'RE NOT CONVINCING ME OTHERWISENN: Fiiiiiiiiiiiiiiine. You don't have to fight me too hard to keep groaners.}
+Dialogue: 0,0:13:04.10,0:13:05.68,UNNM_Main_1080p,Ayane,0,0,0,,{Bay cùng tôi nào. - Don't you want to fly?}Bay thử xem sao hen?
+Dialogue: 0,0:13:17.07,0:13:17.99,UNNM_Main_1080p,Ayane,0,0,0,,Đi thôi!{Let's go!}
+Dialogue: 0,0:13:18.90,0:13:21.78,UNNM_Main_1080p,Ayane,0,0,0,,Sẵn sàng chưa? Nhớ nắm cho chặt, không là rơi đó!{You ready? Make sure to hold on tight!}
+Dialogue: 0,0:13:34.21,0:13:35.38,UNNM_Main_1080p,Ayane,0,0,0,,{Thế nào? - How is it?}Thấy sao?
+Dialogue: 0,0:13:35.38,0:13:38.80,UNNM_Main_1080p,Ayane,0,0,0,,Cơ thể ngồi dưới mặt đất, \Nnhưng hồn bay lượn trời cao!{Your body's on the ground. \NBut your soul's flying!}
+Dialogue: 0,0:13:38.80,0:13:40.18,UNNM_Main_1080p,Ayane,0,0,0,,{Cậu đã tự do rồi đó. - You've been freed!}Giờ cậu tự do rồi đó!
+Dialogue: 0,0:13:43.51,0:13:44.97,UNNM_Main_1080p,Tomoya,0,0,0,,{Tuyệt thật. - Awesome.}Đã ghê.
+Dialogue: 0,0:13:47.56,0:13:48.98,UNNM_Main_1080p,Tomoya,0,0,0,,K-Khoan!{W-Wait!}
+Dialogue: 0,0:14:12.12,0:14:13.50,UNNM_Main_1080p,Tomoya,0,0,0,,{\i1}Chui xuống lòng đất rồi.{I'm inside the ground?}
+Dialogue: 0,0:14:15.42,0:14:16.84,UNNM_Main_1080p,Ayane,0,0,0,,{Thứ lỗi thứ lỗi. - Sorry. I couldn't resist.}Xin lỗi nha.
+Dialogue: 0,0:14:16.84,0:14:20.05,UNNM_Main_1080p,Ayane,0,0,0,,{Tôi muốn thấy Tomoya hú hồn một chút. - I wanted to see how you'd react.}Tại tôi muốn thấy cậu hú hồn một phen á mà.
+Dialogue: 0,0:14:20.38,0:14:22.09,UNNM_Main_1080p,Tomoya,0,0,0,,{Chị... có bị ngốc không? - Th-That's just mean.}C-Chị có bị hâm không?
+Dialogue: 0,0:14:22.34,0:14:23.84,UNNM_Main_1080p,Ayane,0,0,0,,{Xin lỗi mà. - I said I'm sorry.}Xin lỗi rồi mà.
+Dialogue: 0,0:14:24.34,0:14:27.47,UNNM_Main_1080p,Ayane,0,0,0,,{Tôi sẽ dạy cậu cách bay nên hãy tha lỗi đi. - I'll teach you how to fly. \NWill that make up for it?}Để tôi dạy cậu cách bay. Coi như huề nha?
+Dialogue: 0,0:14:29.64,0:14:30.81,UNNM_Main_1080p,Ayane,0,0,0,,{Ở nơi sâu thẳm... - Look deep inside you.}Nhìn vào con tim mình.
+Dialogue: 0,0:14:31.43,0:14:34.48,UNNM_Main_1080p,Ayane,0,0,0,,{hãy ước trong đáy lòng. - Find the deepest wish in your heart.}Đâu là mơ ước sâu thẳm nhất của cậu?
+Dialogue: 0,0:14:35.90,0:14:38.23,UNNM_Main_1080p,Ayane,0,0,0,,{Linh hồn sẽ hướng đến nơi cậu muốn. - Your soul moves where you wish to be.}Để cho linh hồn mình đi theo mơ ước đó.
+Dialogue: 0,0:14:39.07,0:14:41.36,UNNM_Main_1080p,Ayane,0,0,0,,Suy nghĩ đi.{Think about it.}
+Dialogue: 0,0:14:42.28,0:14:44.11,UNNM_Main_1080p,Ayane,0,0,0,,Cậu muốn đi đâu?{Where do you want to go?}
+Dialogue: 0,0:14:54.29,0:14:56.21,UNNM_Main_1080p,Ayane,0,0,0,,Cậu thích tranh phải không?{You like paintings, don't you?}
+Dialogue: 0,0:14:56.21,0:14:59.88,UNNM_Main_1080p,Tomoya,0,0,0,,{Vâng, nhưng em đã bỏ rồi. - I do. I quit making them myself, though.}Dạ đúng. Nhưng mà dừng vẽ rồi.
+Dialogue: 0,0:14:59.88,0:15:02.13,UNNM_Main_1080p,Tomoya,0,0,0,,{Vì có điều quan trọng hơn phải làm. - There's more important things in life, after all.}Vì đời còn nhiều cái quan trọng hơn mà.
+Dialogue: 0,0:15:02.97,0:15:04.76,UNNM_Main_1080p,Ayane,0,0,0,,Hèn chi mà cậu khúm núm quá.{So that's why you seem so dissociated.}
+Dialogue: 0,0:15:05.55,0:15:06.97,UNNM_Main_1080p,Ayane,0,0,0,,{Phí quá. - It's such a waste.}Phí quá à.
+Dialogue: 0,0:15:06.97,0:15:08.81,UNNM_Main_1080p,Ayane,0,0,0,,Mất công đặt chỗ cho rồi.{You're just throwing away this opportunity.}
+Dialogue: 0,0:15:09.22,0:15:11.35,UNNM_Main_1080p,Ayane,0,0,0,,{Bây giờ Tomoya là hồn ma... - You're a ghost right now.}Cậu giờ đang là hồn ma
+Dialogue: 0,0:15:11.35,0:15:12.81,UNNM_Main_1080p,Ayane,0,0,0,,{nên sẽ không có ai giận đâu. - No one can get mad at you, you know.}nên yên tâm đi, không ai bực cậu đâu.
+Dialogue: 0,0:15:40.30,0:15:42.80,UNNM_Main_1080p,Ayane,0,0,0,,{Đẹp thật đấy, ánh sáng của đường phố. - Beautiful, huh? All the city lights.}Ánh đèn của đường phố dòm đẹp ghê hen?
+Dialogue: 0,0:15:43.55,0:15:44.63,UNNM_Main_1080p,Tomoya,0,0,0,,{Đúng vậy. - You're right.}Ừm.
+Dialogue: 0,0:15:46.38,0:15:49.60,UNNM_Main_1080p,Tomoya,0,0,0,,{Mà, thực ra thì sẽ sáng hơn đó. - Though it could be brighter, I guess.}Lẽ ra nó còn sáng hơn cơ.
+Dialogue: 0,0:15:49.60,0:15:51.31,UNNM_Main_1080p,Tomoya,0,0,0,,{Vì đèn lúc nào cũng nhấp nháy mà. - Since all the lights aren't on at once.}Tại nó nhấp nháy chứ đâu có sáng cùng lúc.
+Dialogue: 0,0:15:51.31,0:15:54.56,UNNM_Main_1080p,Ayane,0,0,0,,{[/q2]Này, nói vậy thì gái không theo đâu. - Come on, you're not going to \Nwin over any girls like that.}Cái cậu này, cứ vậy thì gái không theo đâu.
+Dialogue: 0,0:15:54.56,0:15:56.14,UNNM_Main_1080p,Ayane,0,0,0,,{Cứ ngoan ngoãn mà biết ơn đi. - Just say thank you like a normal person.}Nói câu cảm ơn đâu có chết ai.
+Dialogue: 0,0:15:56.64,0:15:57.85,UNNM_Main_1080p,Tomoya,0,0,0,,{Em xin lỗi. - My bad.}Lỗi em.
+Dialogue: 0,0:16:00.32,0:16:03.07,UNNM_Main_1080p,Tomoya,0,0,0,,Cho em hỏi cái này được không?{Hey, may I ask you something?}
+Dialogue: 0,0:16:03.53,0:16:04.15,UNNM_Main_1080p,Ayane,0,0,0,,Cứ tự nhiên.{Go ahead.}
+Dialogue: 0,0:16:05.41,0:16:08.62,UNNM_Main_1080p,Tomoya,0,0,0,,Tại sao chị Ayane lại tự sát vậy?{Why did you commit suicide?}
+Dialogue: 0,0:16:11.03,0:16:12.24,UNNM_Main_1080p,Ayane,0,0,0,,Tomoya.{Tomoya.}
+Dialogue: 0,0:16:14.20,0:16:15.83,UNNM_Main_1080p,Ayane,0,0,0,,{Cậu đang hiểu lầm đấy. - You've got it wrong.}Cậu hiểu sai rồi.
+Dialogue: 0,0:16:16.71,0:16:18.08,UNNM_Main_1080p,Ayane,0,0,0,,Tôi không có tự sát.{I didn't commit suicide.}
+Dialogue: 0,0:16:19.88,0:16:20.92,UNNM_Main_1080p,Ayane,0,0,0,,Muốn biết không?{Are you curious?}
+Dialogue: 0,0:16:22.50,0:16:24.05,UNNM_Main_1080p,Ayane,0,0,0,,{Vậy tôi sẽ nói cho cậu. - I'll tell you my story, then.}Vậy để tôi kể cho nghe.
+Dialogue: 0,0:16:25.38,0:16:26.34,UNNM_Main_1080p,Ayane,0,0,0,,{Tôi ấy... - The truth is...}Chuyện là...
+Dialogue: 0,0:16:28.22,0:16:29.39,UNNM_Main_1080p,Ayane,0,0,0,,{bị sát hại. - I was killed.}Tôi bị sát hại.
+Dialogue: 0,0:16:32.93,0:16:34.02,UNNM_Main_1080p,Tomoya,0,0,0,,{Nơi này là... - Where are we?}Đâu đây?
+Dialogue: 0,0:16:34.02,0:16:35.27,UNNM_Main_1080p,Ayane,0,0,0,,Nhà tôi.{This is my house.}
+Dialogue: 0,0:16:35.64,0:16:38.10,UNNM_Main_1080p,Ayane,0,0,0,,Giờ chỉ còn mẹ sống đơn thân thôi.{My mom lives here on her own now.}
+Dialogue: 0,0:16:42.27,0:16:45.65,UNNM_Main_1080p,Ayane,0,0,0,,{3 năm trước, tôi đã cãi nhau với mẹ. - Three years ago, we got into a nasty fight.}Ba năm trước, tôi cự cãi với mẹ mình.
+Dialogue: 0,0:16:46.44,0:16:50.16,UNNM_Main_1080p,Ayane,0,0,0,,{\q2}Nguyên nhân chỉ là mấy thứ tào lao không đáng để tâm.{Over something so incredibly stupid, too.}
+Dialogue: 0,0:16:50.57,0:16:54.24,UNNM_Main_1080p,Ayane,0,0,0,,{Giữa cơn bão tôi đã lao ra khỏi nhà. - I dashed out of the house \Ninto a horrible typhoon.}Sau đó tôi lao ra khỏi nhà giữa trời giông bão.
+Dialogue: 0,0:16:56.45,0:16:58.50,UNNM_Main_1080p,Ayane,0,0,0,,{Và thế là khi đi qua đường, - And while I was crossing the street,}Rồi khi đang băng qua đường,
+Dialogue: 0,0:16:58.50,0:17:01.58,UNNM_Main_1080p,Ayane,0,0,0,,{tôi đã bị một xe ô tô vượt đèn đỏ đâm phải. - I was hit by a car that ignored a red light.}tôi bị một chiếc xe hơi vượt đèn đỏ đụng trúng.
+Dialogue: 0,0:17:02.38,0:17:04.00,UNNM_Main_1080p,Ayane,0,0,0,,{Một câu chuyện vớ vẩn. - It's such a stupid way to die.}Chết kiểu xàm xí gì đâu.
+Dialogue: 0,0:17:06.01,0:17:08.84,UNNM_Main_1080p,Ayane,0,0,0,,{Mà, tôi vẫn còn đang sống. - Except, well, that didn't actually kill me.}Mà thiệt ra lúc đó tôi vẫn còn sống.
+Dialogue: 0,0:17:08.84,0:17:10.76,UNNM_Main_1080p,Ayane,0,0,0,,Chỉ xỉu thôi.{I was simply unconscious at that point.}
+Dialogue: 0,0:17:11.64,0:17:14.97,UNNM_Main_1080p,Ayane,0,0,0,,{Sau đấy khi mở mắt,\Nthì tôi đã ở trong một nơi chật hẹp. - But when I woke up, \NI was trapped someplace tiny.}Nhưng khi mở mắt ra thì thấy mình\Nbị nhốt ở một nơi chật hẹp.
+Dialogue: 0,0:17:15.72,0:17:17.85,UNNM_Main_1080p,Ayane,0,0,0,,{Có lẽ đó là trong một cái vali. - Probably in a suitcase.}Khả năng là bị nhét vô vali.
+Dialogue: 0,0:17:17.85,0:17:18.94,UNNM_Main_1080p,Tomoya,0,0,0,,{Tại sao? - But why?}Để làm gì?
+Dialogue: 0,0:17:18.94,0:17:20.90,UNNM_Main_1080p,Ayane,0,0,0,,Để làm cho vụ tai nạn chưa hề xảy ra chứ sao.{To cover up all traces of the accident.}
+Dialogue: 0,0:17:21.98,0:17:24.27,UNNM_Main_1080p,Ayane,0,0,0,,Tên tài xế đã chôn tôi ở đâu đó.{The driver of that car buried me somewhere.}
+Dialogue: 0,0:17:25.19,0:17:29.03,UNNM_Main_1080p,Ayane,0,0,0,,{\q2}Tôi không thở được, và thứ duy nhất tôi nghe \Nlà tiếng tàu vọng đằng xa.{I couldn't breathe, and the only thing \NI could hear was a distant train.}
+Dialogue: 0,0:17:30.53,0:17:33.62,UNNM_Main_1080p,Ayane,0,0,0,,{Đó là ký ức cuối cùng của tôi. - That's my last memory among the living.}Đó là những ký ức cuối trước khi tôi lìa đời.
+Dialogue: 0,0:17:36.04,0:17:38.41,UNNM_Main_1080p,Ayane,0,0,0,,{Mẹ đến bây giờ vẫn còn đang đợi tôi. - My mom is still waiting for me to come back.}Mẹ tôi đến giờ vẫn trông ngóng ngày tôi trở về.
+Dialogue: 0,0:17:39.12,0:17:40.75,UNNM_Main_1080p,Tomoya,0,0,0,,{Chị bị chôn ở đâu vậy ạ? - Where were you buried?}Chị bị chôn ở đâu vậy chị?
+Dialogue: 0,0:17:41.00,0:17:43.25,UNNM_Main_1080p,Ayane,0,0,0,,{[/q2]Tôi đã định tìm nhưng bỏ cuộc rồi. - I've tried to find that out, \Nbut I've long since given up.}Tôi có thử tìm nhưng mà từ bỏ rồi.
+Dialogue: 0,0:17:43.71,0:17:45.75,UNNM_Main_1080p,Ayane,0,0,0,,{Bây giờ có làm thì cũng không thay đổi được điều gì. - It's not like it'd change anything at this point.}Giờ mà tìm ra được thì cũng đâu thay đổi được gì.
+Dialogue: 0,0:17:48.46,0:17:51.76,UNNM_Main_1080p,Ayane,0,0,0,,{Tôi vẫn còn rất nhiều điều muốn làm. - Gosh, there were so many \Nthings I still wanted to do.}Buồn gì đâu á, \Ncòn nhiều cái muốn làm mà không được.
+Dialogue: 0,0:17:52.26,0:17:54.22,UNNM_Main_1080p,Ayane,0,0,0,,{Du lịch hay là yêu đương. - Travel, fall in love...}Du lịch nè, có bồ nè...
+Dialogue: 0,0:17:54.72,0:17:57.27,UNNM_Main_1080p,Ayane,0,0,0,,{Tôi rất ghen tị với người có tương lai xán lạn\Nnhư Tomoya. - I'm jealous of the bright future ahead of you.}Nhìn mấy người có tương lai xán lạn phía trước\N giống cậu làm tôi ganh tị ghê.
+Dialogue: 0,0:17:58.73,0:18:00.98,UNNM_Main_1080p,Tomoya,0,0,0,,{Du lịch thì làm được mà. - But you can travel, no?}Nhưng chị du lịch chỗ nào cũng được mà?
+Dialogue: 0,0:18:00.98,0:18:02.56,UNNM_Main_1080p,Tomoya,0,0,0,,{Chả mất phí di chuyển. - It wouldn't even cost you anything.}Còn chả tốn đồng bạc nào.
+Dialogue: 0,0:18:02.56,0:18:03.52,UNNM_Main_1080p,Ayane,0,0,0,,{Ơ kìa, - Careful.}Cái cậu này.
+Dialogue: 0,0:18:03.86,0:18:05.90,UNNM_Main_1080p,Ayane,0,0,0,,{không tinh tế gì cả. - That was really tactless of you.}Không có tí tinh tế nào hết.
+Dialogue: 0,0:18:05.90,0:18:07.61,UNNM_Main_1080p,Ayane,0,0,0,,Trừ hai mươi điểm.{Minus twenty points.}
+Dialogue: 0,0:18:09.40,0:18:13.11,UNNM_Main_1080p,Tomoya,0,0,0,,{Em thì, lại ghen tị với Ayane hơn. - Personally, I think you have it better.}Em thì ganh tị với chị hơn.
+Dialogue: 0,0:18:15.41,0:18:16.24,UNNM_Main_1080p,Ayane,0,0,0,,Tomoya.{Tomoya.}
+Dialogue: 0,0:18:16.66,0:18:17.79,UNNM_Main_1080p,Tomoya,0,0,0,,{Vâng. - Yeah?}Sao chị?
+Dialogue: 0,0:18:18.75,0:18:21.50,UNNM_Main_1080p,Ayane,0,0,0,,{Tôi, muốn đi tìm cơ thể. - I want to find my body.}Tôi muốn tìm cơ thể của mình.
+Dialogue: 0,0:18:23.08,0:18:25.38,UNNM_Main_1080p,Ayane,0,0,0,,{Tôi nghĩ nếu có Tomoya thì sẽ làm được. - It might just be possible if you help me.}Có cậu phụ thì chắc sẽ được thôi.
+Dialogue: 0,0:18:25.92,0:18:30.88,UNNM_Main_1080p,Ayane,0,0,0,,{\q2}Lý do mà tôi từ bỏ việc đi tìm là vì\Ndù có thấy thì cũng không sờ vào được.{I only gave up on it because I wouldn't \Nbe able to do anything even if I did.}
+Dialogue: 0,0:18:37.97,0:18:39.17,UNNM_Main_1080p,Ayane,0,0,0,,Xin lỗi nha.{Ah, I'm sorry.}
+Dialogue: 0,0:18:39.17,0:18:40.98,UNNM_Main_1080p,Ayane,0,0,0,,{Định đổi gió cho Tomoya một chút mà. - The whole point of this was to cheer you up.}Tính giúp cậu đổi gió \Nvậy mà lại bắt cậu nghe chuyện buồn.
+Dialogue: 0,0:18:41.73,0:18:43.19,UNNM_Main_1080p,Ayane,0,0,0,,{Chuyện vừa này quên đi nhé. - Pretend I didn't say anything.}Coi như nãy giờ tôi chưa nói gì đi.
+Dialogue: 0,0:18:44.94,0:18:46.19,UNNM_Main_1080p,Ayane,0,0,0,,Trăm ngàn oán hận.{Boo.}
+Dialogue: 0,0:19:30.19,0:19:32.03,UNNM_Main_1080p,Tomoya's Mom,0,0,0,,{Con không đến lò luyện thi sao? - Shouldn't you be in cram school?}Con nói mình đi tới lớp học thêm mà?
+Dialogue: 0,0:19:34.11,0:19:35.11,UNNM_Main_1080p,Tomoya's Mom,0,0,0,,Lên xe đi.{Get in.}
+Dialogue: 0,0:19:36.95,0:19:38.45,UNNM_Main_1080p,Tomoya's Mom,0,0,0,,{Đã là học kỳ hai rồi đó. - It's already the second trimester.}Học kỳ hai rồi đó có biết chưa?
+Dialogue: 0,0:19:39.16,0:19:41.16,UNNM_Main_1080p,Tomoya's Mom,0,0,0,,{Dạo gần đây con lại đi đâu à. - You've been wandering off, haven't you?}Hổm rài con hay la cà đúng không?
+Dialogue: 0,0:19:41.87,0:19:43.33,UNNM_Main_1080p,Tomoya's Mom,0,0,0,,{Mẹ biết đó. - You can't lie to me.}Mẹ biết thừa.
+Dialogue: 0,0:19:43.33,0:19:46.29,UNNM_Main_1080p,Tomoya,0,0,0,,Con đang tìm bạn.{I'm looking for a friend.}
+Dialogue: 0,0:19:46.71,0:19:47.88,UNNM_Main_1080p,Tomoya's Mom,0,0,0,,{Gì vậy? - Excuse me?}Mới nói gì?
+Dialogue: 0,0:19:47.88,0:19:49.71,UNNM_Main_1080p,Tomoya's Mom,0,0,0,,{Việc đó quan trọng hơn tương lai của con sao? - Is that more important than your future?}Rồi bạn con quan trọng hơn tương lai con à?
+Dialogue: 0,0:19:50.75,0:19:53.76,UNNM_Main_1080p,Tomoya's Mom,0,0,0,,{\q2}Từ tuần sau mẹ sẽ đến lớp học thêm để kiểm tra.{I'll be coming to your cram school \Nto make sure you're there next week.}
+Dialogue: 0,0:19:53.76,0:19:55.34,UNNM_Main_1080p,Tomoya's Mom,0,0,0,,Nhìn rõ vào hiện thực đi.{High time you faced reality.}
+Dialogue: 0,0:19:56.43,0:19:57.47,UNNM_Main_1080p,Tomoya's Mom,0,0,0,,T-Tomoya?{T-Tomoya!}
+Dialogue: 0,0:19:57.89,0:19:58.76,UNNM_Main_1080p,Tomoya's Mom,0,0,0,,{Con đang đi đâu vậy? - Where are you going?}Đi đâu đó?
+Dialogue: 0,0:20:09.90,0:20:13.19,UNNM_Main_1080p,Tomoya,0,0,0,,{Hôm nay chúng ta cũng không tìm được nhỉ. - We couldn't find it today either.}Nay cũng không tìm được luôn.
+Dialogue: 0,0:20:14.69,0:20:15.53,UNNM_Main_1080p,Tomoya,0,0,0,,Xin lỗi chị.{I'm sorry.}
+Dialogue: 0,0:20:16.36,0:20:17.41,UNNM_Main_1080p,Ayane,0,0,0,,{Tại sao? - Why?}Xin lỗi vụ gì?
+Dialogue: 0,0:20:17.41,0:20:18.66,UNNM_Main_1080p,Ayane,0,0,0,,{Đừng xin lỗi mà. - There's no need for that.}Đâu cần phải làm vậy.
+Dialogue: 0,0:20:19.24,0:20:21.20,UNNM_Main_1080p,Ayane,0,0,0,,{Đây cũng như cuộc hẹn hò mà thôi. - Consider this more of a date.}Coi như hai đứa hẹn hò thôi.
+Dialogue: 0,0:20:23.25,0:20:25.91,UNNM_Main_1080p,Tomoya,0,0,0,,{Em, năm nay sẽ thi đại học. - I have entrance exams this year.}Năm nay em sẽ thi tốt nghiệp.
+Dialogue: 0,0:20:27.50,0:20:32.13,UNNM_Main_1080p,Tomoya,0,0,0,,{\q2}Vô đại học rồi thì có khi \Nem không về thường xuyên được.{Once I start college, I don't know \Nhow much I'll be able to come here.}
+Dialogue: 0,0:20:33.67,0:20:34.63,UNNM_Main_1080p,Ayane,0,0,0,,{Thế à. - I see.}Hiểu rồi.
+Dialogue: 0,0:20:36.09,0:20:38.34,UNNM_Main_1080p,Ayane,0,0,0,,{Vậy, cuộc "Tìm kiếm tôi" đến đây là kết thúc. - Then let's end our \Nsoul-searching journey here.}Vậy thôi, cuộc tìm-kiếm-chính-tôi đến đây là kết thúc.
+Dialogue: 0,0:20:38.34,0:20:38.72,UNNM_Main_1080p,Tomoya,0,0,0,,{What?}Hả?
+Dialogue: 0,0:20:40.34,0:20:42.26,UNNM_Main_1080p,Ayane,0,0,0,,{Hè cũng đã hết. - Summer is about to end.}Hè cũng sắp hết rồi.
+Dialogue: 0,0:20:42.26,0:20:43.85,UNNM_Main_1080p,Ayane,0,0,0,,{Thời điểm chấm dứt hoàn hảo. - It's a good stopping point.}Dừng ở đây là quá đẹp luôn.
+Dialogue: 0,0:20:43.85,0:20:45.73,UNNM_Main_1080p,Tomoya,0,0,0,,{Nhưng, có phải là em muốn bỏ cuộc đâu. - But we don't need to give up comple—}Đâu cần phải bỏ buổi tìm—
+Dialogue: 0,0:20:45.73,0:20:47.10,UNNM_Main_1080p,Ayane,0,0,0,,{Thế này là được rồi. - It's fine.}Nhiêu đây đủ rồi.
+Dialogue: 0,0:20:47.64,0:20:49.98,UNNM_Main_1080p,Ayane,0,0,0,,{Nếu cứ tiếp tục thì có lỗi với Tomoya lắm. - I don't want to distract you.}Nếu tiếp tục thì có lỗi với cậu lắm.
+Dialogue: 0,0:20:49.98,0:20:53.65,UNNM_Main_1080p,Ayane,0,0,0,,{Đừng có dùng thời gian quý giá của cậu\Ncho một người như tôi. - You have more important things to focus on than me.}Dùng thời gian quý báu vào chuyện quan trọng hơn đi.\N Không cần câu nệ gì người đã chết như tôi.
+Dialogue: 0,0:20:53.65,0:20:54.32,UNNM_Main_1080p,Tomoya,0,0,0,,Nhưng mà...{But...}
+Dialogue: 0,0:20:54.32,0:20:55.99,UNNM_Main_1080p,Ayane,0,0,0,,Trừ hai trăm triệu điểm.{Minus two million points.}
+Dialogue: 0,0:20:56.90,0:20:59.28,UNNM_Main_1080p,Ayane,0,0,0,,Con trai mà lỳ lợm thì gái không thích đâu.{Being stubborn isn't \Ngoing to win over any girls.}
+Dialogue: 0,0:21:00.11,0:21:02.24,UNNM_Main_1080p,Ayane,0,0,0,,{Tôi đã nói là được rồi. - I said it's fine.}Tôi nói đủ là đủ.
+Dialogue: 0,0:21:02.70,0:21:06.83,UNNM_Main_1080p,Tomoya,0,0,0,,{\q2[/q2]Thế có nghĩa là Ayane\Nsẽ không còn tồn tại được lâu à? - Does that mean you won't \Nbe around for much longer?}Tức là em sẽ không được thấy chị thường xuyên nữa à?
+Dialogue: 0,0:21:07.54,0:21:08.50,UNNM_Main_1080p,Ayane,0,0,0,,Có khi vậy.{Possibly.}
+Dialogue: 0,0:21:10.17,0:21:11.29,UNNM_Main_1080p,Tomoya,0,0,0,,Em hiểu rồi.{Okay, then.}
+Dialogue: 0,0:21:12.17,0:21:13.59,UNNM_Main_1080p,Tomoya,0,0,0,,{Gặp lại chị vào lúc chiều tối ngày mai. - I'll see you tomorrow evening.}Hẹn gặp chị vào chiều mai.
+Dialogue: 0,0:21:15.13,0:21:16.38,UNNM_Main_1080p,Tomoya,0,0,0,,{Chị hãy đợi em. - Wait for me, please.}Xin hãy đợi em.
+Dialogue: 0,0:21:19.01,0:21:20.13,UNNM_Main_1080p,Tomoya,0,0,0,,{Giờ chúng ta có thể gặp không? - Can we meet up?}Giờ gặp được không?
+Dialogue: 0,0:21:22.14,0:21:23.47,UNNM_Main_1080p,Tomoya,0,0,0,,Mình có chuyện cần bàn.{I wanna talk about something.}
+Dialogue: 0,0:21:24.68,0:21:26.39,UNNM_Main_1080p,Tomoya,0,0,0,,Mình muốn đi tìm cơ thể của Ayane.{I want to find Ayane's body.}
+Dialogue: 0,0:21:27.06,0:21:28.73,UNNM_Main_1080p,Tomoya,0,0,0,,{Và tôi muốn hai người giúp. - Will you help me?}Hai người giúp mình được không?
+Dialogue: 0,0:21:30.06,0:21:31.77,UNNM_Main_1080p,Ryou,0,0,0,,{Quả nhiên là chuyện đó à. - I knew it'd be something like that.}Biết ngay là nói về con ma đó mà.
+Dialogue: 0,0:21:32.73,0:21:35.36,UNNM_Main_1080p,Ryou,0,0,0,,{Ông, dạo này hay gặp người ấy nhỉ. - You've been seeing her a lot lately, huh?}Ông dạo này hay gặp bả đúng không?
+Dialogue: 0,0:21:35.36,0:21:37.09,UNNM_Main_1080p,Aoi,0,0,0,,{Vậy sao? - What? Really?}Hả? Có luôn?
+Dialogue: 0,0:21:37.53,0:21:39.11,UNNM_Main_1080p,Ryou,0,0,0,,{Thích rồi à? - You in love or something?}Yêu rồi hay gì?
+Dialogue: 0,0:21:39.82,0:21:40.53,UNNM_Main_1080p,Tomoya,0,0,0,,Không phải.{No, that's not it.}
+Dialogue: 0,0:21:41.82,0:21:43.03,UNNM_Main_1080p,Ryou,0,0,0,,{Mà thế nào cũng được. - Well, whatever.}Sao cũng được.
+Dialogue: 0,0:21:43.62,0:21:44.87,UNNM_Main_1080p,Ryou,0,0,0,,{Vì tôi sẽ không giúp. - I'm not helping, either way.}Tại vì tui không giúp đâu.
+Dialogue: 0,0:21:46.08,0:21:48.54,UNNM_Main_1080p,Ryou,0,0,0,,{[/q2]Tôi không muốn giúp cho người tự sát. - Can't bring myself to help \Nsomeone who killed herself.}{Không có chuyện tui giúp\Nmột người tự kết liễu đời mình làm gì. - OG}Tui không rảnh rỗi giúp một người\N tự kết liễu đời mình làm gì.
+Dialogue: 0,0:21:48.54,0:21:49.62,UNNM_Main_1080p,Tomoya,0,0,0,,{Không phải. - That's not what happened.}Lầm rồi.
+Dialogue: 0,0:21:49.62,0:21:51.36,UNNM_Main_1080p,Tomoya,0,0,0,,{Ayane đã bị tai nạn. - She died by no fault of her own.}Không phải chỉ tự vẫn đâu.
+Dialogue: 0,0:21:52.58,0:21:54.09,UNNM_Main_1080p,Tomoya,0,0,0,,{Là một việc quan trọng. - This is really important.}Chuyện này quan trọng lắm.
+Dialogue: 0,0:21:54.67,0:21:56.34,UNNM_Main_1080p,Tomoya,0,0,0,,Nếu mà không làm{If I don't see this through,}
+Dialogue: 0,0:21:57.00,0:21:59.13,UNNM_Main_1080p,Tomoya,0,0,0,,{thì tôi nghĩ cả đời này sẽ ngồi hối hận. - I think I'll regret it for the rest of my life.}thì chắc là mình sẽ sống cả đời ân hận mất.
+Dialogue: 0,0:21:59.63,0:22:00.72,UNNM_Main_1080p,Ryou,0,0,0,,{Vậy à. - That a fact?}Vậy à?
+Dialogue: 0,0:22:01.80,0:22:03.22,UNNM_Main_1080p,Ryou,0,0,0,,{Mong là mọi chuyện sẽ suôn sẻ. - Well, good luck.}Thôi, chúc may mắn.
+Dialogue: 0,0:22:03.76,0:22:04.22,UNNM_Main_1080p,Tomoya,0,0,0,,Ryou—{Ryou—}
+Dialogue: 0,0:22:04.22,0:22:05.26,UNNM_Main_1080p,Ryou,0,0,0,,Đừng.{Don't.}
+Dialogue: 0,0:22:05.26,0:22:05.51,UNNM_Main_1080p,Tomoya,0,0,0,,Đợi đã—{Wait—}
+Dialogue: 0,0:22:05.51,0:22:06.76,UNNM_Main_1080p,Ryou,0,0,0,,{Đã bảo là dừng lại rồi mà. - Seriously, don't}Đã nói là đừng!
+Dialogue: 0,0:22:08.64,0:22:09.98,UNNM_Main_1080p,Ryou,0,0,0,,Tui không muốn nghe...{Just drop it.}
+Dialogue: 0,0:22:10.48,0:22:11.56,UNNM_Main_1080p,Ryou,0,0,0,,những chuyện như vậy{I don't wanna hear it.}.
+Dialogue: 0,0:22:12.81,0:22:15.90,UNNM_Main_1080p,Ryou,0,0,0,,{Mấy người thì tốt rồi, có tương lai. - Must be nice having a future.}Mấy người thì sướng quá rồi. \NCòn có tương lai phía trước.
+Dialogue: 0,0:22:17.36,0:22:18.94,UNNM_Main_1080p,Ryou,0,0,0,,{Tôi thì không còn nữa. - I don't have that luxury.}{Chứ tui thì không còn rồi. - OG}Chứ tui bít cửa rồi.
+Dialogue: 0,0:22:19.49,0:22:20.82,UNNM_Main_1080p,Tomoya,0,0,0,,{Thế có nghĩa là... - What does that...}Ý bạn là...
+Dialogue: 0,0:22:21.45,0:22:22.57,UNNM_Main_1080p,Aoi,0,0,0,,Ryou ơi!{Ryou!}
+Dialogue: 0,0:22:34.08,0:22:36.50,UNNM_Main_1080p,Ayane,0,0,0,,Có chuyện gì sao, Tomoya?{Did something happen, Tomoya?}
+Dialogue: 0,0:22:36.50,0:22:38.67,UNNM_Main_1080p,Tomoya,0,0,0,,{Không, không có gì. - Nah. Nothing happened.}Đâu có. Vẫn bình thường.
+Dialogue: 0,0:22:39.63,0:22:40.42,UNNM_Main_1080p,Tomoya,0,0,0,,{Cùng tìm nào. - Let's start looking.}Tìm thôi.
+Dialogue: 0,0:22:41.22,0:22:42.38,UNNM_Main_1080p,Tomoya,0,0,0,,{Trong ngày hôm nay sẽ tìm được. - We'll find your body today.}Nội trong hôm nay sẽ tìm được.
+Dialogue: 0,0:22:46.85,0:22:47.81,UNNM_Main_1080p,Aoi,0,0,0,,Chờ mình với!{Wait!}
+Dialogue: 0,0:22:48.85,0:22:49.56,UNNM_Main_1080p,Aoi,0,0,0,,Ryou!{Ryou!}
+Dialogue: 0,0:23:02.53,0:23:03.07,UNNM_Main_1080p,Aoi,0,0,0,,Ryou!{Ryou!}
+Dialogue: 0,0:23:03.07,0:23:04.07,UNNM_Main_1080p,Ryou,0,0,0,,{Đừng có đến đây. - Go away!}Đừng có lại gần!
+Dialogue: 0,0:23:06.37,0:23:07.45,UNNM_Main_1080p,Ryou,0,0,0,,Để tui yên.{Just leave me alone.}
+Dialogue: 0,0:23:11.50,0:23:12.66,UNNM_Main_1080p,Tomoya,0,0,0,,Mẹ nó!{Damn!}
+Dialogue: 0,0:23:14.67,0:23:18.38,UNNM_Main_1080p,Ayane,0,0,0,,{\q2}Biết ngay là cậu không đi xa được khỏi cơ thể mà. {It doesn't help that you can't \Ngo too far from your body.}
+Dialogue: 0,0:23:18.38,0:23:20.88,UNNM_Main_1080p,Tomoya,0,0,0,,{Nhưng em nhất định sẽ tìm ra. - Still, I won't stop until we find yours.}Kệ, nhất định em phải tìm cho ra.
+Dialogue: 0,0:23:22.92,0:23:23.97,UNNM_Main_1080p,Ayane,0,0,0,,Tomoya.{Tomoya.}
+Dialogue: 0,0:23:27.60,0:23:28.80,UNNM_Main_1080p,Ryou,0,0,0,,{Để cho tôi được yên đi. - Please, leave me alone.}Để tui ở một mình đi.
+Dialogue: 0,0:23:31.14,0:23:32.22,UNNM_Main_1080p,Ryou,0,0,0,,{Mặc dù đã rõ. - I knew it all along.}Tui biết thừa.
+Dialogue: 0,0:23:33.64,0:23:35.65,UNNM_Main_1080p,Ryou,0,0,0,,{Chỉ làm khổ bản thân thêm thôi. - Meeting up with you guys was a mistake.}Quen nhau chỉ thêm đau.
+Dialogue: 0,0:23:37.77,0:23:40.98,UNNM_Main_1080p,Ryou,0,0,0,,{[/q2]Nếu đã chết thì một mình tôi đủ rồi, - I would've suffered so much less \Nif I'd just let myself die alone.}Nếu sắp chết thì thôi thà chết một mình cho rồi.
+Dialogue: 0,0:23:42.49,0:23:44.32,UNNM_Main_1080p,Ryou,0,0,0,,{tại sao lại gặp các người chứ. - Why did I do this to myself?}Vậy mà tui vẫn đâm đầu \Ngặp mấy người làm gì không biết?
+Dialogue: 0,0:23:46.16,0:23:47.45,UNNM_Main_1080p,Ryou,0,0,0,,{Tại sao chỉ có tôi... - Why me?}Tại sao chứ?
+Dialogue: 0,0:23:49.12,0:23:50.41,UNNM_Main_1080p,Ryou,0,0,0,,{là mọi chuyện xấu đi chứ. - Why is the world so unfair?}Sao chỉ có tui là cuộc đời bi đát vậy?
+Dialogue: 0,0:23:51.83,0:23:52.79,UNNM_Main_1080p,Aoi,0,0,0,,Ryou.{Ryou.}
+Dialogue: 0,0:23:53.87,0:23:58.17,UNNM_Main_1080p,Aoi,0,0,0,,{[/q2]Tôi không có quyền để nói gì nhưng,\Ntôi muốn ông nghe. - I won't try to pretend I understand, \Nbut at least hear me out.}Mình không có tư cách gì để dạy đời bạn,\N nhưng mong bạn nghe chuyện của mình.
+Dialogue: 0,0:23:59.38,0:24:02.46,UNNM_Main_1080p,Aoi,0,0,0,,{Tôi nhé, bị bắt nạt ở trường. - I get bullied pretty hard at school.}Chuyện là mình bị bắt nạt ở trường.
+Dialogue: 0,0:24:03.42,0:24:05.17,UNNM_Main_1080p,Aoi,0,0,0,,{Lúc nào cũng đau khổ. - It's put me in some dark places.}Lúc nào cũng thấy âm u.
+Dialogue: 0,0:24:06.18,0:24:11.68,UNNM_Main_1080p,Aoi,0,0,0,,{[/q2]Ý nghĩa sống hay gì đó,\Nthực sự chả hiểu gì luôn. - I'd begun to lose hope that \NI'd ever understand why I'm even alive.}Dần dà mình bắt đầu mất phương hướng, \Nđến độ còn không biết sống tiếp để làm gì.
+Dialogue: 0,0:24:12.93,0:24:18.60,UNNM_Main_1080p,Aoi,0,0,0,,{[/q2]Vì muốn một câu trả lời mới,\Nnên đã tìm đến hồn ma. - To me, searching for a ghost \Nwas a search for new answers.}Nên là mình mới tìm đến hồn ma,\N mong muốn nhận được câu trả lời mới.
+Dialogue: 0,0:24:19.56,0:24:22.57,UNNM_Main_1080p,Aoi,0,0,0,,{[/q2]Có thể khác hoàn toàn với Ryou. - You might be struggling with \Nsomething completely different,}Có thể bạn phải trải qua những khổ sở khác với mình,
+Dialogue: 0,0:24:22.90,0:24:26.15,UNNM_Main_1080p,Aoi,0,0,0,,{Nhưng, nhất định Tomoya\Ncũng có điều phiền muộn. - but I'm sure Tomoya's fighting \Na battle of his own, too.}nhưng mình chắc là Tomoya cũng vậy thôi. \NCũng phải đối mặt với khó khăn riêng.
+Dialogue: 0,0:24:27.53,0:24:31.37,UNNM_Main_1080p,Aoi,0,0,0,,{[/q2]Cuộc gặp mặt của chúng ta\Nnhất định là có ý nghĩa nào đó. - There has to be some meaning \Nin the three of us getting together.}Ba đứa gặp gỡ được nhau \Nchắc hẳn phải có ý nghĩa nào đó.
+Dialogue: 0,0:24:35.00,0:24:36.12,UNNM_Main_1080p,Tomoya,0,0,0,,Chết rồi!{No way!}
+Dialogue: 0,0:24:38.75,0:24:40.21,UNNM_Main_1080p,Tomoya,0,0,0,,Chị Ayane.{Ayane.}
+Dialogue: 0,0:24:40.21,0:24:41.46,UNNM_Main_1080p,Tomoya,0,0,0,,Chị Ayane!{Ayane!}
+Dialogue: 0,0:24:41.92,0:24:43.30,UNNM_Main_1080p,Tomoya,0,0,0,,{Chị có nghe thấy em không? - Can you hear me?}Nghe thấy em không?
+Dialogue: 0,0:24:47.68,0:24:50.30,UNNM_Main_1080p,Ryou,0,0,0,,{[/q2]Tomoya mà chuẩn bị hời hợt như vậy sao? - I wouldn't expect you of all people \Nto come so poorly prepared.}Tưởng ai chứ Tomoya mà \Nchuẩn bị hời hợt thì hơi bị lạ đó.
+Dialogue: 0,0:24:52.35,0:24:54.68,UNNM_Main_1080p,Ryou,0,0,0,,{Thực sự có đang tìm kiếm không đấy. - Are you even trying, dude?}Có đang tìm đàng hoàng không đó cha?
+Dialogue: 0,0:24:59.60,0:25:00.52,UNNM_Main_1080p,Tomoya,0,0,0,,Mình xin lỗi.{I'm sorry.}
+Dialogue: 0,0:25:01.31,0:25:06.90,UNNM_Main_1080p,Tomoya,0,0,0,,{[/q2] chỉ nghĩ cho bản thân,\Ntôi chẳng nghĩ gì cho chuyện của Ryou cả. - I was so focused on myself, \NI didn't consider your situation at all.}Vì chỉ mải mê lo chuyện bản thân \Nmà không thèm để tâm tới chuyện của bạn.
+Dialogue: 0,0:25:07.53,0:25:10.11,UNNM_Main_1080p,Ryou,0,0,0,,{Tôi, rất ghét những loại người như ông. - I hate people like you.}Nói thiệt, tui ghét những người giống ông lắm.
+Dialogue: 0,0:25:11.32,0:25:13.45,UNNM_Main_1080p,Ryou,0,0,0,,Suốt ngày ra vẻ cái gì cũng biết.{You think you've got it all figured out,}
+Dialogue: 0,0:25:13.70,0:25:16.37,UNNM_Main_1080p,Ryou,0,0,0,,{Đã thế còn làm vẻ mặt\Nnhư mình đáng thương nhất vậy. - and yet you look more pitiful than anyone.}Xong cứ làm cái mặt như kiểu \Nkhông ai đáng thương bằng mình.
+Dialogue: 0,0:25:18.62,0:25:20.12,UNNM_Main_1080p,Ryou,0,0,0,,{Nhưng tôi sẽ giúp. - But I guess I can help you.}Nhưng thôi, để tui giúp.
+Dialogue: 0,0:25:21.04,0:25:22.46,UNNM_Main_1080p,Ryou,0,0,0,,{Hãy cảm ơn Aoi ấy. - You better thank Aoi for this.}Có cảm ơn thì cảm ơn Aoi kìa.
+Dialogue: 0,0:25:24.38,0:25:25.21,UNNM_Main_1080p,Tomoya,0,0,0,,Ryou.{Ryou.}
+Dialogue: 0,0:25:27.42,0:25:28.55,UNNM_Main_1080p,Ryou,0,0,0,,{Nhanh tiến hành đi. - Let's get this over with.}Vào việc thôi.
+Dialogue: 0,0:25:32.47,0:25:33.64,UNNM_Main_1080p,Tomoya,0,0,0,,Cảm ơn hai người.{Thank you.}
+Dialogue: 0,0:25:58.95,0:26:01.08,UNNM_Main_1080p,Ayane,0,0,0,,{Liệu sẽ tìm được cơ thể không nhỉ? - You think we'll find it?}Không biết sẽ tìm được không ha?
+Dialogue: 0,0:26:01.42,0:26:04.21,UNNM_Main_1080p,Tomoya,0,0,0,,{Sẽ tìm được chứ, với bốn người chúng ta. - Of course. There's four of us now.}Được chứ. Bốn người lận mà.
+Dialogue: 0,0:26:06.25,0:26:09.13,UNNM_Main_1080p,Ayane,0,0,0,,{Tôi không nghĩ là các cậu\Nlại tìm giúp tôi như thế này. - I didn't think you'd go this far for me.}Tôi đâu dám nghĩ là mọi người \Nsẽ làm đến mức này vì tôi.
+Dialogue: 0,0:26:09.84,0:26:11.77,UNNM_Main_1080p,Ayane,0,0,0,,{Tôi rất biết ơn ba người. - I'm grateful towards all of you.}Biết ơn cả ba lắm luôn.
+Dialogue: 0,0:26:12.59,0:26:14.55,UNNM_Main_1080p,Ayane,0,0,0,,{Quả nhiên bạn bè là thứ chúng ta luôn nên giữ ở gần. - Nothing beats having friends, huh?}Công nhận không gì tuyệt bằng bạn bè ha?
+Dialogue: 0,0:26:15.72,0:26:16.68,UNNM_Main_1080p,Ayane,0,0,0,,{Phải quý trọng họ đó. - Make sure to cherish them.}Nhớ quý trọng người ta đó.
+Dialogue: 0,0:26:19.60,0:26:21.02,UNNM_Main_1080p,Aoi,0,0,0,,Tomoya!{Tomoya!}
+Dialogue: 0,0:26:21.35,0:26:22.73,UNNM_Main_1080p,Tomoya,0,0,0,,Aoi? Sao vậy?{Aoi? What's wrong?}
+Dialogue: 0,0:26:22.73,0:26:23.70,UNNM_Main_1080p,Aoi,0,0,0,,Đến đây nhanh!{Come quickly!}
+Dialogue: 0,0:26:24.15,0:26:27.15,UNNM_Main_1080p,Aoi,0,0,0,,{Có khi chúng tôi đã tìm thấy vali. - I think I might've found the suitcase.}Hình như mình tìm thấy cái vali rồi.
+Dialogue: 0,0:26:32.03,0:26:33.74,UNNM_Main_1080p,Aoi,0,0,0,,{Ayane, cái đó. - Look there, Ayane.}Nhìn kìa chị Ayane.
+Dialogue: 0,0:26:34.20,0:26:35.83,UNNM_Main_1080p,Ayane,0,0,0,,{Ừ, tôi sẽ lên nhìn. - Thanks. I'll go check it out.}Ừm, để tôi đi kiểm tra.
+Dialogue: 0,0:26:38.54,0:26:40.33,UNNM_Main_1080p,Aoi,0,0,0,,{Ayane sẽ ra sao nhỉ? - I wonder what's gonna happen to her.}Không biết chỉ sẽ ra sao ha?
+Dialogue: 0,0:26:41.21,0:26:44.92,UNNM_Main_1080p,Aoi,0,0,0,,Có khi nào khi tìm thấy cơ thể\N là biến mất luôn hông?{Will she disappear once she finds her body?}
+Dialogue: 0,0:26:46.13,0:26:47.92,UNNM_Main_1080p,Aoi,0,0,0,,{Cảm giác cứ buồn buồn kiểu gì á. - That's a little sad.}Nghe sao mà thấy buồn buồn kiểu gì á.
+Dialogue: 0,0:26:51.26,0:26:53.43,UNNM_Main_1080p,Ayane,0,0,0,,{Chính là nó. Tôi có ở trong đây. - You were right. I'm in there.}Đúng nó rồi. Có tôi ở trong này.
+Dialogue: 0,0:26:53.68,0:26:55.76,UNNM_Main_1080p,Ryou,0,0,0,,{Thật à? Nhanh chóng quay lại mau. - Great! Let's get back.}Ngon! Khẩn trương quay về thôi.
+Dialogue: 0,0:26:55.76,0:26:56.14,UNNM_Main_1080p,Aoi,0,0,0,,{Yeah.}Ừm.
+Dialogue: 0,0:26:57.97,0:26:58.81,UNNM_Main_1080p,Ayane,0,0,0,,Mừng quá.{I'm so happy.}
+Dialogue: 0,0:26:59.93,0:27:02.49,UNNM_Main_1080p,Ayane,0,0,0,,{Giờ thì mẹ có thể thoải mái được rồi. - Hopefully my mom can rest easy now.}Giờ thì mẹ tôi có thể yên lòng rồi.
+Dialogue: 0,0:27:03.19,0:27:05.98,UNNM_Main_1080p,Tomoya,0,0,0,,{Quả nhiên là, Ayane sẽ biến mất sao? - So you are gonna disappear.}Vậy là chị sẽ biến mất thật à?
+Dialogue: 0,0:27:06.69,0:27:07.90,UNNM_Main_1080p,Ayane,0,0,0,,Có khi vậy.{I'd expect so.}
+Dialogue: 0,0:27:08.65,0:27:10.65,UNNM_Main_1080p,Ayane,0,0,0,,Nhưng tôi vui lắm.{But I had a lot of fun.}
+Dialogue: 0,0:27:10.65,0:27:12.82,UNNM_Main_1080p,Ayane,0,0,0,,Đến tận phút cuối đời \Nvẫn có được kỷ niệm đẹp thế này.{I made the most of my remaining time here.}
+Dialogue: 0,0:27:17.03,0:27:17.78,UNNM_Main_1080p,Ayane,0,0,0,,Tomoya.{Tomoya.}
+Dialogue: 0,0:27:19.24,0:27:20.46,UNNM_Main_1080p,Ayane,0,0,0,,Cố gắng lên.{Hang in there.}
+Dialogue: 0,0:27:24.00,0:27:27.38,UNNM_Main_1080p,Ayane,0,0,0,,Cậu liệu mà sống cho hết mình đó.{You have to keep on living.}
+Dialogue: 0,0:27:29.38,0:27:31.38,UNNM_Main_1080p,Ryou,0,0,0,,Ồ. Tỉnh rồi.{Look. He's finally awake.}
+Dialogue: 0,0:27:31.63,0:27:33.30,UNNM_Main_1080p,Ryou,0,0,0,,Sao cứ ngẩn người ra thế?{What are you spacing out for?}
+Dialogue: 0,0:27:33.30,0:27:33.92,UNNM_Main_1080p,Ryou,0,0,0,,Đi thôi!{Let's go!}
+Dialogue: 0,0:27:33.92,0:27:35.26,UNNM_Main_1080p,Tomoya,0,0,0,,{Ờ, ừ. - Sure.}Ừm.
+Dialogue: 0,0:27:35.55,0:27:37.05,UNNM_Main_1080p,Ayane,0,0,0,,Tôi lo lắm đó.{I'm a little worried.}
+Dialogue: 0,0:27:37.05,0:27:39.47,UNNM_Main_1080p,Ayane,0,0,0,,{Làm hồn ma cũng chẳng có gì vui lắm đâu. - You had so much fun while you were a ghost.}Thấy cậu trong lúc làm ma vui quá trời
+Dialogue: 0,0:27:40.26,0:27:46.02,UNNM_Main_1080p,Ayane,0,0,0,,{[/q2]Đừng có nghĩ là chết đi chút thôi\Ncũng không tệ lắm đâu nhá. - I hope you haven't started thinking \Ndeath might not be so bad.}nên tôi cứ sợ là cậu bắt đầu nghĩ\N chết đi cũng không tệ lắm.
+Dialogue: 0,0:27:47.77,0:27:48.98,UNNM_Main_1080p,Ayane,0,0,0,,{Thiệt tình mà. - My, oh my.}Khổ với cậu thiệt.
+Dialogue: 0,0:27:52.48,0:27:55.10,UNNM_Main_1080p,Ayane,0,0,0,,{Xin lỗi nhé vì cái tính ích kỷ này. - I'm sorry for dragging you into this.}Xin lỗi vì đã lôi cậu vào chuyện này.
+Dialogue: 0,0:27:59.28,0:27:59.70,UNNM_Main_1080p,Tomoya,0,0,0,,Ryou!{Ryou!}
+Dialogue: 0,0:27:59.70,0:28:01.29,UNNM_Main_1080p,Ryou,0,0,0,,{Kệ tôi, cứ đi trước đi. - I'm fine. Go on without me.}Cứ đi đi. Không cần lo.
+Dialogue: 0,0:28:02.12,0:28:03.87,UNNM_Main_1080p,Ryou,0,0,0,,Đừng để chị Ayane chờ lâu quá.{Don't make Ayane wait.}
+Dialogue: 0,0:28:11.50,0:28:12.50,UNNM_Main_1080p,Tomoya,0,0,0,,{Là nơi này. - It's gotta be here.}Chắc là ở đây nè.
+Dialogue: 0,0:28:12.50,0:28:13.34,UNNM_Main_1080p,Aoi,0,0,0,,{Yeah.}Ừm.
+Dialogue: 0,0:28:13.80,0:28:15.01,UNNM_Main_1080p,Aoi,0,0,0,,{Nhưng mà cái này. - But how do we get over?}Nhưng leo qua kiểu gì đây?
+Dialogue: 0,0:28:15.84,0:28:19.72,UNNM_Main_1080p,Ayane,0,0,0,,{[/q2]Tomoya đã lo lắng như vậy,\Ntôi thì lại tự ý dẫn cậu đi lung tung. - You're going through your own thing, \Nand I selfishly dragged you into mine.}Bản thân cậu đang loay hoay khổ sở thì chớ,\Nvậy mà tôi cứ tự ý kéo cậu vào chuyện của mình.
+Dialogue: 0,0:28:21.18,0:28:21.89,UNNM_Main_1080p,Ayane,0,0,0,,{Kết cục, - And after all that,}Để rồi đến cuối,
+Dialogue: 0,0:28:23.10,0:28:25.18,UNNM_Main_1080p,Ayane,0,0,0,,{tôi lại để cậu lại đi mất. - I'm going to move on without you.}tôi vẫn phải bỏ cậu ở lại.
+Dialogue: 0,0:28:26.60,0:28:28.27,UNNM_Main_1080p,Ayane,0,0,0,,{Đừng có mà buồn ấy nhá. - Don't miss me, please.}Đừng có buồn nha.
+Dialogue: 0,0:28:28.27,0:28:29.15,UNNM_Main_1080p,Tomoya,0,0,0,,Em...{I...}
+Dialogue: 0,0:28:30.31,0:28:31.94,UNNM_Main_1080p,Tomoya,0,0,0,,muốn tìm thấy chị Ayane.{I want to find you, Ayane.}
+Dialogue: 0,0:28:32.57,0:28:33.73,UNNM_Main_1080p,Tomoya,0,0,0,,{Bây giờ thì chỉ thế thôi. - That's all that matters right now.}Giờ em chỉ quan tâm nhiêu đó thôi.
+Dialogue: 0,0:28:37.40,0:28:38.28,UNNM_Main_1080p,Ayane,0,0,0,,Rồi.{Okay.}
+Dialogue: 0,0:28:41.53,0:28:43.62,UNNM_Main_1080p,Ayane,0,0,0,check,{Chắc chắn là cậu cũng đã hiểu rõ rồi nhỉ. - I'm sure that'll give you your answer.}Tôi tin chắc là cậu sẽ hiểu thôi.
+Dialogue: 0,0:28:44.45,0:28:48.83,UNNM_Main_1080p,Ayane,0,0,0,,{\q2}Thời khắc sinh mạng cậu chấm dứt nằm ở tương lai. \NTrong khi đối với tôi thì nó nằm trong quá khứ.{For you, death is in the future; \Nfor me, it's in the past.}
+Dialogue: 0,0:28:49.92,0:28:52.00,UNNM_Main_1080p,Ayane,0,0,0,chcek,Nó ngăn cách giữa chúng ta.{It's wedged right between us.}
+Dialogue: 0,0:29:01.43,0:29:02.26,UNNM_Main_1080p,Tomoya,0,0,0,,Aoi?{Aoi?}
+Dialogue: 0,0:29:02.26,0:29:05.27,UNNM_Main_1080p,Aoi,0,0,0,,{Còn lại thì nhờ vào cậu đó, Tomoya. - You take it from here, Tomoya!}Phần còn lại cậu phải tự thân rồi, Tomoya!
+Dialogue: 0,0:29:30.33,0:29:30.75,UNNM_Main_1080p,Ayane,0,0,0,,Đi thôi.{Let's go.}
+Dialogue: 0,0:29:31.96,0:29:34.38,UNNM_Main_1080p,Aoi,0,0,0,,Sao vậy, Tomoya?{What's wrong, Tomoya?}
+Dialogue: 0,0:29:34.75,0:29:35.71,UNNM_Main_1080p,Aoi,0,0,0,,Tomoya!{Tomoya!}
+Dialogue: 0,0:29:40.68,0:29:43.64,UNNM_Main_1080p,Ayane,0,0,0,,Vì cậu đã ở trong trạng thái linh hồn\N suốt một thời gian dài,{You spent a lot of time \Ndetached from your body.}
+Dialogue: 0,0:29:44.14,0:29:45.76,UNNM_Main_1080p,Ayane,0,0,0,,nên mới tới đây.{That's why you're here right now.}
+Dialogue: 0,0:29:47.89,0:29:49.06,UNNM_Main_1080p,Ayane,0,0,0,,Chỗ này là cõi chết.{This place is death.}
+Dialogue: 0,0:29:49.94,0:29:51.06,UNNM_Main_1080p,Ayane,0,0,0,,Không có gì hết.{There's nothing here.}
+Dialogue: 0,0:29:51.60,0:29:54.23,UNNM_Main_1080p,Ayane,0,0,0,,Nhưng đây là nơi hội tụ mọi phần trong con người cậu.{But it's also where all of your self is.}
+Dialogue: 0,0:29:57.74,0:29:59.89,UNNM_Main_1080p,Ayane,0,0,0,,{Nếu mà đốt thứ này thì tất cả đều kết thúc. - Once you burn this, it's all over.}Đốt cái này, và mọi thứ chấm dứt.
+Dialogue: 0,0:30:00.45,0:30:02.78,UNNM_Main_1080p,Ayane,0,0,0,,{Và rồi có thể chào tạm biệt thực tại. - You'll part with the real world.}Cậu sẽ tách rời với thực tại.
+Dialogue: 0,0:30:09.08,0:30:11.67,UNNM_Main_1080p,Ayane,0,0,0,,{Quả nhiên là không tốt nhỉ. - Yeah. I guess we shouldn't do this.}Nói gì thì nói, đúng là không nên nhỉ.
+Dialogue: 0,0:30:13.17,0:30:15.00,UNNM_Main_1080p,Ayane,0,0,0,,{Tại sao khuôn mặt cậu lại như vậy? - Why do you look so sad?}{Sao lại làm vẻ mặt đó? - OG}Sao nhìn cậu ủ rũ quá vậy?
+Dialogue: 0,0:30:17.34,0:30:20.34,UNNM_Main_1080p,Ayane,0,0,0,,{Thực ra là cậu muốn thế nào? - What do you truly want?}Thực sự thì cậu muốn điều gì?
+Dialogue: 0,0:30:33.81,0:30:35.15,UNNM_Main_1080p,Ryou,0,0,0,,Tomoya!{Tomoya!}
+Dialogue: 0,0:30:36.32,0:30:38.32,UNNM_Main_1080p,Ryou,0,0,0,,Làm gì vậy cha! Tỉnh giùm tui!{The hell are you doing?! Wake up!}
+Dialogue: 0,0:30:38.32,0:30:38.98,UNNM_Main_1080p,Aoi,0,0,0,,Ryou?{Ryou?}
+Dialogue: 0,0:30:38.98,0:30:41.03,UNNM_Main_1080p,Ryou,0,0,0,,{Là chuyện do ông quyết cơ mà. - You wanted to do this more than anyone.}Chính ông nằng nặc đòi làm cho được mà.
+Dialogue: 0,0:30:41.03,0:30:43.28,UNNM_Main_1080p,Ryou,0,0,0,,Cố làm cho xong chuyện đi!{So see it through the end!}
+Dialogue: 0,0:30:43.28,0:30:45.70,UNNM_Main_1080p,Ryou,0,0,0,,{Đừng có bỏ cuộc ở nơi này. - Why would you give up now?}Tới đây rồi mà còn bỏ cuộc
+Dialogue: 0,0:30:46.53,0:30:48.49,UNNM_Main_1080p,Ryou,0,0,0,,{Tôi không tha cho đâu. - Like hell I'm gonna let you!}thì coi chừng tui!
+Dialogue: 0,0:30:49.45,0:30:52.62,UNNM_Main_1080p,Tomoya,0,0,0,,Không được. Em phải quay về.{No. I have to go back.}
+Dialogue: 0,0:30:52.62,0:30:53.67,UNNM_Main_1080p,Ayane,0,0,0,,Tại sao?{Why?}
+Dialogue: 0,0:30:57.75,0:30:59.38,UNNM_Main_1080p,Ayane,0,0,0,,{Có ý nghĩa gì chứ. - What's the point?}Về đó để được gì?
+Dialogue: 0,0:31:00.05,0:31:03.80,UNNM_Main_1080p,Ayane,0,0,0,,{[/q2]Sao cứ phải bám lấy\Ncái thế giới khắc nghiệt đến như vậy? - Why would you cling onto a world \Nthat only makes you suffer?}Sao cứ phải bấu víu cái thế giới\N mà hở mở mắt ra là thấy bứt rứt trong người?
+Dialogue: 0,0:31:08.68,0:31:09.31,UNNM_Main_1080p,Ayane,0,0,0,,Tại sao chứ?!{Why?!}
+Dialogue: 0,0:31:15.15,0:31:18.77,UNNM_Main_1080p,Tomoya,0,0,0,,{Đúng là toàn những điều mà em chán ghét. - You're right. My life's nothing but a chore.}Chị nói đúng. Đời em chỉ toàn chuyện đáng ghét.
+Dialogue: 0,0:31:20.03,0:31:21.44,UNNM_Main_1080p,Tomoya,0,0,0,,{Nhưng vẫn chưa kết thúc. - But it's not over yet!}Nhưng nó vẫn chưa kết thúc!
+Dialogue: 0,0:31:22.57,0:31:25.28,UNNM_Main_1080p,Tomoya,0,0,0,,{Với Ryou và Aoi. - Just like Ryou and Aoi,}Những con người giống như Ryou với Aoi,
+Dialogue: 0,0:31:25.78,0:31:29.95,UNNM_Main_1080p,Tomoya,0,0,0,,{[/q2]Chỉ cần ngẩng mặt lên một chút\Nlà có thể có những cuộc gặp gỡ mới lạ. - I learned that if you just look up, \Nthere's always someone waiting to pick you up.}em học được rằng chỉ cần ngẩng mặt lên\N là sẽ gặp được những con người mới lạ.
+Dialogue: 0,0:31:31.20,0:31:33.33,UNNM_Main_1080p,Tomoya,0,0,0,,Mi không phải chị Ayane.{You're not Ayane.}
+Dialogue: 0,0:31:33.33,0:31:35.29,UNNM_Main_1080p,Tomoya,0,0,0,,{[/q2]Chính là tôi đang đi tìm lý do để chết. - You're the part of me that's \Nlooking for a reason to die!}Mà là một phần trong tôi,\Nphần kiếm tìm lý do để chết!
+Dialogue: 0,0:31:36.21,0:31:40.42,UNNM_Main_1080p,Tomoya,0,0,0,,Tôi phải trở về thực tại và đi tìm chị Ayane.{I need to get back to \Nthe real world and find Ayane.}
+Dialogue: 0,0:31:41.09,0:31:42.80,UNNM_Main_1080p,Tomoya,0,0,0,,{Với tôi thì sẽ là một ngày nào đó, - My time's going to come one day.}Sự thật rằng một mai tôi phải lìa đời.
+Dialogue: 0,0:31:43.67,0:31:46.01,UNNM_Main_1080p,Tomoya,0,0,0,,{Với Ayane thì đã qua rồi. - Ayane's time has already passed.}Sự thật rằng quãng đời của chị Ayane đã chấm dứt.
+Dialogue: 0,0:31:46.72,0:31:47.68,UNNM_Main_1080p,Tomoya,0,0,0,,Tôi...{I've...}
+Dialogue: 0,0:31:48.30,0:31:50.60,UNNM_Main_1080p,Tomoya,0,0,0,,Tôi phải học cách chấp nhận\N những điều đó trước mới được!{I've gotta come to terms with those things first!}
+Dialogue: 0,0:32:13.45,0:32:13.95,UNNM_Main_1080p,Aoi,0,0,0,,Tomoya!{Tomoya!}
+Dialogue: 0,0:32:13.95,0:32:14.37,UNNM_Main_1080p,Ryou,0,0,0,,Tomoya!{Tomoya!}
+Dialogue: 0,0:32:45.74,0:32:46.78,UNNM_Main_1080p,Tomoya,0,0,0,,Tốt quá rồi.{I'm so glad.}
+Dialogue: 0,0:33:00.00,0:33:02.88,UNNM_Main_1080p,Ayane,0,0,0,,Cảm ơn cậu vì đã tìm thấy tôi.{Thank you for finding me.}
+Dialogue: 0,0:33:19.39,0:33:20.60,UNNM_Main_1080p,Tomoya's Mom,0,0,0,,Tới liền.{Coming.}
+Dialogue: 0,0:33:33.58,0:33:34.49,UNNM_Main_1080p,Tomoya's Mom,0,0,0,,Ayane?{Ayane?}
+Dialogue: 0,0:34:17.66,0:34:20.50,UNNM_Main_1080p,Tomoya,0,0,0,,{So, summer's come again, huh?}Lại tới mùa hè rồi ha?
+Dialogue: 0,0:34:24.63,0:34:27.42,UNNM_Main_1080p,Ryou,0,0,0,,{Này, sau đấy hai người thế nào? - How have you guys been doing?}Sao rồi? Từ đó tới nay vẫn ổn chứ?
+Dialogue: 0,0:34:28.05,0:34:29.46,UNNM_Main_1080p,Ryou,0,0,0,,{Có đang sống khỏe mạnh không đấy? - Things looking up at all?}Có đang sống khoẻ sống vui không đó?
+Dialogue: 0,0:34:32.13,0:34:32.93,UNNM_Main_1080p,Tomoya,0,0,0,,Có.{Yeah.}
+Dialogue: 0,0:34:34.93,0:34:36.05,UNNM_Main_1080p,Tomoya,0,0,0,,Không nhiều thì ít.{Bằng một cách nào đó. - Somewhat.}
+Dialogue: 0,0:34:40.68,0:34:44.56,UNNM_Main_1080p,Tomoya,0,0,0,,{\q2}Sống cho bản thân tưởng dễ\N nhưng hoá ra hơi bị khó nhằn.{Living for yourself isn't the walk \Nin the park I thought it would be.}
+Dialogue: 0,0:34:45.44,0:34:46.19,UNNM_Main_1080p,Aoi,0,0,0,,{Tôi nữa. - Same here.}Mình cũng vậy nè.
+Dialogue: 0,0:34:48.94,0:34:51.53,UNNM_Main_1080p,Aoi,0,0,0,,{Vẫn còn tệ ơi là tệ. - Of course my life isn't suddenly all roses, but...}Vẫn còn tệ ơi là tệ, nhưng mà...
+Dialogue: 0,0:34:56.83,0:35:00.70,UNNM_Main_1080p,Aoi,0,0,0,,{Đừng... có lúc nào cũng đối xử với tôi như trẻ con nữa. - H-How long are you gonna \Nbehave like children?!M-Mấy người tính cư xử như trẻ con tới chừng nào nữa?! - OG}B-Bớt bớt mấy trò trẻ con lại đi!
+Dialogue: 0,0:35:00.70,0:35:02.83,UNNM_Main_1080p,Aoi,0,0,0,,{Nhưng dần dần cũng thay đổi đi từng chút. - But I feel like I'm taking small steps, at least.}Ít ra mình cũng thay đổi mỗi ngày một tí rồi.
+Dialogue: 0,0:35:05.33,0:35:10.21,UNNM_Main_1080p,Tomoya,0,0,0,,{Có lẽ nào cứ làm như ta được bảo sẽ dễ dàng hơn. - Maybe it'd be easier \Nif I just did what I was told.}Biết đâu được bảo gì làm đó \Nthì cuộc đời sẽ an nhàn hơn.
+Dialogue: 0,0:35:11.34,0:35:12.84,UNNM_Main_1080p,Tomoya,0,0,0,,{Đôi khi tôi cũng suy nghĩ. - I do doubt myself sometimes.}Lâu lâu cũng hoài nghi lắm.
+Dialogue: 0,0:35:14.55,0:35:15.43,UNNM_Main_1080p,Tomoya,0,0,0,,Nhưng mà kệ đi.{But it's fine.}
+Dialogue: 0,0:35:16.55,0:35:20.60,UNNM_Main_1080p,Tomoya,0,0,0,,{Dù có chuyện gì. - All things eventually come to an end.}Cái gì rồi cũng có ngày đi đến hồi kết.
+Dialogue: 0,0:35:20.89,0:35:23.10,UNNM_Main_1080p,Tomoya,0,0,0,,{Đằng nào cũng sẽ kết thúc,\Nthì không có gì phải sợ nữa. - Whenever I think that, all my fear disappears.}Mỗi lần nhớ tới chuyện đó thì lòng lại không còn sợ gì.
+Dialogue: 0,0:35:25.35,0:35:28.86,UNNM_Main_1080p,Tomoya,0,0,0,,{Tôi sẽ lựa chọn bản thân mình để tiến bước. - I'll be the one to make \Nthe decisions for myself.}Chính mình sẽ tự chọn con đường để bước đi.
+Dialogue: 0,0:35:34.36,0:35:35.45,UNNM_Main_1080p,Ryou,0,0,0,,{Tốt quá. - Good for you.}Vậy thì mừng.
+Dialogue: 0,0:35:41.58,0:35:42.87,UNNM_Main_1080p,Ryou,0,0,0,,{Sắp hết giờ rồi. - We're running out of time.}Coi bộ sắp hết giờ rồi.
+Dialogue: 0,0:35:43.83,0:35:45.67,UNNM_Main_1080p,Ryou,0,0,0,,{Thật mừng vì được nói chuyện với hai người. - I'm glad I got to talk to you guys.}Được trò chuyện với hai người, tui vui lắm.
+Dialogue: 0,0:35:46.42,0:35:48.38,UNNM_Main_1080p,Ryou,0,0,0,,{Vì lúc cuối không có cơ hội. - Since I didn't get to say goodbye.}Vì lúc ra đi đâu có nói được lời từ biệt.
+Dialogue: 0,0:35:52.76,0:35:54.63,UNNM_Main_1080p,Ryou,0,0,0,,Tại sao mình lại được sinh ra?{Why was I even born?}
+Dialogue: 0,0:35:55.38,0:35:57.34,UNNM_Main_1080p,Ryou,0,0,0,,{Tôi đã suy nghĩ về chuyện đó suốt. - That's the only thought \Nthat crossed my mind.}Đầu tui lúc nào cũng nghĩ về chuyện đó.
+Dialogue: 0,0:35:59.10,0:36:05.02,UNNM_Main_1080p,Ryou,0,0,0,,{[/q2]Nhưng, tôi tin là mình sẽ khỏi,\Nvà đã sống được đến mùa xuân. - But I got to see the next spring \Nbecause I believed I could be cured.}Nhưng tui sống được đến xuân năm sau \Ncũng vì tin rằng mình sẽ sớm khỏi.
+Dialogue: 0,0:36:06.90,0:36:10.69,UNNM_Main_1080p,Ryou,0,0,0,,{\q2}Đừng có khóc cho cái thằng \Nđã ngỏm từ nửa năm trước chứ.{Stop crying over someone \Nwho's been dead for months.}
+Dialogue: 0,0:36:11.73,0:36:14.99,UNNM_Main_1080p,Ryou,0,0,0,,{Nếu là hai người thì việc gì cũng sẽ qua thôi. - I'm sure things will work out for both of you.}Nếu là hai người thì gặp chuyện gì \Ncũng sẽ đâu vào đó thôi.
+Dialogue: 0,0:36:15.78,0:36:19.12,UNNM_Main_1080p,Ryou,0,0,0,,{Không có bảo đảm, nhưng để tôi bảo kê cho. - I don't have any proof of that, \Nbut I guarantee you they will.}Không có gì làm minh chứng,\N nhưng tui nói có là có.
+Dialogue: 0,0:36:20.28,0:36:21.04,UNNM_Main_1080p,Ryou,0,0,0,,Tomoya.{Tomoya.}
+Dialogue: 0,0:36:22.29,0:36:23.12,UNNM_Main_1080p,Ryou,0,0,0,,Aoi.{Aoi.}
+Dialogue: 0,0:36:24.91,0:36:26.21,UNNM_Main_1080p,Ryou,0,0,0,,{Cố gắng mà sống cho tốt nhá. - Live your best lives.}Ráng sống cho viên mãn đó.
+Dialogue: 0,0:36:49.02,0:36:50.12,UNNM_Main_1080p,Aoi,0,0,0,,Về thôi.{Let's head back.}
+Dialogue: 0,0:36:53.36,0:36:54.18,UNNM_Main_1080p,Tomoya,0,0,0,,Ừm.{Sure.}
