@@ -7,7 +7,7 @@
 
 ### Staff
 
-![](https://github.com/rainei-miscellaneous/Summer-Ghost/blob/main/assets/Staff.png)
+![](https://github.com/Unanimous-Sub/Summer-Ghost/blob/main/assets/Staff.png)
 
 ### Video
 
