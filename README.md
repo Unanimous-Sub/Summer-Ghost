@@ -9,7 +9,8 @@
 
 ![](https://github.com/Unanimous-Sub/Summer-Ghost/blob/main/assets/Staff.png)
 
-**Xin cảm ơn đặc biệt tới / Special thanks to:** Eagle, Asakura, gsk_
+> [!NOTE]
+> **Xin cảm ơn đặc biệt tới / Special thanks to:** Eagle, Asakura, gsk_
 
 ### Video
 
