@@ -12,6 +12,7 @@
 !*.sub
 !*.sup
 !*/
+!assets/*
 *keyframes.txt
 
 # Fonts

@@ -47,7 +47,7 @@ subs {
 
     chapters {
         from(merge.item())
-        chapterMarker("chptr")
+        chapterMarker("chapter")
     }
 
     mux {
